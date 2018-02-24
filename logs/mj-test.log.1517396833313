@@ -1,0 +1,12 @@
+INFO  12:04:13,160 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  12:04:13,187 - #3 program
+INFO  12:04:13,187 - #2 P
+INFO  12:04:13,187 - #28 const
+INFO  12:04:13,187 - #2 int
+INFO  12:04:13,188 - #2 size
+INFO  12:04:13,188 - #25 =
+INFO  12:04:13,188 - #24 10
+INFO  12:04:13,188 - #17 ;
+INFO  12:04:13,188 - #4 {
+INFO  12:04:13,189 - #5 }
+INFO  12:04:13,194 - Deklarisana simblolicka konstanta size na liniji 2 objektni cvor: rs.etf.pp1.symboltable.concepts.Obj@6576fe71 na liniji 2

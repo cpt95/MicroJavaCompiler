@@ -1,0 +1,81 @@
+INFO  17:35:31,411 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  17:35:31,444 - #6 program
+INFO  17:35:31,444 - #2 test301
+INFO  17:35:31,444 - #28 const
+INFO  17:35:31,445 - #2 int
+INFO  17:35:31,445 - #2 jedan
+INFO  17:35:31,445 - #27 =
+INFO  17:35:31,445 - #3 1
+INFO  17:35:31,445 - #20 ;
+INFO  17:35:31,445 - #28 const
+INFO  17:35:31,446 - #2 int
+INFO  17:35:31,446 - #2 pet
+INFO  17:35:31,446 - #27 =
+INFO  17:35:31,446 - #3 5
+INFO  17:35:31,446 - #20 ;
+INFO  17:35:31,446 - #2 int
+INFO  17:35:31,446 - #2 niz
+INFO  17:35:31,446 - #13 [
+INFO  17:35:31,446 - #14 ]
+INFO  17:35:31,446 - #20 ;
+INFO  17:35:31,446 - #2 char
+INFO  17:35:31,447 - #2 nizch
+INFO  17:35:31,447 - #13 [
+INFO  17:35:31,447 - #14 ]
+INFO  17:35:31,447 - #20 ;
+INFO  17:35:31,447 - #7 {
+INFO  17:35:31,447 - #44 void
+INFO  17:35:31,447 - #2 main
+INFO  17:35:31,447 - #9 (
+INFO  17:35:31,447 - #10 )
+INFO  17:35:31,448 - #2 int
+INFO  17:35:31,448 - #2 bodovi
+INFO  17:35:31,448 - #20 ;
+INFO  17:35:31,448 - #7 {
+INFO  17:35:31,448 - #2 bodovi
+INFO  17:35:31,448 - #27 =
+INFO  17:35:31,449 - #3 0
+INFO  17:35:31,449 - #20 ;
+INFO  17:35:31,449 - #2 bodovi
+INFO  17:35:31,449 - #16 ++
+INFO  17:35:31,449 - #20 ;
+INFO  17:35:31,450 - #2 bodovi
+INFO  17:35:31,450 - #27 =
+INFO  17:35:31,450 - #2 bodovi
+INFO  17:35:31,450 - #31 +
+INFO  17:35:31,450 - #2 jedan
+INFO  17:35:31,450 - #20 ;
+INFO  17:35:31,450 - #2 bodovi
+INFO  17:35:31,450 - #27 =
+INFO  17:35:31,450 - #2 bodovi
+INFO  17:35:31,450 - #33 *
+INFO  17:35:31,451 - #2 pet
+INFO  17:35:31,451 - #20 ;
+INFO  17:35:31,451 - #2 bodovi
+INFO  17:35:31,451 - #17 --
+INFO  17:35:31,451 - #20 ;
+INFO  17:35:31,451 - #26 print
+INFO  17:35:31,451 - #9 (
+INFO  17:35:31,451 - #2 bodovi
+INFO  17:35:31,451 - #10 )
+INFO  17:35:31,452 - #20 ;
+INFO  17:35:31,452 - #8 }
+INFO  17:35:31,452 - #8 }
+INFO  17:35:31,459 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  17:35:31,459 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  17:35:31,459 - Deklarisana globalna promenljiva <niz>: na liniji 8
+INFO  17:35:31,459 - Deklarisana globalna promenljiva <nizch>: na liniji 10
+INFO  17:35:31,459 - Obrada metode <main>: na liniji 13
+INFO  17:35:31,460 - Deklarisana lokalna promenljiva <bodovi>: na liniji 14
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 16
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 17
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 18
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 18
+INFO  17:35:31,460 - Pristup simbolu <jedan>: na liniji 18
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 19
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 19
+INFO  17:35:31,460 - Pristup simbolu <pet>: na liniji 19
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 20
+INFO  17:35:31,460 - Pristup simbolu <bodovi>: na liniji 21
+INFO  17:35:31,461 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  17:35:31,466 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,21 @@
+INFO  12:43:39,301 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  12:43:39,332 - #5 program
+INFO  12:43:39,332 - #2 P
+INFO  12:43:39,332 - #28 const
+INFO  12:43:39,333 - #2 int
+INFO  12:43:39,333 - #2 size
+INFO  12:43:39,333 - #26 =
+INFO  12:43:39,334 - #3 10
+INFO  12:43:39,334 - #19 ;
+INFO  12:43:39,334 - #28 const
+INFO  12:43:39,334 - #2 bool
+INFO  12:43:39,334 - #2 b
+INFO  12:43:39,335 - #26 =
+INFO  12:43:39,335 - #2 false
+ERROR 12:43:39,335 - 
+Sintaksna greska na liniji 4
+INFO  12:43:39,335 - #19 ;
+INFO  12:43:39,335 - #6 {
+INFO  12:43:39,335 - #7 }
+DEBUG 12:43:39,335 - Greska pri definiciji simbolicke konstante - OPORAVAK
+INFO  12:43:39,342 - Deklarisana simbolicka konstanta size na liniji: 2 na liniji 2

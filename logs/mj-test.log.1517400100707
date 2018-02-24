@@ -1,0 +1,17 @@
+INFO  13:01:36,564 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  13:01:36,567 - #5 program
+INFO  13:01:36,567 - #2 P
+INFO  13:01:36,567 - #28 const
+INFO  13:01:36,567 - #2 int
+INFO  13:01:36,567 - #2 size
+INFO  13:01:36,567 - #26 =
+INFO  13:01:36,567 - #3 10
+INFO  13:01:36,567 - #19 ;
+INFO  13:01:36,567 - #28 const
+INFO  13:01:36,567 - #2 bool
+INFO  13:01:36,567 - #2 b
+INFO  13:01:36,567 - #26 =
+INFO  13:01:36,567 - #2 false
+INFO  13:01:36,567 - #19 ;
+INFO  13:01:36,568 - #6 {
+INFO  13:01:36,568 - #7 }

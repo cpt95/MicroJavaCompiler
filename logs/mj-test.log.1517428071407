@@ -1,0 +1,57 @@
+INFO  20:42:57,989 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  20:42:58,021 - #6 program
+INFO  20:42:58,021 - #2 P
+INFO  20:42:58,021 - #28 const
+INFO  20:42:58,022 - #2 int
+INFO  20:42:58,022 - #2 size
+INFO  20:42:58,022 - #27 =
+INFO  20:42:58,022 - #3 10
+INFO  20:42:58,022 - #20 ;
+INFO  20:42:58,022 - #28 const
+INFO  20:42:58,023 - #2 int
+INFO  20:42:58,023 - #2 si
+INFO  20:42:58,023 - #27 =
+INFO  20:42:58,023 - #5 t
+INFO  20:42:58,023 - #20 ;
+INFO  20:42:58,023 - #28 const
+INFO  20:42:58,023 - #2 bool
+INFO  20:42:58,023 - #2 b
+INFO  20:42:58,023 - #27 =
+INFO  20:42:58,023 - #4 false
+INFO  20:42:58,023 - #20 ;
+INFO  20:42:58,024 - #2 int
+INFO  20:42:58,024 - #2 f
+INFO  20:42:58,024 - #20 ;
+INFO  20:42:58,024 - #19 class
+INFO  20:42:58,024 - #2 Klasa
+INFO  20:42:58,024 - #12 extends
+INFO  20:42:58,024 - #2 int
+INFO  20:42:58,024 - #7 {
+INFO  20:42:58,025 - #2 int
+INFO  20:42:58,025 - #2 niz
+INFO  20:42:58,025 - #13 [
+INFO  20:42:58,025 - #14 ]
+INFO  20:42:58,025 - #20 ;
+INFO  20:42:58,025 - #7 {
+INFO  20:42:58,025 - #44 void
+INFO  20:42:58,025 - #2 metoda1
+INFO  20:42:58,025 - #9 (
+INFO  20:42:58,026 - #2 int
+INFO  20:42:58,026 - #2 x
+INFO  20:42:58,026 - #11 ,
+INFO  20:42:58,026 - #2 char
+INFO  20:42:58,026 - #2 p
+INFO  20:42:58,026 - #10 )
+INFO  20:42:58,026 - #7 {
+INFO  20:42:58,026 - #8 }
+INFO  20:42:58,027 - #8 }
+INFO  20:42:58,027 - #8 }
+INFO  20:42:58,027 - #7 {
+INFO  20:42:58,028 - #8 }
+INFO  20:42:58,033 - Deklarisana simbolicka konstanta size na liniji 2
+ERROR 20:42:58,033 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju na liniji 3
+INFO  20:42:58,033 - Deklarisana simbolicka konstanta b na liniji 4
+INFO  20:42:58,033 - Deklarisana globalna promenljiva f na liniji 5
+INFO  20:42:58,033 - Deklarisana klasa <Klasa> na liniji 6
+ERROR 20:42:58,033 - Klasa ne moze nasledjivati tip koji nije klasni: na liniji 6
+INFO  20:42:58,033 - Deklarisano polje klase, niz <niz> na liniji 7

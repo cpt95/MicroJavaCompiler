@@ -1,0 +1,134 @@
+INFO  11:26:42,518 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  11:26:42,549 - #6 program
+INFO  11:26:42,549 - #2 P
+INFO  11:26:42,549 - #2 int
+INFO  11:26:42,550 - #2 h
+INFO  11:26:42,550 - #20 ;
+INFO  11:26:42,550 - #7 {
+INFO  11:26:42,551 - #44 void
+INFO  11:26:42,551 - #2 metoda1
+INFO  11:26:42,551 - #9 (
+INFO  11:26:42,551 - #2 int
+INFO  11:26:42,551 - #2 k
+INFO  11:26:42,551 - #10 )
+INFO  11:26:42,551 - #7 {
+INFO  11:26:42,552 - #26 print
+INFO  11:26:42,552 - #9 (
+INFO  11:26:42,552 - #2 k
+INFO  11:26:42,552 - #10 )
+INFO  11:26:42,552 - #20 ;
+INFO  11:26:42,552 - #8 }
+INFO  11:26:42,553 - #2 int
+INFO  11:26:42,553 - #2 metoda2
+INFO  11:26:42,553 - #9 (
+INFO  11:26:42,553 - #2 int
+INFO  11:26:42,553 - #2 p
+INFO  11:26:42,553 - #11 ,
+INFO  11:26:42,553 - #2 char
+INFO  11:26:42,554 - #2 c
+INFO  11:26:42,554 - #10 )
+INFO  11:26:42,554 - #2 int
+INFO  11:26:42,554 - #2 pom
+INFO  11:26:42,554 - #20 ;
+INFO  11:26:42,554 - #7 {
+INFO  11:26:42,554 - #2 pom
+INFO  11:26:42,554 - #27 =
+INFO  11:26:42,554 - #2 p
+INFO  11:26:42,554 - #31 +
+INFO  11:26:42,555 - #3 7
+INFO  11:26:42,555 - #33 *
+INFO  11:26:42,555 - #2 p
+INFO  11:26:42,555 - #30 -
+INFO  11:26:42,556 - #9 (
+INFO  11:26:42,556 - #2 p
+INFO  11:26:42,556 - #34 /
+INFO  11:26:42,556 - #3 2
+INFO  11:26:42,556 - #10 )
+INFO  11:26:42,556 - #20 ;
+INFO  11:26:42,557 - #26 print
+INFO  11:26:42,557 - #9 (
+INFO  11:26:42,557 - #2 c
+INFO  11:26:42,557 - #10 )
+INFO  11:26:42,557 - #20 ;
+INFO  11:26:42,557 - #25 return
+INFO  11:26:42,557 - #2 pom
+INFO  11:26:42,557 - #20 ;
+INFO  11:26:42,557 - #8 }
+INFO  11:26:42,557 - #44 void
+INFO  11:26:42,557 - #2 main
+INFO  11:26:42,557 - #9 (
+INFO  11:26:42,557 - #10 )
+INFO  11:26:42,558 - #2 int
+INFO  11:26:42,558 - #2 s
+INFO  11:26:42,558 - #11 ,
+INFO  11:26:42,559 - #2 y
+INFO  11:26:42,559 - #20 ;
+INFO  11:26:42,559 - #2 int
+INFO  11:26:42,559 - #2 niz
+INFO  11:26:42,559 - #13 [
+INFO  11:26:42,559 - #14 ]
+INFO  11:26:42,559 - #20 ;
+INFO  11:26:42,559 - #7 {
+INFO  11:26:42,559 - #2 niz
+INFO  11:26:42,559 - #27 =
+INFO  11:26:42,559 - #32 new
+INFO  11:26:42,559 - #2 int
+INFO  11:26:42,559 - #13 [
+INFO  11:26:42,559 - #3 4
+INFO  11:26:42,559 - #14 ]
+INFO  11:26:42,559 - #20 ;
+INFO  11:26:42,559 - #2 niz
+INFO  11:26:42,559 - #13 [
+INFO  11:26:42,559 - #3 0
+INFO  11:26:42,560 - #14 ]
+INFO  11:26:42,560 - #27 =
+INFO  11:26:42,560 - #3 1
+INFO  11:26:42,560 - #20 ;
+INFO  11:26:42,560 - #2 s
+INFO  11:26:42,560 - #27 =
+INFO  11:26:42,560 - #2 metoda2
+INFO  11:26:42,560 - #9 (
+INFO  11:26:42,560 - #2 niz
+INFO  11:26:42,560 - #13 [
+INFO  11:26:42,560 - #3 0
+INFO  11:26:42,560 - #14 ]
+INFO  11:26:42,560 - #31 +
+INFO  11:26:42,560 - #3 4
+INFO  11:26:42,560 - #11 ,
+INFO  11:26:42,561 - #5 t
+INFO  11:26:42,561 - #10 )
+INFO  11:26:42,561 - #20 ;
+INFO  11:26:42,561 - #2 metoda1
+INFO  11:26:42,561 - #9 (
+INFO  11:26:42,561 - #2 s
+INFO  11:26:42,561 - #10 )
+INFO  11:26:42,561 - #20 ;
+INFO  11:26:42,561 - #8 }
+INFO  11:26:42,561 - #8 }
+INFO  11:26:42,568 - Deklarisana globalna promenljiva <h>: na liniji 2
+INFO  11:26:42,568 - Obrada metode <metoda1>: na liniji 4
+INFO  11:26:42,568 - Koriscenje formalnog argumenta funkcije <k>: na liniji 6
+INFO  11:26:42,568 - Obrada metode <metoda2>: na liniji 9
+INFO  11:26:42,568 - Deklarisana lokalna promenljiva <pom>: na liniji 10
+INFO  11:26:42,568 - Pristup simbolu <pom>: na liniji 12
+INFO  11:26:42,568 - Koriscenje formalnog argumenta funkcije <p>: na liniji 12
+INFO  11:26:42,569 - Koriscenje formalnog argumenta funkcije <p>: na liniji 12
+INFO  11:26:42,569 - Koriscenje formalnog argumenta funkcije <p>: na liniji 12
+INFO  11:26:42,569 - Koriscenje formalnog argumenta funkcije <c>: na liniji 13
+INFO  11:26:42,569 - Pristup simbolu <pom>: na liniji 14
+INFO  11:26:42,569 - Obrada metode <main>: na liniji 17
+INFO  11:26:42,569 - Deklarisana lokalna promenljiva <s>: na liniji 18
+INFO  11:26:42,569 - Deklarisana lokalna promenljiva <y>: na liniji 18
+INFO  11:26:42,569 - Deklarisana lokalna promenljiva <niz>: na liniji 19
+INFO  11:26:42,569 - Pristup simbolu <niz>: na liniji 21
+INFO  11:26:42,569 - Pristup simbolu <niz>: na liniji 22
+INFO  11:26:42,569 - Pristup elementu niza <niz>: na liniji 22
+INFO  11:26:42,569 - Pristup simbolu <s>: na liniji 23
+INFO  11:26:42,569 - Pristup simbolu <metoda2>: na liniji 23
+INFO  11:26:42,569 - Pristup simbolu <niz>: na liniji 23
+INFO  11:26:42,569 - Pristup elementu niza <niz>: na liniji 23
+INFO  11:26:42,569 - Poziv globalne metode: na liniji 23
+INFO  11:26:42,569 - Pristup simbolu <metoda1>: na liniji 24
+INFO  11:26:42,569 - Pristup simbolu <s>: na liniji 24
+INFO  11:26:42,570 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  11:26:42,575 - Parsiranje uspesno zavrseno!

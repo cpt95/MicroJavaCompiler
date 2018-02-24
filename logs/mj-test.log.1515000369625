@@ -1,0 +1,22 @@
+INFO  18:24:20,369 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  18:24:20,393 - #2 program
+INFO  18:24:20,393 - #5 P
+INFO  18:24:20,393 - #28 const
+INFO  18:24:20,394 - #5 int
+INFO  18:24:20,394 - #5 a
+INFO  18:24:20,394 - #25 =
+INFO  18:24:20,394 - #24 4
+INFO  18:24:20,394 - #8 ,
+INFO  18:24:20,395 - #5 b
+INFO  18:24:20,395 - #25 =
+INFO  18:24:20,395 - #24 9
+INFO  18:24:20,395 - #17 ;
+INFO  18:24:20,395 - #3 {
+INFO  18:24:20,395 - #44 void
+INFO  18:24:20,395 - #5 main
+INFO  18:24:20,396 - #6 (
+INFO  18:24:20,396 - #7 )
+INFO  18:24:20,396 - #3 {
+ERROR 18:24:20,396 - 
+Sintaksna greska na liniji 4
+ERROR 18:24:20,396 - Fatalna greska na liniji 4

@@ -1,0 +1,269 @@
+INFO  16:11:39,232 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  16:11:39,262 - #6 program
+INFO  16:11:39,262 - #2 test301
+INFO  16:11:39,263 - #28 const
+INFO  16:11:39,263 - #2 int
+INFO  16:11:39,263 - #2 jedan
+INFO  16:11:39,263 - #27 =
+INFO  16:11:39,263 - #3 1
+INFO  16:11:39,264 - #20 ;
+INFO  16:11:39,264 - #28 const
+INFO  16:11:39,264 - #2 int
+INFO  16:11:39,265 - #2 pet
+INFO  16:11:39,265 - #27 =
+INFO  16:11:39,265 - #3 5
+INFO  16:11:39,265 - #20 ;
+INFO  16:11:39,265 - #2 int
+INFO  16:11:39,265 - #2 niz
+INFO  16:11:39,265 - #13 [
+INFO  16:11:39,265 - #14 ]
+INFO  16:11:39,265 - #20 ;
+INFO  16:11:39,265 - #2 char
+INFO  16:11:39,265 - #2 nizch
+INFO  16:11:39,265 - #13 [
+INFO  16:11:39,266 - #14 ]
+INFO  16:11:39,266 - #20 ;
+INFO  16:11:39,266 - #7 {
+INFO  16:11:39,266 - #44 void
+INFO  16:11:39,266 - #2 main
+INFO  16:11:39,266 - #9 (
+INFO  16:11:39,266 - #10 )
+INFO  16:11:39,267 - #2 int
+INFO  16:11:39,267 - #2 bodovi
+INFO  16:11:39,267 - #20 ;
+INFO  16:11:39,267 - #7 {
+INFO  16:11:39,267 - #2 bodovi
+INFO  16:11:39,268 - #27 =
+INFO  16:11:39,268 - #3 0
+INFO  16:11:39,268 - #20 ;
+INFO  16:11:39,268 - #2 bodovi
+INFO  16:11:39,269 - #16 ++
+INFO  16:11:39,269 - #20 ;
+INFO  16:11:39,269 - #2 bodovi
+INFO  16:11:39,269 - #27 =
+INFO  16:11:39,269 - #2 bodovi
+INFO  16:11:39,269 - #31 +
+INFO  16:11:39,269 - #2 jedan
+INFO  16:11:39,270 - #20 ;
+INFO  16:11:39,270 - #2 bodovi
+INFO  16:11:39,270 - #27 =
+INFO  16:11:39,270 - #2 bodovi
+INFO  16:11:39,270 - #33 *
+INFO  16:11:39,270 - #2 pet
+INFO  16:11:39,270 - #20 ;
+INFO  16:11:39,271 - #2 bodovi
+INFO  16:11:39,271 - #17 --
+INFO  16:11:39,271 - #20 ;
+INFO  16:11:39,271 - #26 print
+INFO  16:11:39,272 - #9 (
+INFO  16:11:39,272 - #2 bodovi
+INFO  16:11:39,272 - #10 )
+INFO  16:11:39,273 - #20 ;
+INFO  16:11:39,274 - #2 niz
+INFO  16:11:39,274 - #27 =
+INFO  16:11:39,274 - #32 new
+INFO  16:11:39,274 - #2 int
+INFO  16:11:39,275 - #13 [
+INFO  16:11:39,275 - #3 2
+INFO  16:11:39,275 - #14 ]
+INFO  16:11:39,275 - #20 ;
+INFO  16:11:39,275 - #2 niz
+INFO  16:11:39,275 - #13 [
+INFO  16:11:39,275 - #3 0
+INFO  16:11:39,275 - #14 ]
+INFO  16:11:39,276 - #27 =
+INFO  16:11:39,276 - #2 pet
+INFO  16:11:39,276 - #20 ;
+INFO  16:11:39,276 - #2 niz
+INFO  16:11:39,276 - #13 [
+INFO  16:11:39,276 - #3 1
+INFO  16:11:39,276 - #14 ]
+INFO  16:11:39,276 - #27 =
+INFO  16:11:39,276 - #3 10
+INFO  16:11:39,277 - #20 ;
+INFO  16:11:39,277 - #2 bodovi
+INFO  16:11:39,277 - #27 =
+INFO  16:11:39,277 - #2 niz
+INFO  16:11:39,277 - #13 [
+INFO  16:11:39,277 - #3 1
+INFO  16:11:39,277 - #14 ]
+INFO  16:11:39,277 - #34 /
+INFO  16:11:39,277 - #2 niz
+INFO  16:11:39,277 - #13 [
+INFO  16:11:39,277 - #3 0
+INFO  16:11:39,277 - #14 ]
+INFO  16:11:39,277 - #20 ;
+INFO  16:11:39,277 - #26 print
+INFO  16:11:39,277 - #9 (
+INFO  16:11:39,278 - #2 bodovi
+INFO  16:11:39,278 - #10 )
+INFO  16:11:39,278 - #20 ;
+INFO  16:11:39,278 - #26 print
+INFO  16:11:39,278 - #9 (
+INFO  16:11:39,278 - #2 niz
+INFO  16:11:39,278 - #13 [
+INFO  16:11:39,278 - #3 1
+INFO  16:11:39,278 - #14 ]
+INFO  16:11:39,278 - #10 )
+INFO  16:11:39,278 - #20 ;
+INFO  16:11:39,278 - #2 nizch
+INFO  16:11:39,278 - #27 =
+INFO  16:11:39,278 - #32 new
+INFO  16:11:39,278 - #2 char
+INFO  16:11:39,278 - #13 [
+INFO  16:11:39,278 - #3 3
+INFO  16:11:39,278 - #14 ]
+INFO  16:11:39,278 - #20 ;
+INFO  16:11:39,278 - #2 nizch
+INFO  16:11:39,278 - #13 [
+INFO  16:11:39,278 - #3 0
+INFO  16:11:39,278 - #14 ]
+INFO  16:11:39,278 - #27 =
+INFO  16:11:39,278 - #5 a
+INFO  16:11:39,278 - #20 ;
+INFO  16:11:39,278 - #2 nizch
+INFO  16:11:39,278 - #13 [
+INFO  16:11:39,279 - #2 jedan
+INFO  16:11:39,279 - #14 ]
+INFO  16:11:39,279 - #27 =
+INFO  16:11:39,279 - #5 b
+INFO  16:11:39,279 - #20 ;
+INFO  16:11:39,279 - #2 nizch
+INFO  16:11:39,279 - #13 [
+INFO  16:11:39,279 - #2 pet
+INFO  16:11:39,279 - #30 -
+INFO  16:11:39,279 - #3 3
+INFO  16:11:39,279 - #14 ]
+INFO  16:11:39,279 - #27 =
+INFO  16:11:39,279 - #5 c
+INFO  16:11:39,279 - #20 ;
+INFO  16:11:39,279 - #26 print
+INFO  16:11:39,280 - #9 (
+INFO  16:11:39,280 - #2 nizch
+INFO  16:11:39,280 - #13 [
+INFO  16:11:39,280 - #3 2
+INFO  16:11:39,280 - #30 -
+INFO  16:11:39,280 - #3 1
+INFO  16:11:39,280 - #14 ]
+INFO  16:11:39,280 - #10 )
+INFO  16:11:39,280 - #20 ;
+INFO  16:11:39,280 - #26 print
+INFO  16:11:39,280 - #9 (
+INFO  16:11:39,280 - #2 nizch
+INFO  16:11:39,280 - #13 [
+INFO  16:11:39,280 - #2 jedan
+INFO  16:11:39,280 - #33 *
+INFO  16:11:39,280 - #3 2
+INFO  16:11:39,280 - #14 ]
+INFO  16:11:39,280 - #10 )
+INFO  16:11:39,280 - #20 ;
+INFO  16:11:39,280 - #2 bodovi
+INFO  16:11:39,280 - #27 =
+INFO  16:11:39,280 - #2 bodovi
+INFO  16:11:39,280 - #31 +
+INFO  16:11:39,280 - #9 (
+INFO  16:11:39,280 - #9 (
+INFO  16:11:39,280 - #2 pet
+INFO  16:11:39,280 - #33 *
+INFO  16:11:39,280 - #2 jedan
+INFO  16:11:39,280 - #30 -
+INFO  16:11:39,280 - #3 1
+INFO  16:11:39,280 - #10 )
+INFO  16:11:39,280 - #33 *
+INFO  16:11:39,281 - #3 2
+INFO  16:11:39,281 - #30 -
+INFO  16:11:39,281 - #9 (
+INFO  16:11:39,281 - #3 3
+INFO  16:11:39,281 - #35 %
+INFO  16:11:39,281 - #3 2
+INFO  16:11:39,281 - #31 +
+INFO  16:11:39,281 - #3 3
+INFO  16:11:39,281 - #33 *
+INFO  16:11:39,281 - #3 2
+INFO  16:11:39,281 - #30 -
+INFO  16:11:39,281 - #3 3
+INFO  16:11:39,281 - #10 )
+INFO  16:11:39,281 - #30 -
+INFO  16:11:39,281 - #3 1
+INFO  16:11:39,281 - #33 *
+INFO  16:11:39,282 - #3 0
+INFO  16:11:39,282 - #10 )
+INFO  16:11:39,282 - #20 ;
+INFO  16:11:39,282 - #26 print
+INFO  16:11:39,282 - #9 (
+INFO  16:11:39,282 - #2 bodovi
+INFO  16:11:39,282 - #10 )
+INFO  16:11:39,282 - #20 ;
+INFO  16:11:39,282 - #43 read
+INFO  16:11:39,282 - #9 (
+INFO  16:11:39,282 - #2 bodovi
+INFO  16:11:39,282 - #10 )
+INFO  16:11:39,282 - #20 ;
+INFO  16:11:39,282 - #2 bodovi
+INFO  16:11:39,282 - #27 =
+INFO  16:11:39,282 - #2 bodovi
+INFO  16:11:39,282 - #31 +
+INFO  16:11:39,282 - #3 1
+INFO  16:11:39,282 - #20 ;
+INFO  16:11:39,282 - #26 print
+INFO  16:11:39,282 - #9 (
+INFO  16:11:39,282 - #2 bodovi
+INFO  16:11:39,282 - #10 )
+INFO  16:11:39,282 - #20 ;
+INFO  16:11:39,282 - #8 }
+INFO  16:11:39,282 - #8 }
+INFO  16:11:39,288 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  16:11:39,288 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  16:11:39,288 - Deklarisana globalna promenljiva <niz>: na liniji 8
+INFO  16:11:39,288 - Deklarisana globalna promenljiva <nizch>: na liniji 10
+INFO  16:11:39,288 - Obrada metode <main>: na liniji 13
+INFO  16:11:39,288 - Deklarisana lokalna promenljiva <bodovi>: na liniji 14
+INFO  16:11:39,288 - Pristup simbolu <bodovi>: na liniji 17
+INFO  16:11:39,288 - Pristup simbolu <bodovi>: na liniji 18
+INFO  16:11:39,288 - Pristup simbolu <bodovi>: na liniji 19
+INFO  16:11:39,288 - Pristup simbolu <bodovi>: na liniji 19
+INFO  16:11:39,289 - Pristup simbolu <jedan>: na liniji 19
+INFO  16:11:39,289 - Pristup simbolu <bodovi>: na liniji 20
+INFO  16:11:39,289 - Pristup simbolu <bodovi>: na liniji 20
+INFO  16:11:39,289 - Pristup simbolu <pet>: na liniji 20
+INFO  16:11:39,289 - Pristup simbolu <bodovi>: na liniji 21
+INFO  16:11:39,289 - Pristup simbolu <bodovi>: na liniji 22
+INFO  16:11:39,289 - Pristup simbolu <niz>: na liniji 25
+INFO  16:11:39,289 - Pristup simbolu <niz>: na liniji 26
+INFO  16:11:39,289 - Pristup elementu niza <niz>: na liniji 26
+INFO  16:11:39,289 - Pristup simbolu <pet>: na liniji 26
+INFO  16:11:39,289 - Pristup simbolu <niz>: na liniji 27
+INFO  16:11:39,289 - Pristup elementu niza <niz>: na liniji 27
+INFO  16:11:39,289 - Pristup simbolu <bodovi>: na liniji 28
+INFO  16:11:39,289 - Pristup simbolu <niz>: na liniji 28
+INFO  16:11:39,289 - Pristup elementu niza <niz>: na liniji 28
+INFO  16:11:39,289 - Pristup simbolu <niz>: na liniji 28
+INFO  16:11:39,289 - Pristup elementu niza <niz>: na liniji 28
+INFO  16:11:39,289 - Pristup simbolu <bodovi>: na liniji 29
+INFO  16:11:39,289 - Pristup simbolu <niz>: na liniji 30
+INFO  16:11:39,289 - Pristup elementu niza <niz>: na liniji 30
+INFO  16:11:39,289 - Pristup simbolu <nizch>: na liniji 33
+INFO  16:11:39,289 - Pristup simbolu <nizch>: na liniji 34
+INFO  16:11:39,289 - Pristup elementu niza <nizch>: na liniji 34
+INFO  16:11:39,289 - Pristup simbolu <nizch>: na liniji 35
+INFO  16:11:39,289 - Pristup simbolu <jedan>: na liniji 35
+INFO  16:11:39,289 - Pristup elementu niza <nizch>: na liniji 35
+INFO  16:11:39,289 - Pristup simbolu <nizch>: na liniji 36
+INFO  16:11:39,289 - Pristup simbolu <pet>: na liniji 36
+INFO  16:11:39,289 - Pristup elementu niza <nizch>: na liniji 36
+INFO  16:11:39,289 - Pristup simbolu <nizch>: na liniji 37
+INFO  16:11:39,289 - Pristup elementu niza <nizch>: na liniji 37
+INFO  16:11:39,289 - Pristup simbolu <nizch>: na liniji 38
+INFO  16:11:39,289 - Pristup simbolu <jedan>: na liniji 38
+INFO  16:11:39,290 - Pristup elementu niza <nizch>: na liniji 38
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 41
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 41
+INFO  16:11:39,290 - Pristup simbolu <pet>: na liniji 41
+INFO  16:11:39,290 - Pristup simbolu <jedan>: na liniji 41
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 42
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 45
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 46
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 46
+INFO  16:11:39,290 - Pristup simbolu <bodovi>: na liniji 47
+INFO  16:11:39,290 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  16:11:39,321 - Parsiranje uspesno zavrseno!

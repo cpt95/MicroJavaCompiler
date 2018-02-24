@@ -1,0 +1,26 @@
+INFO  16:55:58,788 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  16:55:58,831 - #2 program
+INFO  16:55:58,831 - #5 P
+INFO  16:55:58,831 - #5 int
+INFO  16:55:58,834 - #5 size
+INFO  16:55:58,835 - #25 =
+ERROR 16:55:58,835 - 
+Sintaksna greska na liniji 2
+INFO  16:55:58,835 - #24 3
+INFO  16:55:58,835 - #8 ,
+INFO  16:55:58,835 - #5 h
+INFO  16:55:58,836 - #17 ;
+INFO  16:55:58,836 - #28 const
+DEBUG 16:55:58,836 - Greska pri definiciji globalne promenljive - OPORAVAK
+INFO  16:55:58,838 - #5 int
+INFO  16:55:58,838 - #5 a
+INFO  16:55:58,838 - #25 =
+INFO  16:55:58,838 - #24 2
+INFO  16:55:58,838 - #8 ,
+INFO  16:55:58,839 - #5 b
+INFO  16:55:58,839 - #17 ;
+ERROR 16:55:58,839 - 
+Sintaksna greska na liniji 3
+INFO  16:55:58,840 - #3 {
+INFO  16:55:58,840 - #4 }
+DEBUG 16:55:58,840 - Greska pri definiciji globalne promenljive - OPORAVAK

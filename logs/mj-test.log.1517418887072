@@ -1,0 +1,12 @@
+INFO  14:15:44,704 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  14:15:44,731 - #6 program
+INFO  14:15:44,731 - #2 P
+INFO  14:15:44,731 - #28 const
+INFO  14:15:44,731 - #2 bool
+INFO  14:15:44,732 - #2 b
+INFO  14:15:44,732 - #27 =
+INFO  14:15:44,732 - #4 false
+INFO  14:15:44,732 - #20 ;
+INFO  14:15:44,732 - #7 {
+INFO  14:15:44,733 - #8 }
+INFO  14:15:44,739 - Deklarisana simbolicka konstanta b na liniji: 2 na liniji 2

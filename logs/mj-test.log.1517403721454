@@ -1,0 +1,23 @@
+INFO  14:01:48,800 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  14:01:48,827 - #6 program
+INFO  14:01:48,827 - #2 P
+INFO  14:01:48,828 - #28 const
+INFO  14:01:48,828 - #2 int
+INFO  14:01:48,828 - #2 size
+INFO  14:01:48,828 - #27 =
+INFO  14:01:48,829 - #3 10
+INFO  14:01:48,829 - #20 ;
+INFO  14:01:48,829 - #28 const
+INFO  14:01:48,829 - #2 char
+INFO  14:01:48,830 - #2 x
+INFO  14:01:48,830 - #27 =
+INFO  14:01:48,830 - #5 a
+INFO  14:01:48,830 - #20 ;
+INFO  14:01:48,830 - #28 const
+INFO  14:01:48,830 - #2 bool
+INFO  14:01:48,830 - #2 b
+INFO  14:01:48,830 - #27 =
+INFO  14:01:48,830 - #2 false
+ERROR 14:01:48,830 - 
+Sintaksna greska na liniji 5
+ERROR 14:01:48,831 - Fatalna greska na liniji 5

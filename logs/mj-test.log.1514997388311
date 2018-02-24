@@ -1,0 +1,15 @@
+INFO  17:35:25,804 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  17:35:25,807 - #2 program
+INFO  17:35:25,807 - #5 P
+INFO  17:35:25,807 - #5 int
+INFO  17:35:25,807 - #5 a
+INFO  17:35:25,807 - #8 ,
+INFO  17:35:25,807 - #5 b
+INFO  17:35:25,807 - #17 ;
+INFO  17:35:25,807 - #3 {
+INFO  17:35:25,807 - #5 int
+INFO  17:35:25,807 - #5 main
+INFO  17:35:25,807 - #6 (
+INFO  17:35:25,807 - #7 )
+INFO  17:35:25,807 - #17 ;
+INFO  17:35:25,807 - #4 }

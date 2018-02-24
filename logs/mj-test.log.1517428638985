@@ -1,0 +1,106 @@
+INFO  20:55:26,647 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  20:55:26,674 - #6 program
+INFO  20:55:26,674 - #2 P
+INFO  20:55:26,675 - #28 const
+INFO  20:55:26,675 - #2 int
+INFO  20:55:26,675 - #2 size
+INFO  20:55:26,676 - #27 =
+INFO  20:55:26,676 - #3 10
+INFO  20:55:26,676 - #20 ;
+INFO  20:55:26,676 - #28 const
+INFO  20:55:26,677 - #2 int
+INFO  20:55:26,677 - #2 si
+INFO  20:55:26,677 - #27 =
+INFO  20:55:26,678 - #5 t
+INFO  20:55:26,678 - #20 ;
+INFO  20:55:26,679 - #28 const
+INFO  20:55:26,679 - #2 bool
+INFO  20:55:26,679 - #2 b
+INFO  20:55:26,679 - #27 =
+INFO  20:55:26,679 - #4 false
+INFO  20:55:26,679 - #20 ;
+INFO  20:55:26,679 - #2 int
+INFO  20:55:26,679 - #2 f
+INFO  20:55:26,680 - #20 ;
+INFO  20:55:26,680 - #19 class
+INFO  20:55:26,680 - #2 Klasa
+INFO  20:55:26,680 - #12 extends
+INFO  20:55:26,680 - #2 int
+INFO  20:55:26,680 - #7 {
+INFO  20:55:26,680 - #2 int
+INFO  20:55:26,681 - #2 niz
+INFO  20:55:26,681 - #13 [
+INFO  20:55:26,681 - #14 ]
+INFO  20:55:26,681 - #20 ;
+INFO  20:55:26,681 - #7 {
+INFO  20:55:26,681 - #44 void
+INFO  20:55:26,681 - #2 metoda1
+INFO  20:55:26,681 - #9 (
+INFO  20:55:26,681 - #2 int
+INFO  20:55:26,681 - #2 x
+INFO  20:55:26,681 - #11 ,
+INFO  20:55:26,682 - #2 char
+INFO  20:55:26,682 - #2 p
+INFO  20:55:26,682 - #10 )
+INFO  20:55:26,682 - #7 {
+INFO  20:55:26,682 - #2 niz
+INFO  20:55:26,683 - #13 [
+INFO  20:55:26,683 - #3 2
+INFO  20:55:26,683 - #14 ]
+INFO  20:55:26,683 - #27 =
+INFO  20:55:26,683 - #3 2
+INFO  20:55:26,684 - #33 *
+INFO  20:55:26,684 - #2 x
+INFO  20:55:26,684 - #30 -
+INFO  20:55:26,684 - #9 (
+INFO  20:55:26,685 - #2 x
+INFO  20:55:26,685 - #34 /
+INFO  20:55:26,685 - #3 3
+INFO  20:55:26,685 - #10 )
+INFO  20:55:26,685 - #33 *
+INFO  20:55:26,686 - #3 3
+INFO  20:55:26,686 - #30 -
+INFO  20:55:26,686 - #3 1
+INFO  20:55:26,686 - #20 ;
+INFO  20:55:26,686 - #2 niz
+INFO  20:55:26,686 - #13 [
+INFO  20:55:26,687 - #2 x
+INFO  20:55:26,687 - #14 ]
+INFO  20:55:26,687 - #27 =
+INFO  20:55:26,687 - #2 p
+INFO  20:55:26,687 - #20 ;
+INFO  20:55:26,687 - #2 niz
+INFO  20:55:26,687 - #13 [
+INFO  20:55:26,687 - #2 x
+INFO  20:55:26,687 - #31 +
+INFO  20:55:26,687 - #3 2
+INFO  20:55:26,687 - #30 -
+INFO  20:55:26,687 - #9 (
+INFO  20:55:26,687 - #3 9
+INFO  20:55:26,687 - #34 /
+INFO  20:55:26,687 - #3 3
+INFO  20:55:26,687 - #10 )
+INFO  20:55:26,687 - #33 *
+INFO  20:55:26,688 - #2 x
+INFO  20:55:26,688 - #14 ]
+INFO  20:55:26,688 - #27 =
+INFO  20:55:26,688 - #2 x
+INFO  20:55:26,688 - #33 *
+INFO  20:55:26,688 - #2 p
+INFO  20:55:26,688 - #30 -
+INFO  20:55:26,688 - #3 4
+INFO  20:55:26,688 - #20 ;
+INFO  20:55:26,688 - #8 }
+INFO  20:55:26,688 - #8 }
+INFO  20:55:26,689 - #8 }
+INFO  20:55:26,689 - #7 {
+INFO  20:55:26,689 - #8 }
+INFO  20:55:26,694 - Deklarisana simbolicka konstanta <size> na liniji 2
+ERROR 20:55:26,695 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju na liniji 3
+INFO  20:55:26,695 - Deklarisana simbolicka konstanta <b> na liniji 4
+INFO  20:55:26,695 - Deklarisana globalna promenljiva <f> na liniji 5
+INFO  20:55:26,695 - Deklarisana klasa <Klasa> na liniji 6
+ERROR 20:55:26,695 - Klasa ne moze nasledjivati tipa <int>, jer nije klasni na liniji 6
+INFO  20:55:26,695 - Deklarisano polje klase, niz <niz> na liniji 7
+INFO  20:55:26,695 - Obrada metode <metoda1> na liniji 9
+INFO  20:55:26,695 - Pristup simbolu: niz, na liniji: 11 na liniji 11

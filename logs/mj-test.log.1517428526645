@@ -1,0 +1,58 @@
+INFO  20:55:02,718 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  20:55:02,750 - #6 program
+INFO  20:55:02,750 - #2 P
+INFO  20:55:02,750 - #28 const
+INFO  20:55:02,751 - #2 int
+INFO  20:55:02,751 - #2 size
+INFO  20:55:02,752 - #27 =
+INFO  20:55:02,752 - #3 10
+INFO  20:55:02,752 - #20 ;
+INFO  20:55:02,752 - #28 const
+INFO  20:55:02,752 - #2 int
+INFO  20:55:02,752 - #2 si
+INFO  20:55:02,752 - #27 =
+INFO  20:55:02,753 - #5 t
+INFO  20:55:02,753 - #20 ;
+INFO  20:55:02,753 - #28 const
+INFO  20:55:02,753 - #2 bool
+INFO  20:55:02,753 - #2 b
+INFO  20:55:02,753 - #27 =
+INFO  20:55:02,753 - #4 false
+INFO  20:55:02,753 - #20 ;
+INFO  20:55:02,753 - #2 int
+INFO  20:55:02,753 - #2 f
+INFO  20:55:02,754 - #20 ;
+INFO  20:55:02,754 - #19 class
+INFO  20:55:02,754 - #2 Klasa
+INFO  20:55:02,754 - #12 extends
+INFO  20:55:02,754 - #2 int
+INFO  20:55:02,754 - #7 {
+INFO  20:55:02,754 - #2 int
+INFO  20:55:02,755 - #2 niz
+INFO  20:55:02,755 - #13 [
+INFO  20:55:02,755 - #14 ]
+INFO  20:55:02,755 - #20 ;
+INFO  20:55:02,755 - #7 {
+INFO  20:55:02,756 - #44 void
+INFO  20:55:02,756 - #2 metoda1
+INFO  20:55:02,756 - #9 (
+INFO  20:55:02,756 - #2 int
+INFO  20:55:02,756 - #2 x
+INFO  20:55:02,756 - #11 ,
+INFO  20:55:02,756 - #2 char
+INFO  20:55:02,756 - #2 p
+INFO  20:55:02,756 - #10 )
+INFO  20:55:02,756 - #7 {
+INFO  20:55:02,757 - #8 }
+INFO  20:55:02,757 - #8 }
+INFO  20:55:02,758 - #8 }
+INFO  20:55:02,758 - #7 {
+INFO  20:55:02,759 - #8 }
+INFO  20:55:02,765 - Deklarisana simbolicka konstanta <size> na liniji 2
+ERROR 20:55:02,765 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju na liniji 3
+INFO  20:55:02,766 - Deklarisana simbolicka konstanta <b> na liniji 4
+INFO  20:55:02,766 - Deklarisana globalna promenljiva <f> na liniji 5
+INFO  20:55:02,766 - Deklarisana klasa <Klasa> na liniji 6
+ERROR 20:55:02,766 - Klasa ne moze nasledjivati tipa <int>, jer nije klasni na liniji 6
+INFO  20:55:02,766 - Deklarisano polje klase, niz <niz> na liniji 7
+INFO  20:55:02,766 - Obrada metode <metoda1> na liniji 9

@@ -1,0 +1,35 @@
+INFO  20:21:19,236 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  20:21:19,318 - #2 program
+INFO  20:21:19,319 - #5 P
+INFO  20:21:19,319 - #28 const
+INFO  20:21:19,320 - #5 int
+INFO  20:21:19,320 - #5 size
+INFO  20:21:19,320 - #25 =
+INFO  20:21:19,321 - #24 10
+INFO  20:21:19,321 - #17 ;
+INFO  20:21:19,322 - #16 class
+INFO  20:21:19,322 - #5 Table
+INFO  20:21:19,322 - #3 {
+INFO  20:21:19,323 - #5 int
+INFO  20:21:19,323 - #5 pos
+INFO  20:21:19,323 - #10 [
+INFO  20:21:19,323 - #11 ]
+INFO  20:21:19,323 - #8 ,
+INFO  20:21:19,324 - #5 neg
+INFO  20:21:19,324 - #10 [
+INFO  20:21:19,324 - #11 ]
+INFO  20:21:19,324 - #17 ;
+INFO  20:21:19,324 - #3 {
+INFO  20:21:19,324 - #44 void
+INFO  20:21:19,324 - #5 putp
+INFO  20:21:19,325 - #6 (
+INFO  20:21:19,325 - #5 int
+INFO  20:21:19,325 - #5 a
+INFO  20:21:19,325 - #8 ,
+INFO  20:21:19,325 - #5 int
+INFO  20:21:19,325 - #5 idx
+INFO  20:21:19,325 - #7 )
+INFO  20:21:19,325 - #3 {
+ERROR 20:21:19,325 - 
+Sintaksna greska na liniji 6
+ERROR 20:21:19,326 - Fatalna greska na liniji 6

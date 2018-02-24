@@ -1,0 +1,312 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+// import java.io.*;
+
+
+parser code {:
+
+	boolean errorDetected = false;
+
+	Logger log = Logger.getLogger(getClass());
+	
+	public void report_fatal_error(String message, Object info) throws java.lang.Exception{
+		done_parsing();
+		report_error(message,info);
+	}
+	
+	public void syntax_error(Symbol curr_token){
+		report_error("\nSintaksna greska", cur_token);
+	}
+	
+	public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception{
+		report_fatal_error("Fatalna greska", cur_token);
+	}
+	
+	public void report_error(String message, Object info) {
+		errorDetected = true;
+		StringBuilder msg = new StringBuilder(message);
+		if(info instanceof Symbol)
+			msg.append(" na liniji ").append(((Symbol)info).left);
+		log.error(msg.toString());
+	}
+	
+	public void report_info(String message, Object info) {
+		StringBuilder msg = new StringBuilder(message);
+		if(info instanceof Symbol)
+			msg.append(" na liniji ").append(((Symbol)info).left);
+		log.info(msg.toString());
+	}
+
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if(s != null && s.value != null) log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+terminal String IDENT;
+terminal Integer NUMCONST;
+terminal Boolean BOOLCONST;
+terminal Character CHARCONST;
+
+terminal PROG, LBRACE, RBRACE, LPAREN, RPAREN, COMMA;
+terminal EXTENDS, LBRACKET, RBRACKET, DOT, PPLUS, MMINUS, WHILE;
+terminal CLASS, SEMI, IF, ELSE, BREAK, CONTINUE, RETURN, PRINT;
+terminal EQUAL, CONST, OR, MINUS, PLUS, NEW;
+terminal MUL, DIV, PROC, EQ, NEQ, GR, GRE, LS, LSE, DO, READ, VOID, AND;
+
+nonterminal DeclareList, Declare, MethodDeclList, MethodDecl;
+nonterminal VarDeclList, VarDecl, ClassError, IfCond;
+nonterminal DesignatorStatement, StatementList, Statement;
+nonterminal ConstList, ConstDecl, DummyD, DummyL, Cont;
+nonterminal FormPars, FormParsList, FormParam, ActPars, ActualParamList;
+nonterminal Addop, Relop, Mulop, Vars, Extending, ExtendingError;
+nonterminal MethodVar, MethodVars, MethodVarDeclList, MethodVarDecl;
+nonterminal ClassVar, ClassVars, ClassVarDeclList, ClassVarDecl, ClassMethods;
+
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type, Expr, Factor, FactorList;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct TermList, Term, EqualExp;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Condition, CondFact, CondTerm;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Program, ProgName, ClassName, ClassDecl;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj RetType, DummyE, Designator, Const;
+
+precedence left ELSE;
+
+Program ::= (Program) PROG ProgName:p DeclareList LBRACE MethodDeclList RBRACE;
+
+ProgName ::= (ProgName) IDENT:pName;
+
+DeclareList ::= (Declarations) DeclareList Declare
+				|
+				(NoDeclarations) /* epsilon */;
+
+Declare ::= (Consts) ConstDecl | (Variable) Vars | (Classes) ClassDecl;
+
+MethodDeclList ::= (MethodDeclarations) MethodDecl MethodDeclList
+					|
+					(NoMethodDeclarations) /*epsilon*/;
+					
+RetType ::= (ReturnType) Type IDENT:methName
+			|
+			(VoidType) VOID IDENT:voidName;
+
+StatementList ::= (Statements) StatementList Statement
+				|
+				(NoStmt) /*epsilon*/;
+
+Vars ::= (Variables) Type:varsType VarDeclList SEMI;
+
+VarDeclList ::= (VarDecls) VarDecl COMMA VarDeclList
+				|
+				(VarDeclaration) VarDecl;
+				
+VarDecl ::= (Array) IDENT:arrayName LBRACKET RBRACKET
+			|
+			(Var) IDENT:varName
+			|
+			(VarError) error
+			{: parser.log.debug("Greska pri definiciji globalne promenljive - OPORAVAK"); :};
+				
+MethodVars ::= (MethodVariables) MethodVars MethodVar
+				|
+				(NoMethodVars) /**/;
+				
+MethodVar ::= (MethodVarsDeclaration) Type MethodVarDeclList SEMI;
+
+MethodVarDeclList ::= (MethodVarsList) MethodVarDecl COMMA MethodVarDeclList
+					|
+					(MethodVarDeclaration) MethodVarDecl;
+					
+MethodVarDecl ::= (MthdArray) IDENT:MArrayName LBRACKET RBRACKET
+					|
+					(MthdVar) IDENT:MVarName;
+				
+ClassVars ::= (ClassVarsList) ClassVars ClassVar
+				|
+				(NoClassVars) /**/;
+				
+ClassVar ::= (ClassVarsDeclaration) Type ClassVarDeclList SEMI;
+
+ClassVarDeclList ::= (ClassVarList) ClassError COMMA ClassVarDeclList
+					|
+					(ClassErr) ClassError;
+
+ClassError ::= (ClsVarDecl) ClassVarDecl
+				|
+				(ClsError) error
+				{: parser.log.debug("Greska pri definiciji polja klase - OPORAVAK"); :};
+			
+ClassVarDecl ::= (ClsArray) IDENT:clsArr LBRACKET RBRACKET
+					|
+					(ClsVar) IDENT:clsVar;
+			
+MethodDecl ::= (MethodDecl) RetType LPAREN FormPars RPAREN MethodVars LBRACE StatementList RBRACE;
+					
+ClassDecl ::= (ClassDecl) CLASS ClassName Extending LBRACE ClassVars ClassMethods RBRACE;
+				
+ClassName ::= (ClsName) IDENT:clsName;
+				
+Extending ::= (Extend) ExtendingError
+				|
+				(NoExtend) /* epsilon */;
+				
+ExtendingError ::= (ExtendingType) EXTENDS Type
+					|
+					(ExtendingError) error
+					{: parser.log.debug("Greska pri prosirenju natklase - OPORAVAK"); :};
+				
+ClassMethods ::= (ManyClassMethods) LBRACE MethodDeclList RBRACE
+				|
+				(NoClassMethods) /* epsilon */;
+					
+Designator ::= (DotDsgn) Designator DOT IDENT:dotName
+				|
+				(ArrayDsgn) Designator DummyL Expr RBRACKET
+				|
+				(OneDsgn) IDENT:oneName;
+
+EqualExp ::= (EqualExpr) Expr
+			|
+			(EqualError) error
+			{: parser.log.debug("Greska pri dodeli vrednosti - OPORAVAK"); :};
+					
+DesignatorStatement ::= (EqualDStmt) DummyE EQUAL EqualExp
+						|
+						(ParsDStmt) Designator LPAREN ActPars RPAREN
+						|
+						(PlusDStmt) Designator PPLUS
+						|
+						(MinusDStmt) Designator MMINUS;
+
+IfCond ::= (IfCondition) Condition
+			|
+			(IfError) error
+			{: parser.log.debug("Greska u uslovu za IF naredbu - OPORAVAK"); :};
+
+DummyL ::= (DummyL) LBRACKET;
+
+DummyD ::= (DummyD) DO;
+
+DummyE ::= (DummyE) Designator;
+
+Cont ::= (Cont) CONTINUE;
+
+Statement ::= (StmtDsgnS) DesignatorStatement SEMI
+				|
+				(StmtIf) IF LPAREN IfCond RPAREN Statement
+				|
+				(StmtIfElse) IF LPAREN IfCond RPAREN Statement ELSE Statement
+				|
+				(StmtDoWhile) DummyD Statement WHILE LPAREN Condition RPAREN SEMI
+				|
+				(StmtBreak) BREAK SEMI
+				|
+				(StmtContinue) Cont SEMI
+				|
+				(StmtReturnExp) RETURN Expr SEMI
+				|
+				(StmtReturn) RETURN SEMI
+				|
+				(StmtDsgn) READ LPAREN Designator RPAREN SEMI
+				|
+				(StmtExp) PRINT LPAREN Expr RPAREN SEMI
+				|
+				(StmtExpNum) PRINT LPAREN Expr COMMA NUMCONST:i RPAREN SEMI
+				|
+				(StmtList) LBRACE StatementList RBRACE;
+
+
+Const ::= (Num) IDENT:numName EQUAL NUMCONST:num
+				|
+				(Char) IDENT:charName EQUAL CHARCONST:chr
+				|
+				(Bool) IDENT:boolName EQUAL BOOLCONST:bool;
+						
+ConstList ::= (ConstMany) Const COMMA ConstList
+				|
+				(ConstOne) Const;
+				
+ConstDecl ::= (ConstDecl) CONST Type ConstList SEMI;
+
+Condition ::= (CondList) CondTerm OR Condition
+				|
+				(CondOne) CondTerm;
+
+CondTerm ::= (CondTermList) CondTerm AND CondFact
+			|
+			(CondTermOne) CondFact;
+
+CondFact ::= (CondFactOr) Expr Relop Expr
+			|
+			(CondFactOne) Expr;
+
+Expr ::= (ExprM) MINUS TermList
+		|
+		(ExprNM) TermList;
+
+TermList ::= (TermMany) Term Addop TermList
+			|
+			(TermOne) Term;
+
+Term ::= (TermF) FactorList;
+
+FactorList ::= (FactorMany) Factor Mulop FactorList
+				|
+				(FactorOne) Factor;
+
+Factor ::= (FctDesignator) Designator
+			|
+			(FctPars) Designator LPAREN ActPars RPAREN
+			|
+			(FctNum) NUMCONST
+			|
+			(FctChar) CHARCONST
+			|
+			(FctBool) BOOLCONST
+			|
+			(FctNew) NEW Type
+			|
+			(FctNewArr) NEW Type LBRACKET Expr RBRACKET
+			|
+			(FctParenExp) LPAREN Expr RPAREN;
+				
+FormPars ::= (FormParamList) FormParsList 
+			| 
+			(NoFormParam) /* epsilon */;
+
+FormParsList ::= (FormalParamList) FormParsList COMMA FormParam
+				|
+				(FormalParam) FormParam;
+				
+FormParam ::= (FormArray) Type IDENT:formArray LBRACKET RBRACKET
+				|
+				(FormVar) Type IDENT:formVar
+				|
+				(FormError) error
+				{: parser.log.debug("Greska prilikom deklarisanja formalnog parametra funkcije - OPORAVAK"); :};
+				
+ActPars ::= (ActualParamsList) ActualParamList 
+			| 
+			(NoActualParam) /*epsilon*/;
+
+ActualParamList ::= (ActualPars) ActualParamList COMMA Expr
+					|
+					(ActualPar) Expr;
+			
+Type ::= (Type) IDENT:typeName;
+
+Addop ::= (AddopP) PLUS | (AddopM) MINUS;
+			
+Mulop ::= (MulopM) MUL | (MulopD) DIV | (MulopP) PROC;
+			
+Relop ::= (RelopEQ) EQ 
+		| (RelopNEQ) NEQ 
+		| (RelopGR) GR 
+		| (RelopGRE) GRE 
+		| (RelopLS) LS 
+		| (RelopLSE) LSE;

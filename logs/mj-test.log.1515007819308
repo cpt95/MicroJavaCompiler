@@ -1,0 +1,13 @@
+INFO  20:29:01,373 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  20:29:01,401 - #2 program
+INFO  20:29:01,401 - #5 P
+INFO  20:29:01,401 - #28 const
+INFO  20:29:01,402 - #5 int
+INFO  20:29:01,402 - #5 size
+INFO  20:29:01,402 - #25 =
+INFO  20:29:01,402 - #24 10
+INFO  20:29:01,402 - #17 ;
+INFO  20:29:01,403 - #16 class
+ERROR 20:29:01,403 - 
+Sintaksna greska na liniji 3
+ERROR 20:29:01,403 - Fatalna greska na liniji 3

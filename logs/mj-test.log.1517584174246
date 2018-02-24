@@ -1,0 +1,852 @@
+INFO  16:09:15,543 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  16:09:15,574 - #6 program
+INFO  16:09:15,574 - #2 P
+INFO  16:09:15,574 - #28 const
+INFO  16:09:15,575 - #2 int
+INFO  16:09:15,575 - #2 size
+INFO  16:09:15,575 - #27 =
+INFO  16:09:15,575 - #3 10
+INFO  16:09:15,575 - #20 ;
+INFO  16:09:15,576 - #28 const
+INFO  16:09:15,576 - #2 int
+INFO  16:09:15,576 - #2 si
+INFO  16:09:15,576 - #27 =
+INFO  16:09:15,576 - #5 t
+INFO  16:09:15,576 - #20 ;
+INFO  16:09:15,576 - #28 const
+INFO  16:09:15,576 - #2 bool
+INFO  16:09:15,576 - #2 b
+INFO  16:09:15,576 - #27 =
+INFO  16:09:15,577 - #4 false
+INFO  16:09:15,577 - #20 ;
+INFO  16:09:15,577 - #2 int
+INFO  16:09:15,577 - #2 f
+INFO  16:09:15,577 - #20 ;
+INFO  16:09:15,577 - #19 class
+INFO  16:09:15,578 - #2 Klasa
+INFO  16:09:15,578 - #12 extends
+INFO  16:09:15,578 - #2 int
+INFO  16:09:15,578 - #7 {
+INFO  16:09:15,578 - #2 int
+INFO  16:09:15,578 - #2 niz
+INFO  16:09:15,578 - #13 [
+INFO  16:09:15,578 - #14 ]
+INFO  16:09:15,579 - #20 ;
+INFO  16:09:15,579 - #7 {
+INFO  16:09:15,579 - #44 void
+INFO  16:09:15,579 - #2 metoda1
+INFO  16:09:15,579 - #9 (
+INFO  16:09:15,579 - #2 int
+INFO  16:09:15,579 - #2 x
+INFO  16:09:15,579 - #11 ,
+INFO  16:09:15,579 - #2 char
+INFO  16:09:15,579 - #2 p
+INFO  16:09:15,579 - #10 )
+INFO  16:09:15,580 - #7 {
+INFO  16:09:15,580 - #2 niz
+INFO  16:09:15,580 - #13 [
+INFO  16:09:15,581 - #3 2
+INFO  16:09:15,581 - #14 ]
+INFO  16:09:15,581 - #27 =
+INFO  16:09:15,582 - #3 2
+INFO  16:09:15,582 - #33 *
+INFO  16:09:15,582 - #2 x
+INFO  16:09:15,582 - #30 -
+INFO  16:09:15,582 - #9 (
+INFO  16:09:15,583 - #2 x
+INFO  16:09:15,583 - #34 /
+INFO  16:09:15,583 - #3 3
+INFO  16:09:15,583 - #10 )
+INFO  16:09:15,583 - #33 *
+INFO  16:09:15,584 - #3 3
+INFO  16:09:15,584 - #30 -
+INFO  16:09:15,584 - #3 1
+INFO  16:09:15,584 - #20 ;
+INFO  16:09:15,585 - #2 niz
+INFO  16:09:15,585 - #13 [
+INFO  16:09:15,585 - #2 x
+INFO  16:09:15,585 - #14 ]
+INFO  16:09:15,585 - #27 =
+INFO  16:09:15,585 - #2 p
+INFO  16:09:15,585 - #20 ;
+INFO  16:09:15,585 - #2 niz
+INFO  16:09:15,585 - #13 [
+INFO  16:09:15,585 - #2 x
+INFO  16:09:15,585 - #31 +
+INFO  16:09:15,585 - #3 2
+INFO  16:09:15,585 - #30 -
+INFO  16:09:15,585 - #9 (
+INFO  16:09:15,585 - #3 9
+INFO  16:09:15,586 - #34 /
+INFO  16:09:15,586 - #3 3
+INFO  16:09:15,586 - #10 )
+INFO  16:09:15,586 - #33 *
+INFO  16:09:15,586 - #2 x
+INFO  16:09:15,586 - #14 ]
+INFO  16:09:15,586 - #27 =
+INFO  16:09:15,586 - #2 x
+INFO  16:09:15,586 - #33 *
+INFO  16:09:15,586 - #2 p
+INFO  16:09:15,586 - #30 -
+INFO  16:09:15,586 - #3 4
+INFO  16:09:15,586 - #20 ;
+INFO  16:09:15,586 - #8 }
+INFO  16:09:15,586 - #8 }
+INFO  16:09:15,587 - #8 }
+INFO  16:09:15,587 - #19 class
+INFO  16:09:15,588 - #2 Table
+INFO  16:09:15,588 - #12 extends
+INFO  16:09:15,588 - #2 Klasa
+INFO  16:09:15,588 - #7 {
+INFO  16:09:15,588 - #2 Klasa
+INFO  16:09:15,588 - #2 n
+INFO  16:09:15,588 - #11 ,
+INFO  16:09:15,588 - #2 l
+INFO  16:09:15,588 - #20 ;
+INFO  16:09:15,588 - #2 int
+INFO  16:09:15,588 - #2 k
+INFO  16:09:15,588 - #20 ;
+INFO  16:09:15,588 - #2 int
+INFO  16:09:15,588 - #2 pos
+INFO  16:09:15,588 - #13 [
+INFO  16:09:15,588 - #14 ]
+INFO  16:09:15,589 - #11 ,
+INFO  16:09:15,589 - #2 neg
+INFO  16:09:15,589 - #13 [
+INFO  16:09:15,589 - #14 ]
+INFO  16:09:15,589 - #20 ;
+INFO  16:09:15,589 - #2 Klasa
+INFO  16:09:15,589 - #2 ns
+INFO  16:09:15,589 - #13 [
+INFO  16:09:15,589 - #14 ]
+INFO  16:09:15,589 - #20 ;
+INFO  16:09:15,589 - #2 char
+INFO  16:09:15,589 - #2 chNiz
+INFO  16:09:15,589 - #13 [
+INFO  16:09:15,589 - #14 ]
+INFO  16:09:15,589 - #20 ;
+INFO  16:09:15,589 - #7 {
+INFO  16:09:15,589 - #2 int
+INFO  16:09:15,590 - #2 putp
+INFO  16:09:15,590 - #9 (
+INFO  16:09:15,590 - #2 int
+INFO  16:09:15,590 - #2 a
+INFO  16:09:15,590 - #11 ,
+INFO  16:09:15,590 - #2 int
+INFO  16:09:15,590 - #2 idx
+INFO  16:09:15,590 - #10 )
+INFO  16:09:15,590 - #7 {
+INFO  16:09:15,590 - #2 this
+INFO  16:09:15,590 - #15 .
+INFO  16:09:15,590 - #2 pos
+INFO  16:09:15,590 - #13 [
+INFO  16:09:15,590 - #2 idx
+INFO  16:09:15,590 - #14 ]
+INFO  16:09:15,590 - #27 =
+INFO  16:09:15,590 - #2 a
+INFO  16:09:15,590 - #20 ;
+INFO  16:09:15,590 - #24 continue
+INFO  16:09:15,590 - #20 ;
+INFO  16:09:15,591 - #42 do
+INFO  16:09:15,591 - #7 {
+INFO  16:09:15,591 - #2 n
+INFO  16:09:15,591 - #27 =
+INFO  16:09:15,591 - #2 ns
+INFO  16:09:15,591 - #13 [
+INFO  16:09:15,591 - #2 k
+INFO  16:09:15,591 - #31 +
+INFO  16:09:15,591 - #2 pos
+INFO  16:09:15,591 - #13 [
+INFO  16:09:15,591 - #2 k
+INFO  16:09:15,592 - #14 ]
+INFO  16:09:15,592 - #14 ]
+INFO  16:09:15,592 - #20 ;
+INFO  16:09:15,592 - #2 chNiz
+INFO  16:09:15,592 - #13 [
+INFO  16:09:15,592 - #2 k
+INFO  16:09:15,592 - #31 +
+INFO  16:09:15,592 - #3 1
+INFO  16:09:15,592 - #14 ]
+INFO  16:09:15,592 - #17 --
+INFO  16:09:15,592 - #20 ;
+INFO  16:09:15,592 - #2 neg
+INFO  16:09:15,592 - #13 [
+INFO  16:09:15,592 - #2 k
+INFO  16:09:15,592 - #30 -
+INFO  16:09:15,592 - #2 pos
+INFO  16:09:15,592 - #13 [
+INFO  16:09:15,593 - #2 k
+INFO  16:09:15,593 - #31 +
+INFO  16:09:15,593 - #2 a
+INFO  16:09:15,593 - #33 *
+INFO  16:09:15,593 - #2 idx
+INFO  16:09:15,593 - #14 ]
+INFO  16:09:15,593 - #14 ]
+INFO  16:09:15,593 - #16 ++
+INFO  16:09:15,593 - #20 ;
+INFO  16:09:15,593 - #2 size
+INFO  16:09:15,593 - #16 ++
+INFO  16:09:15,593 - #20 ;
+INFO  16:09:15,593 - #21 if
+INFO  16:09:15,593 - #9 (
+INFO  16:09:15,594 - #2 a
+INFO  16:09:15,594 - #45 &&
+INFO  16:09:15,594 - #2 idx
+INFO  16:09:15,594 - #10 )
+INFO  16:09:15,594 - #2 size
+INFO  16:09:15,594 - #27 =
+INFO  16:09:15,594 - #2 a
+INFO  16:09:15,594 - #31 +
+INFO  16:09:15,594 - #2 idx
+INFO  16:09:15,594 - #33 *
+INFO  16:09:15,594 - #3 3
+INFO  16:09:15,594 - #30 -
+INFO  16:09:15,594 - #9 (
+INFO  16:09:15,594 - #2 a
+INFO  16:09:15,594 - #31 +
+INFO  16:09:15,594 - #3 2
+INFO  16:09:15,594 - #33 *
+INFO  16:09:15,594 - #2 k
+INFO  16:09:15,594 - #10 )
+INFO  16:09:15,594 - #20 ;
+INFO  16:09:15,594 - #21 if
+INFO  16:09:15,594 - #9 (
+INFO  16:09:15,595 - #2 b
+INFO  16:09:15,595 - #10 )
+INFO  16:09:15,595 - #2 k
+INFO  16:09:15,595 - #27 =
+INFO  16:09:15,595 - #3 4
+INFO  16:09:15,595 - #20 ;
+INFO  16:09:15,595 - #21 if
+INFO  16:09:15,595 - #9 (
+INFO  16:09:15,595 - #2 k
+INFO  16:09:15,595 - #40 <
+INFO  16:09:15,595 - #2 n
+INFO  16:09:15,596 - #10 )
+INFO  16:09:15,596 - #23 break
+INFO  16:09:15,596 - #20 ;
+INFO  16:09:15,596 - #21 if
+INFO  16:09:15,597 - #9 (
+INFO  16:09:15,597 - #2 k
+INFO  16:09:15,597 - #38 >
+INFO  16:09:15,597 - #9 (
+INFO  16:09:15,598 - #2 idx
+INFO  16:09:15,598 - #31 +
+INFO  16:09:15,598 - #2 a
+INFO  16:09:15,598 - #10 )
+INFO  16:09:15,598 - #45 &&
+INFO  16:09:15,598 - #2 n
+INFO  16:09:15,598 - #38 >
+INFO  16:09:15,598 - #2 neg
+INFO  16:09:15,598 - #13 [
+INFO  16:09:15,598 - #2 k
+INFO  16:09:15,598 - #14 ]
+INFO  16:09:15,598 - #10 )
+INFO  16:09:15,598 - #24 continue
+INFO  16:09:15,598 - #20 ;
+INFO  16:09:15,598 - #21 if
+INFO  16:09:15,598 - #9 (
+INFO  16:09:15,598 - #2 n
+INFO  16:09:15,598 - #38 >
+INFO  16:09:15,598 - #2 l
+INFO  16:09:15,598 - #10 )
+INFO  16:09:15,600 - #23 break
+INFO  16:09:15,600 - #20 ;
+INFO  16:09:15,600 - #8 }
+INFO  16:09:15,600 - #18 while
+INFO  16:09:15,600 - #9 (
+INFO  16:09:15,600 - #3 1
+INFO  16:09:15,600 - #10 )
+INFO  16:09:15,600 - #20 ;
+INFO  16:09:15,600 - #25 return
+INFO  16:09:15,600 - #2 chNiz
+INFO  16:09:15,600 - #13 [
+INFO  16:09:15,600 - #2 a
+INFO  16:09:15,601 - #14 ]
+INFO  16:09:15,601 - #20 ;
+INFO  16:09:15,601 - #8 }
+INFO  16:09:15,601 - #44 void
+INFO  16:09:15,601 - #2 putn
+INFO  16:09:15,601 - #9 (
+INFO  16:09:15,601 - #2 int
+INFO  16:09:15,601 - #2 a
+INFO  16:09:15,601 - #11 ,
+INFO  16:09:15,601 - #2 char
+INFO  16:09:15,601 - #2 b
+INFO  16:09:15,601 - #10 )
+INFO  16:09:15,601 - #2 Klasa
+INFO  16:09:15,601 - #2 kNiz
+INFO  16:09:15,601 - #13 [
+INFO  16:09:15,601 - #14 ]
+INFO  16:09:15,601 - #20 ;
+INFO  16:09:15,601 - #7 {
+INFO  16:09:15,601 - #2 neg
+INFO  16:09:15,601 - #13 [
+INFO  16:09:15,601 - #2 b
+INFO  16:09:15,601 - #14 ]
+INFO  16:09:15,601 - #27 =
+INFO  16:09:15,602 - #2 a
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #2 k
+INFO  16:09:15,602 - #13 [
+INFO  16:09:15,602 - #2 a
+INFO  16:09:15,602 - #14 ]
+INFO  16:09:15,602 - #27 =
+INFO  16:09:15,602 - #2 a
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #2 p
+INFO  16:09:15,602 - #27 =
+INFO  16:09:15,602 - #2 a
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #2 n
+INFO  16:09:15,602 - #27 =
+INFO  16:09:15,602 - #32 new
+INFO  16:09:15,602 - #2 Klasa
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #24 continue
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #2 kNiz
+INFO  16:09:15,602 - #27 =
+INFO  16:09:15,602 - #32 new
+INFO  16:09:15,602 - #2 Klasa
+INFO  16:09:15,602 - #13 [
+INFO  16:09:15,602 - #2 b
+INFO  16:09:15,602 - #14 ]
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #2 kNiz
+INFO  16:09:15,602 - #27 =
+INFO  16:09:15,602 - #32 new
+INFO  16:09:15,602 - #2 int
+INFO  16:09:15,602 - #20 ;
+INFO  16:09:15,602 - #2 kNiz
+INFO  16:09:15,602 - #27 =
+INFO  16:09:15,603 - #32 new
+INFO  16:09:15,603 - #2 Table
+INFO  16:09:15,603 - #20 ;
+INFO  16:09:15,603 - #2 kNiz
+INFO  16:09:15,603 - #27 =
+INFO  16:09:15,603 - #32 new
+INFO  16:09:15,603 - #2 Klasa
+INFO  16:09:15,603 - #13 [
+INFO  16:09:15,603 - #2 a
+INFO  16:09:15,603 - #14 ]
+INFO  16:09:15,603 - #20 ;
+INFO  16:09:15,603 - #25 return
+INFO  16:09:15,603 - #2 n
+INFO  16:09:15,603 - #20 ;
+INFO  16:09:15,603 - #25 return
+INFO  16:09:15,603 - #20 ;
+INFO  16:09:15,603 - #8 }
+INFO  16:09:15,603 - #44 void
+INFO  16:09:15,604 - #2 proba
+INFO  16:09:15,604 - #9 (
+INFO  16:09:15,604 - #2 Klasa
+INFO  16:09:15,604 - #2 p
+INFO  16:09:15,604 - #10 )
+INFO  16:09:15,604 - #7 {
+INFO  16:09:15,604 - #8 }
+INFO  16:09:15,604 - #8 }
+INFO  16:09:15,604 - #8 }
+INFO  16:09:15,604 - #2 Table
+INFO  16:09:15,604 - #2 val
+INFO  16:09:15,604 - #20 ;
+INFO  16:09:15,604 - #7 {
+INFO  16:09:15,604 - #44 void
+INFO  16:09:15,604 - #2 main
+INFO  16:09:15,604 - #9 (
+INFO  16:09:15,604 - #10 )
+INFO  16:09:15,605 - #2 int
+INFO  16:09:15,605 - #2 x
+INFO  16:09:15,605 - #11 ,
+INFO  16:09:15,605 - #2 i
+INFO  16:09:15,605 - #20 ;
+INFO  16:09:15,605 - #2 char
+INFO  16:09:15,605 - #2 chArr
+INFO  16:09:15,605 - #13 [
+INFO  16:09:15,605 - #14 ]
+INFO  16:09:15,605 - #20 ;
+INFO  16:09:15,605 - #2 char
+INFO  16:09:15,605 - #2 r
+INFO  16:09:15,605 - #20 ;
+INFO  16:09:15,605 - #7 {
+INFO  16:09:15,605 - #2 x
+INFO  16:09:15,605 - #27 =
+INFO  16:09:15,605 - #2 size
+INFO  16:09:15,605 - #31 +
+INFO  16:09:15,605 - #3 1
+INFO  16:09:15,605 - #20 ;
+INFO  16:09:15,605 - #2 chArr
+INFO  16:09:15,605 - #13 [
+INFO  16:09:15,605 - #2 x
+INFO  16:09:15,605 - #14 ]
+INFO  16:09:15,605 - #27 =
+INFO  16:09:15,606 - #30 -
+INFO  16:09:15,606 - #2 r
+INFO  16:09:15,606 - #20 ;
+INFO  16:09:15,606 - #2 i
+INFO  16:09:15,606 - #27 =
+INFO  16:09:15,606 - #2 val
+INFO  16:09:15,606 - #15 .
+INFO  16:09:15,606 - #2 pos
+INFO  16:09:15,606 - #13 [
+INFO  16:09:15,606 - #2 x
+INFO  16:09:15,606 - #14 ]
+INFO  16:09:15,606 - #20 ;
+INFO  16:09:15,606 - #2 chArr
+INFO  16:09:15,606 - #13 [
+INFO  16:09:15,606 - #3 3
+INFO  16:09:15,606 - #31 +
+INFO  16:09:15,606 - #2 x
+INFO  16:09:15,606 - #14 ]
+INFO  16:09:15,606 - #27 =
+INFO  16:09:15,606 - #2 r
+INFO  16:09:15,606 - #31 +
+INFO  16:09:15,606 - #2 r
+INFO  16:09:15,606 - #34 /
+INFO  16:09:15,606 - #2 chArr
+INFO  16:09:15,606 - #13 [
+INFO  16:09:15,606 - #2 x
+INFO  16:09:15,606 - #14 ]
+INFO  16:09:15,606 - #20 ;
+INFO  16:09:15,606 - #2 chArr
+INFO  16:09:15,606 - #13 [
+INFO  16:09:15,606 - #3 3
+INFO  16:09:15,606 - #31 +
+INFO  16:09:15,606 - #2 x
+INFO  16:09:15,606 - #14 ]
+INFO  16:09:15,606 - #27 =
+INFO  16:09:15,606 - #2 r
+INFO  16:09:15,606 - #20 ;
+INFO  16:09:15,606 - #2 i
+INFO  16:09:15,606 - #27 =
+INFO  16:09:15,606 - #2 chArr
+INFO  16:09:15,606 - #13 [
+INFO  16:09:15,607 - #2 i
+INFO  16:09:15,607 - #14 ]
+INFO  16:09:15,607 - #31 +
+INFO  16:09:15,607 - #2 x
+INFO  16:09:15,607 - #20 ;
+INFO  16:09:15,607 - #2 i
+INFO  16:09:15,607 - #27 =
+INFO  16:09:15,607 - #2 x
+INFO  16:09:15,607 - #31 +
+INFO  16:09:15,607 - #2 val
+INFO  16:09:15,607 - #15 .
+INFO  16:09:15,607 - #2 k
+INFO  16:09:15,607 - #13 [
+INFO  16:09:15,607 - #2 x
+INFO  16:09:15,607 - #14 ]
+INFO  16:09:15,607 - #20 ;
+INFO  16:09:15,607 - #43 read
+INFO  16:09:15,607 - #9 (
+INFO  16:09:15,607 - #2 chArr
+INFO  16:09:15,607 - #13 [
+INFO  16:09:15,607 - #2 x
+INFO  16:09:15,607 - #30 -
+INFO  16:09:15,607 - #2 i
+INFO  16:09:15,607 - #31 +
+INFO  16:09:15,607 - #2 size
+INFO  16:09:15,607 - #14 ]
+INFO  16:09:15,607 - #10 )
+INFO  16:09:15,607 - #20 ;
+INFO  16:09:15,607 - #43 read
+INFO  16:09:15,607 - #9 (
+INFO  16:09:15,608 - #2 val
+INFO  16:09:15,608 - #10 )
+INFO  16:09:15,608 - #20 ;
+INFO  16:09:15,608 - #43 read
+INFO  16:09:15,608 - #9 (
+INFO  16:09:15,608 - #2 size
+INFO  16:09:15,608 - #10 )
+INFO  16:09:15,608 - #20 ;
+INFO  16:09:15,608 - #26 print
+INFO  16:09:15,608 - #9 (
+INFO  16:09:15,608 - #2 val
+INFO  16:09:15,608 - #11 ,
+INFO  16:09:15,608 - #3 3
+INFO  16:09:15,608 - #10 )
+INFO  16:09:15,608 - #20 ;
+INFO  16:09:15,608 - #26 print
+INFO  16:09:15,608 - #9 (
+INFO  16:09:15,608 - #2 size
+INFO  16:09:15,608 - #11 ,
+INFO  16:09:15,608 - #3 4
+INFO  16:09:15,608 - #10 )
+INFO  16:09:15,608 - #20 ;
+INFO  16:09:15,608 - #8 }
+INFO  16:09:15,608 - #2 int
+INFO  16:09:15,608 - #2 tt
+INFO  16:09:15,608 - #9 (
+INFO  16:09:15,608 - #2 int
+INFO  16:09:15,608 - #2 a
+INFO  16:09:15,608 - #11 ,
+INFO  16:09:15,608 - #2 Table
+INFO  16:09:15,608 - #2 t
+INFO  16:09:15,608 - #10 )
+INFO  16:09:15,608 - #2 Klasa
+INFO  16:09:15,608 - #2 k
+INFO  16:09:15,608 - #20 ;
+INFO  16:09:15,608 - #7 {
+INFO  16:09:15,608 - #2 a
+INFO  16:09:15,608 - #15 .
+INFO  16:09:15,608 - #2 putp
+INFO  16:09:15,608 - #9 (
+INFO  16:09:15,608 - #2 f
+INFO  16:09:15,608 - #11 ,
+INFO  16:09:15,608 - #2 f
+INFO  16:09:15,609 - #10 )
+INFO  16:09:15,609 - #20 ;
+INFO  16:09:15,609 - #2 t
+INFO  16:09:15,609 - #15 .
+INFO  16:09:15,609 - #2 putt
+INFO  16:09:15,609 - #9 (
+INFO  16:09:15,609 - #2 a
+INFO  16:09:15,609 - #11 ,
+INFO  16:09:15,609 - #2 a
+INFO  16:09:15,609 - #10 )
+INFO  16:09:15,609 - #20 ;
+INFO  16:09:15,609 - #2 t
+INFO  16:09:15,609 - #15 .
+INFO  16:09:15,609 - #2 putp
+INFO  16:09:15,609 - #9 (
+INFO  16:09:15,610 - #2 a
+INFO  16:09:15,610 - #10 )
+INFO  16:09:15,610 - #20 ;
+INFO  16:09:15,610 - #2 t
+INFO  16:09:15,610 - #15 .
+INFO  16:09:15,610 - #2 putn
+INFO  16:09:15,610 - #9 (
+INFO  16:09:15,610 - #2 a
+INFO  16:09:15,610 - #11 ,
+INFO  16:09:15,610 - #2 a
+INFO  16:09:15,610 - #10 )
+INFO  16:09:15,610 - #20 ;
+INFO  16:09:15,610 - #2 t
+INFO  16:09:15,610 - #15 .
+INFO  16:09:15,610 - #2 proba
+INFO  16:09:15,610 - #9 (
+INFO  16:09:15,610 - #2 null
+INFO  16:09:15,610 - #10 )
+INFO  16:09:15,610 - #20 ;
+INFO  16:09:15,610 - #2 t
+INFO  16:09:15,610 - #15 .
+INFO  16:09:15,610 - #2 putp
+INFO  16:09:15,610 - #9 (
+INFO  16:09:15,610 - #2 null
+INFO  16:09:15,612 - #11 ,
+INFO  16:09:15,614 - #2 null
+INFO  16:09:15,614 - #10 )
+INFO  16:09:15,614 - #20 ;
+INFO  16:09:15,614 - #25 return
+INFO  16:09:15,614 - #2 t
+INFO  16:09:15,615 - #15 .
+INFO  16:09:15,615 - #2 putp
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 a
+INFO  16:09:15,615 - #11 ,
+INFO  16:09:15,615 - #2 a
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #8 }
+INFO  16:09:15,615 - #2 int
+INFO  16:09:15,615 - #2 m
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 int
+INFO  16:09:15,615 - #2 a
+INFO  16:09:15,615 - #11 ,
+INFO  16:09:15,615 - #2 Table
+INFO  16:09:15,615 - #2 b
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #2 char
+INFO  16:09:15,615 - #2 c
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #7 {
+INFO  16:09:15,615 - #2 chr
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 a
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #2 chr
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 c
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #2 len
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 val
+INFO  16:09:15,615 - #15 .
+INFO  16:09:15,615 - #2 pos
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #2 len
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 val
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #2 ord
+INFO  16:09:15,615 - #9 (
+INFO  16:09:15,615 - #2 c
+INFO  16:09:15,615 - #10 )
+INFO  16:09:15,615 - #20 ;
+INFO  16:09:15,615 - #2 ord
+INFO  16:09:15,616 - #9 (
+INFO  16:09:15,616 - #2 c
+INFO  16:09:15,616 - #11 ,
+INFO  16:09:15,616 - #2 a
+INFO  16:09:15,616 - #10 )
+INFO  16:09:15,616 - #20 ;
+INFO  16:09:15,616 - #2 tt
+INFO  16:09:15,616 - #9 (
+INFO  16:09:15,616 - #2 a
+INFO  16:09:15,616 - #11 ,
+INFO  16:09:15,616 - #2 a
+INFO  16:09:15,616 - #10 )
+INFO  16:09:15,616 - #20 ;
+INFO  16:09:15,616 - #2 b
+INFO  16:09:15,616 - #15 .
+INFO  16:09:15,616 - #2 n
+INFO  16:09:15,616 - #15 .
+INFO  16:09:15,616 - #2 metoda1
+INFO  16:09:15,616 - #9 (
+INFO  16:09:15,616 - #2 a
+INFO  16:09:15,616 - #11 ,
+INFO  16:09:15,616 - #2 c
+INFO  16:09:15,616 - #10 )
+INFO  16:09:15,616 - #20 ;
+INFO  16:09:15,616 - #2 b
+INFO  16:09:15,616 - #15 .
+INFO  16:09:15,616 - #2 n
+INFO  16:09:15,616 - #15 .
+INFO  16:09:15,616 - #2 metoda1
+INFO  16:09:15,616 - #9 (
+INFO  16:09:15,616 - #2 b
+INFO  16:09:15,616 - #11 ,
+INFO  16:09:15,616 - #2 c
+INFO  16:09:15,616 - #10 )
+INFO  16:09:15,616 - #20 ;
+INFO  16:09:15,616 - #8 }
+INFO  16:09:15,616 - #8 }
+INFO  16:09:15,622 - Deklarisana simbolicka konstanta <size>: na liniji 2
+ERROR 16:09:15,622 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju: na liniji 3
+INFO  16:09:15,623 - Deklarisana simbolicka konstanta <b>: na liniji 4
+INFO  16:09:15,623 - Deklarisana globalna promenljiva <f>: na liniji 5
+INFO  16:09:15,623 - Deklarisana klasa <Klasa>: na liniji 6
+ERROR 16:09:15,623 - Klasa ne moze nasledjivati tipa <int>, jer nije klasni: na liniji 6
+INFO  16:09:15,623 - Deklarisano polje klase, niz <niz>: na liniji 7
+INFO  16:09:15,623 - Obrada metode <metoda1>: na liniji 9
+INFO  16:09:15,623 - Pristup simbolu <niz>: na liniji 11
+INFO  16:09:15,623 - Pristup elementu niza <niz>: na liniji 11
+INFO  16:09:15,623 - Koriscenje formalnog argumenta funkcije <x>: na liniji 11
+INFO  16:09:15,623 - Koriscenje formalnog argumenta funkcije <x>: na liniji 11
+INFO  16:09:15,624 - Pristup simbolu <niz>: na liniji 12
+INFO  16:09:15,624 - Koriscenje formalnog argumenta funkcije <x>: na liniji 12
+INFO  16:09:15,624 - Pristup elementu niza <niz>: na liniji 12
+INFO  16:09:15,624 - Koriscenje formalnog argumenta funkcije <p>: na liniji 12
+ERROR 16:09:15,624 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 12
+INFO  16:09:15,624 - Pristup simbolu <niz>: na liniji 13
+INFO  16:09:15,624 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  16:09:15,624 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  16:09:15,624 - Pristup elementu niza <niz>: na liniji 13
+INFO  16:09:15,624 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  16:09:15,624 - Koriscenje formalnog argumenta funkcije <p>: na liniji 13
+ERROR 16:09:15,624 - Greska, operatori se moraju slagati po tipu!: na liniji 13
+ERROR 16:09:15,624 - Nekompatibilni operatori!: na liniji 13
+ERROR 16:09:15,624 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 13
+INFO  16:09:15,626 - Deklarisana klasa <Table>: na liniji 17
+INFO  16:09:15,626 - Deklarisano polje klase <n>: na liniji 18
+INFO  16:09:15,626 - Deklarisano polje klase <l>: na liniji 18
+INFO  16:09:15,626 - Deklarisano polje klase <k>: na liniji 19
+INFO  16:09:15,626 - Deklarisano polje klase, niz <pos>: na liniji 20
+INFO  16:09:15,626 - Deklarisano polje klase, niz <neg>: na liniji 20
+INFO  16:09:15,626 - Deklarisano polje klase, niz <ns>: na liniji 21
+INFO  16:09:15,626 - Deklarisano polje klase, niz <chNiz>: na liniji 22
+INFO  16:09:15,626 - Obrada metode <putp>: na liniji 24
+INFO  16:09:15,626 - Koriscenje formalnog argumenta funkcije <idx>: na liniji 26
+INFO  16:09:15,626 - Pristup elementu niza <pos>: na liniji 26
+INFO  16:09:15,626 - Koriscenje formalnog argumenta funkcije <a>: na liniji 26
+ERROR 16:09:15,626 - Greska, naredba |continue| mora biti unutar do-while petlje!: na liniji 29
+INFO  16:09:15,626 - Pristup simbolu <n>: na liniji 32
+INFO  16:09:15,626 - Pristup simbolu <ns>: na liniji 32
+INFO  16:09:15,626 - Pristup simbolu <k>: na liniji 32
+INFO  16:09:15,626 - Pristup simbolu <pos>: na liniji 32
+INFO  16:09:15,626 - Pristup simbolu <k>: na liniji 32
+INFO  16:09:15,626 - Pristup elementu niza <pos>: na liniji 32
+INFO  16:09:15,627 - Pristup elementu niza <ns>: na liniji 32
+INFO  16:09:15,627 - Pristup simbolu <chNiz>: na liniji 33
+INFO  16:09:15,627 - Pristup simbolu <k>: na liniji 33
+INFO  16:09:15,627 - Pristup elementu niza <chNiz>: na liniji 33
+ERROR 16:09:15,627 - Greska, tip promenljive koja se dekrementira mora biti int!: na liniji 33
+INFO  16:09:15,627 - Pristup simbolu <neg>: na liniji 34
+INFO  16:09:15,627 - Pristup simbolu <k>: na liniji 34
+INFO  16:09:15,627 - Pristup simbolu <pos>: na liniji 34
+INFO  16:09:15,627 - Pristup simbolu <k>: na liniji 34
+INFO  16:09:15,627 - Koriscenje formalnog argumenta funkcije <a>: na liniji 34
+INFO  16:09:15,627 - Koriscenje formalnog argumenta funkcije <idx>: na liniji 34
+INFO  16:09:15,627 - Pristup elementu niza <pos>: na liniji 34
+INFO  16:09:15,627 - Pristup elementu niza <neg>: na liniji 34
+INFO  16:09:15,627 - Pristup simbolu <size>: na liniji 35
+ERROR 16:09:15,627 - Greska, objekat ne sme biti konstanta!: na liniji 35
+INFO  16:09:15,627 - Koriscenje formalnog argumenta funkcije <a>: na liniji 36
+INFO  16:09:15,628 - Koriscenje formalnog argumenta funkcije <idx>: na liniji 36
+ERROR 16:09:15,628 - Greska, neispravno zadat uslov: na liniji 36
+INFO  16:09:15,628 - Pristup simbolu <size>: na liniji 37
+INFO  16:09:15,628 - Greska, nedozvoljeno je dodeljivati vrednost konstatama!: na liniji 37
+INFO  16:09:15,628 - Koriscenje formalnog argumenta funkcije <a>: na liniji 37
+INFO  16:09:15,628 - Koriscenje formalnog argumenta funkcije <idx>: na liniji 37
+INFO  16:09:15,628 - Koriscenje formalnog argumenta funkcije <a>: na liniji 37
+INFO  16:09:15,628 - Pristup simbolu <k>: na liniji 37
+INFO  16:09:15,628 - Pristup simbolu <b>: na liniji 38
+INFO  16:09:15,628 - Pristup simbolu <k>: na liniji 39
+INFO  16:09:15,628 - Pristup simbolu <k>: na liniji 40
+INFO  16:09:15,628 - Pristup simbolu <n>: na liniji 40
+ERROR 16:09:15,628 - Greska, izrazi moraju biti kompatibilni po tipu!: na liniji 40
+INFO  16:09:15,628 - Pristup simbolu <k>: na liniji 42
+INFO  16:09:15,628 - Koriscenje formalnog argumenta funkcije <idx>: na liniji 42
+INFO  16:09:15,628 - Koriscenje formalnog argumenta funkcije <a>: na liniji 42
+INFO  16:09:15,629 - Pristup simbolu <n>: na liniji 42
+INFO  16:09:15,629 - Pristup simbolu <neg>: na liniji 42
+INFO  16:09:15,629 - Pristup simbolu <k>: na liniji 42
+INFO  16:09:15,629 - Pristup elementu niza <neg>: na liniji 42
+ERROR 16:09:15,629 - Greska, izrazi moraju biti kompatibilni po tipu!: na liniji 42
+ERROR 16:09:15,629 - Greska, uz klase i nizove mogu ici samo provere jednakosti!: na liniji 42
+ERROR 16:09:15,629 - Greska, neispravno zadat uslov: na liniji 42
+INFO  16:09:15,629 - Pristup simbolu <n>: na liniji 44
+INFO  16:09:15,629 - Pristup simbolu <l>: na liniji 44
+ERROR 16:09:15,629 - Greska, uz klase i nizove mogu ici samo provere jednakosti!: na liniji 44
+INFO  16:09:15,629 - Pristup simbolu <chNiz>: na liniji 48
+INFO  16:09:15,629 - Koriscenje formalnog argumenta funkcije <a>: na liniji 48
+INFO  16:09:15,629 - Pristup elementu niza <chNiz>: na liniji 48
+ERROR 16:09:15,630 - Greska, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije <putp>: na liniji 48
+INFO  16:09:15,630 - Obrada metode <putn>: na liniji 50
+INFO  16:09:15,630 - Deklarisana lokalna promenljiva <kNiz>: na liniji 51
+INFO  16:09:15,630 - Pristup simbolu <neg>: na liniji 53
+INFO  16:09:15,630 - Koriscenje formalnog argumenta funkcije <b>: na liniji 53
+ERROR 16:09:15,630 - Nekompatibilan tip za indeksiranje niza: na liniji 53
+INFO  16:09:15,630 - Koriscenje formalnog argumenta funkcije <a>: na liniji 53
+INFO  16:09:15,630 - Pristup simbolu <k>: na liniji 54
+INFO  16:09:15,630 - Koriscenje formalnog argumenta funkcije <a>: na liniji 54
+INFO  16:09:15,630 - Pristup elementu niza <k>: na liniji 54
+ERROR 16:09:15,630 - Greska, promenljiva <k> nije niz: na liniji 54
+INFO  16:09:15,630 - Koriscenje formalnog argumenta funkcije <a>: na liniji 54
+INFO  16:09:15,630 - Koriscenje formalnog argumenta funkcije <a>: na liniji 55
+ERROR 16:09:15,630 - Greska, promenljiva kojoj se dodeljuje vrednost nije deklarisana: na liniji 55
+INFO  16:09:15,630 - Pristup simbolu <n>: na liniji 56
+INFO  16:09:15,630 - Kreiran je nov objekat klase <Klasa>: na liniji 56
+ERROR 16:09:15,630 - Greska, naredba |continue| mora biti unutar do-while petlje!: na liniji 57
+INFO  16:09:15,630 - Pristup simbolu <kNiz>: na liniji 58
+INFO  16:09:15,630 - Koriscenje formalnog argumenta funkcije <b>: na liniji 58
+INFO  16:09:15,630 - Kreiran je nov objekat klase <Klasa>: na liniji 58
+ERROR 16:09:15,630 - Greska, indeks nije celobrojnog tipa!: na liniji 58
+INFO  16:09:15,630 - Pristup simbolu <kNiz>: na liniji 59
+ERROR 16:09:15,630 - Greska, tip <int> nije klasni tip: na liniji 59
+ERROR 16:09:15,630 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 59
+INFO  16:09:15,630 - Pristup simbolu <kNiz>: na liniji 60
+INFO  16:09:15,630 - Kreiran je nov objekat klase <Table>: na liniji 60
+INFO  16:09:15,630 - Pristup simbolu <kNiz>: na liniji 61
+INFO  16:09:15,631 - Koriscenje formalnog argumenta funkcije <a>: na liniji 61
+INFO  16:09:15,631 - Kreiran je nov objekat klase <Klasa>: na liniji 61
+INFO  16:09:15,631 - Pristup simbolu <n>: na liniji 62
+ERROR 16:09:15,631 - Greska, metod ne sme imati return sa izrazom, jer je tipa void!: na liniji 62
+ERROR 16:09:15,631 - Greska, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije <putn>: na liniji 62
+INFO  16:09:15,631 - Obrada metode <proba>: na liniji 66
+INFO  16:09:15,631 - Deklarisana globalna promenljiva <val>: na liniji 70
+INFO  16:09:15,631 - Obrada metode <main>: na liniji 72
+INFO  16:09:15,631 - Deklarisana lokalna promenljiva <x>: na liniji 73
+INFO  16:09:15,631 - Deklarisana lokalna promenljiva <i>: na liniji 73
+INFO  16:09:15,631 - Deklarisana lokalna promenljiva <chArr>: na liniji 74
+INFO  16:09:15,631 - Deklarisana lokalna promenljiva <r>: na liniji 75
+INFO  16:09:15,631 - Pristup simbolu <x>: na liniji 77
+INFO  16:09:15,631 - Pristup simbolu <size>: na liniji 77
+INFO  16:09:15,631 - Pristup simbolu <chArr>: na liniji 78
+INFO  16:09:15,631 - Pristup simbolu <x>: na liniji 78
+INFO  16:09:15,631 - Pristup elementu niza <chArr>: na liniji 78
+INFO  16:09:15,631 - Pristup simbolu <r>: na liniji 78
+ERROR 16:09:15,631 - Greska, operator neispravnog tipa!: na liniji 78
+INFO  16:09:15,631 - Pristup simbolu <i>: na liniji 80
+INFO  16:09:15,631 - Pristup simbolu <val>: na liniji 80
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 80
+ERROR 16:09:15,632 - Greska, promenljiva <pos> nije niz: na liniji 80
+ERROR 16:09:15,632 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 80
+INFO  16:09:15,632 - Pristup simbolu <chArr>: na liniji 81
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 81
+INFO  16:09:15,632 - Pristup elementu niza <chArr>: na liniji 81
+INFO  16:09:15,632 - Pristup simbolu <r>: na liniji 81
+INFO  16:09:15,632 - Pristup simbolu <r>: na liniji 81
+INFO  16:09:15,632 - Pristup simbolu <chArr>: na liniji 81
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 81
+INFO  16:09:15,632 - Pristup elementu niza <chArr>: na liniji 81
+INFO  16:09:15,632 - Pristup simbolu <chArr>: na liniji 82
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 82
+INFO  16:09:15,632 - Pristup elementu niza <chArr>: na liniji 82
+INFO  16:09:15,632 - Pristup simbolu <r>: na liniji 82
+INFO  16:09:15,632 - Pristup simbolu <i>: na liniji 83
+INFO  16:09:15,632 - Pristup simbolu <chArr>: na liniji 83
+INFO  16:09:15,632 - Pristup simbolu <i>: na liniji 83
+INFO  16:09:15,632 - Pristup elementu niza <chArr>: na liniji 83
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 83
+ERROR 16:09:15,632 - Nekompatibilni operatori!: na liniji 83
+ERROR 16:09:15,632 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 83
+INFO  16:09:15,632 - Pristup simbolu <i>: na liniji 84
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 84
+INFO  16:09:15,632 - Pristup simbolu <val>: na liniji 84
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 84
+ERROR 16:09:15,632 - Greska, promenljiva <k> nije niz: na liniji 84
+ERROR 16:09:15,632 - Nekompatibilni operatori!: na liniji 84
+ERROR 16:09:15,632 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 84
+INFO  16:09:15,632 - Pristup simbolu <chArr>: na liniji 85
+INFO  16:09:15,632 - Pristup simbolu <x>: na liniji 85
+INFO  16:09:15,632 - Pristup simbolu <i>: na liniji 85
+INFO  16:09:15,632 - Pristup simbolu <size>: na liniji 85
+INFO  16:09:15,632 - Pristup elementu niza <chArr>: na liniji 85
+INFO  16:09:15,632 - Pristup simbolu <val>: na liniji 86
+INFO  16:09:15,632 - Pristup simbolu <size>: na liniji 87
+INFO  16:09:15,632 - Pristup simbolu <val>: na liniji 88
+INFO  16:09:15,632 - Pristup simbolu <size>: na liniji 89
+INFO  16:09:15,632 - Obrada metode <tt>: na liniji 92
+INFO  16:09:15,632 - Deklarisana lokalna promenljiva <k>: na liniji 93
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <a>: na liniji 95
+INFO  16:09:15,632 - Pristup simbolu <f>: na liniji 95
+INFO  16:09:15,632 - Pristup simbolu <f>: na liniji 95
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <t>: na liniji 96
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <a>: na liniji 96
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <a>: na liniji 96
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <t>: na liniji 97
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <a>: na liniji 97
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <t>: na liniji 98
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <a>: na liniji 98
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <a>: na liniji 98
+INFO  16:09:15,632 - Koriscenje formalnog argumenta funkcije <t>: na liniji 99
+INFO  16:09:15,633 - Pristup simbolu <null>: na liniji 99
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <t>: na liniji 100
+INFO  16:09:15,633 - Pristup simbolu <null>: na liniji 100
+INFO  16:09:15,633 - Pristup simbolu <null>: na liniji 100
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <t>: na liniji 101
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 101
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 101
+INFO  16:09:15,633 - Poziv globalne metode: na liniji 101
+ERROR 16:09:15,633 - Greska, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije <tt>: na liniji 101
+INFO  16:09:15,633 - Obrada metode <m>: na liniji 104
+INFO  16:09:15,633 - Deklarisana lokalna promenljiva <c>: na liniji 105
+INFO  16:09:15,633 - Pristup simbolu <chr>: na liniji 107
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 107
+INFO  16:09:15,633 - Pristup simbolu <chr>: na liniji 108
+INFO  16:09:15,633 - Pristup simbolu <c>: na liniji 108
+INFO  16:09:15,633 - Pristup simbolu <len>: na liniji 109
+INFO  16:09:15,633 - Pristup simbolu <val>: na liniji 109
+INFO  16:09:15,633 - Pristup simbolu <len>: na liniji 110
+INFO  16:09:15,633 - Pristup simbolu <val>: na liniji 110
+INFO  16:09:15,633 - Pristup simbolu <ord>: na liniji 111
+INFO  16:09:15,633 - Pristup simbolu <c>: na liniji 111
+INFO  16:09:15,633 - Pristup simbolu <ord>: na liniji 112
+INFO  16:09:15,633 - Pristup simbolu <c>: na liniji 112
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 112
+INFO  16:09:15,633 - Pristup simbolu <tt>: na liniji 113
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 113
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 113
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <b>: na liniji 114
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <a>: na liniji 114
+INFO  16:09:15,633 - Pristup simbolu <c>: na liniji 114
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <b>: na liniji 116
+INFO  16:09:15,633 - Koriscenje formalnog argumenta funkcije <b>: na liniji 116
+INFO  16:09:15,633 - Pristup simbolu <c>: na liniji 116
+ERROR 16:09:15,633 - Semanticka greska funcija <m> nema return iskaz

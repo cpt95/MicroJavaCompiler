@@ -1,0 +1,58 @@
+INFO  20:47:51,408 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  20:47:51,438 - #6 program
+INFO  20:47:51,438 - #2 P
+INFO  20:47:51,438 - #28 const
+INFO  20:47:51,439 - #2 int
+INFO  20:47:51,439 - #2 size
+INFO  20:47:51,439 - #27 =
+INFO  20:47:51,439 - #3 10
+INFO  20:47:51,439 - #20 ;
+INFO  20:47:51,439 - #28 const
+INFO  20:47:51,440 - #2 int
+INFO  20:47:51,440 - #2 si
+INFO  20:47:51,440 - #27 =
+INFO  20:47:51,440 - #5 t
+INFO  20:47:51,440 - #20 ;
+INFO  20:47:51,440 - #28 const
+INFO  20:47:51,440 - #2 bool
+INFO  20:47:51,440 - #2 b
+INFO  20:47:51,440 - #27 =
+INFO  20:47:51,440 - #4 false
+INFO  20:47:51,440 - #20 ;
+INFO  20:47:51,440 - #2 int
+INFO  20:47:51,441 - #2 f
+INFO  20:47:51,441 - #20 ;
+INFO  20:47:51,441 - #19 class
+INFO  20:47:51,441 - #2 Klasa
+INFO  20:47:51,441 - #12 extends
+INFO  20:47:51,441 - #2 int
+INFO  20:47:51,441 - #7 {
+INFO  20:47:51,442 - #2 int
+INFO  20:47:51,442 - #2 niz
+INFO  20:47:51,442 - #13 [
+INFO  20:47:51,442 - #14 ]
+INFO  20:47:51,442 - #20 ;
+INFO  20:47:51,442 - #7 {
+INFO  20:47:51,442 - #44 void
+INFO  20:47:51,442 - #2 metoda1
+INFO  20:47:51,443 - #9 (
+INFO  20:47:51,443 - #2 int
+INFO  20:47:51,443 - #2 x
+INFO  20:47:51,443 - #11 ,
+INFO  20:47:51,443 - #2 char
+INFO  20:47:51,443 - #2 p
+INFO  20:47:51,443 - #10 )
+INFO  20:47:51,443 - #7 {
+INFO  20:47:51,443 - #8 }
+INFO  20:47:51,444 - #8 }
+INFO  20:47:51,444 - #8 }
+INFO  20:47:51,444 - #7 {
+INFO  20:47:51,445 - #8 }
+INFO  20:47:51,450 - Deklarisana simbolicka konstanta size na liniji 2
+ERROR 20:47:51,451 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju na liniji 3
+INFO  20:47:51,451 - Deklarisana simbolicka konstanta b na liniji 4
+INFO  20:47:51,451 - Deklarisana globalna promenljiva f na liniji 5
+INFO  20:47:51,451 - Deklarisana klasa <Klasa> na liniji 6
+ERROR 20:47:51,451 - Klasa ne moze nasledjivati tip koji nije klasni: na liniji 6
+INFO  20:47:51,451 - Deklarisano polje klase, niz <niz> na liniji 7
+INFO  20:47:51,451 - Obrada metode <metoda1> na liniji 9

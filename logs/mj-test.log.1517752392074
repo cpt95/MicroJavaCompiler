@@ -1,0 +1,46 @@
+INFO  14:52:17,874 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  14:52:17,918 - #6 program
+INFO  14:52:17,918 - #2 P
+INFO  14:52:17,918 - #2 int
+INFO  14:52:17,919 - #2 x
+INFO  14:52:17,919 - #20 ;
+INFO  14:52:17,920 - #2 int
+INFO  14:52:17,920 - #2 y
+INFO  14:52:17,920 - #20 ;
+INFO  14:52:17,920 - #7 {
+INFO  14:52:17,920 - #2 int
+INFO  14:52:17,920 - #2 main
+INFO  14:52:17,920 - #9 (
+INFO  14:52:17,920 - #10 )
+INFO  14:52:17,920 - #7 {
+INFO  14:52:17,921 - #2 x
+INFO  14:52:17,921 - #27 =
+INFO  14:52:17,921 - #3 3
+INFO  14:52:17,922 - #20 ;
+INFO  14:52:17,922 - #26 print
+INFO  14:52:17,922 - #9 (
+INFO  14:52:17,922 - #2 x
+INFO  14:52:17,922 - #10 )
+INFO  14:52:17,922 - #20 ;
+INFO  14:52:17,923 - #2 x
+INFO  14:52:17,923 - #16 ++
+INFO  14:52:17,923 - #20 ;
+INFO  14:52:17,923 - #26 print
+INFO  14:52:17,923 - #9 (
+INFO  14:52:17,923 - #2 x
+INFO  14:52:17,923 - #10 )
+INFO  14:52:17,923 - #20 ;
+INFO  14:52:17,923 - #25 return
+INFO  14:52:17,923 - #3 0
+INFO  14:52:17,923 - #20 ;
+INFO  14:52:17,923 - #8 }
+INFO  14:52:17,923 - #8 }
+INFO  14:52:17,935 - Deklarisana globalna promenljiva <x>: na liniji 2
+INFO  14:52:17,935 - Deklarisana globalna promenljiva <y>: na liniji 2
+INFO  14:52:17,936 - Obrada metode <main>: na liniji 4
+INFO  14:52:17,936 - Pristup simbolu <x>: na liniji 5
+INFO  14:52:17,936 - Pristup simbolu <x>: na liniji 6
+INFO  14:52:17,936 - Pristup simbolu <x>: na liniji 7
+INFO  14:52:17,936 - Pristup simbolu <x>: na liniji 8
+INFO  14:52:17,937 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  14:52:17,941 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,142 @@
+INFO  19:20:31,364 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  19:20:31,402 - #6 program
+INFO  19:20:31,402 - #2 test301
+INFO  19:20:31,403 - #28 const
+INFO  19:20:31,403 - #2 int
+INFO  19:20:31,403 - #2 jedan
+INFO  19:20:31,403 - #27 =
+INFO  19:20:31,403 - #3 1
+INFO  19:20:31,404 - #20 ;
+INFO  19:20:31,404 - #28 const
+INFO  19:20:31,404 - #2 int
+INFO  19:20:31,404 - #2 pet
+INFO  19:20:31,404 - #27 =
+INFO  19:20:31,404 - #3 5
+INFO  19:20:31,404 - #20 ;
+INFO  19:20:31,404 - #2 int
+INFO  19:20:31,404 - #2 niz
+INFO  19:20:31,404 - #13 [
+INFO  19:20:31,404 - #14 ]
+INFO  19:20:31,405 - #20 ;
+INFO  19:20:31,405 - #2 char
+INFO  19:20:31,405 - #2 nizch
+INFO  19:20:31,405 - #13 [
+INFO  19:20:31,405 - #14 ]
+INFO  19:20:31,405 - #20 ;
+INFO  19:20:31,405 - #7 {
+INFO  19:20:31,405 - #44 void
+INFO  19:20:31,405 - #2 main
+INFO  19:20:31,405 - #9 (
+INFO  19:20:31,405 - #10 )
+INFO  19:20:31,406 - #2 int
+INFO  19:20:31,406 - #2 bodovi
+INFO  19:20:31,406 - #20 ;
+INFO  19:20:31,406 - #7 {
+INFO  19:20:31,406 - #2 bodovi
+INFO  19:20:31,407 - #27 =
+INFO  19:20:31,407 - #3 0
+INFO  19:20:31,407 - #20 ;
+INFO  19:20:31,407 - #2 bodovi
+INFO  19:20:31,407 - #16 ++
+INFO  19:20:31,408 - #20 ;
+INFO  19:20:31,408 - #2 bodovi
+INFO  19:20:31,408 - #27 =
+INFO  19:20:31,408 - #2 bodovi
+INFO  19:20:31,408 - #31 +
+INFO  19:20:31,408 - #2 jedan
+INFO  19:20:31,408 - #20 ;
+INFO  19:20:31,408 - #2 bodovi
+INFO  19:20:31,409 - #27 =
+INFO  19:20:31,409 - #2 bodovi
+INFO  19:20:31,409 - #33 *
+INFO  19:20:31,409 - #2 pet
+INFO  19:20:31,410 - #20 ;
+INFO  19:20:31,410 - #2 bodovi
+INFO  19:20:31,410 - #17 --
+INFO  19:20:31,410 - #20 ;
+INFO  19:20:31,411 - #26 print
+INFO  19:20:31,411 - #9 (
+INFO  19:20:31,411 - #2 bodovi
+INFO  19:20:31,411 - #10 )
+INFO  19:20:31,411 - #20 ;
+INFO  19:20:31,411 - #2 niz
+INFO  19:20:31,411 - #27 =
+INFO  19:20:31,412 - #32 new
+INFO  19:20:31,412 - #2 int
+INFO  19:20:31,412 - #13 [
+INFO  19:20:31,412 - #3 2
+INFO  19:20:31,412 - #14 ]
+INFO  19:20:31,412 - #20 ;
+INFO  19:20:31,412 - #2 niz
+INFO  19:20:31,412 - #13 [
+INFO  19:20:31,412 - #3 0
+INFO  19:20:31,412 - #14 ]
+INFO  19:20:31,413 - #27 =
+INFO  19:20:31,413 - #2 pet
+INFO  19:20:31,413 - #20 ;
+INFO  19:20:31,413 - #2 niz
+INFO  19:20:31,413 - #13 [
+INFO  19:20:31,413 - #3 1
+INFO  19:20:31,413 - #14 ]
+INFO  19:20:31,413 - #27 =
+INFO  19:20:31,413 - #3 10
+INFO  19:20:31,413 - #20 ;
+INFO  19:20:31,413 - #2 bodovi
+INFO  19:20:31,413 - #27 =
+INFO  19:20:31,413 - #2 niz
+INFO  19:20:31,413 - #13 [
+INFO  19:20:31,413 - #3 1
+INFO  19:20:31,413 - #14 ]
+INFO  19:20:31,413 - #34 /
+INFO  19:20:31,413 - #2 niz
+INFO  19:20:31,414 - #13 [
+INFO  19:20:31,414 - #3 0
+INFO  19:20:31,414 - #14 ]
+INFO  19:20:31,414 - #20 ;
+INFO  19:20:31,414 - #26 print
+INFO  19:20:31,414 - #9 (
+INFO  19:20:31,414 - #2 bodovi
+INFO  19:20:31,414 - #10 )
+INFO  19:20:31,414 - #20 ;
+INFO  19:20:31,414 - #26 print
+INFO  19:20:31,414 - #9 (
+INFO  19:20:31,414 - #2 niz
+INFO  19:20:31,414 - #13 [
+INFO  19:20:31,414 - #3 1
+INFO  19:20:31,414 - #14 ]
+INFO  19:20:31,414 - #10 )
+INFO  19:20:31,414 - #20 ;
+INFO  19:20:31,414 - #8 }
+INFO  19:20:31,414 - #8 }
+INFO  19:20:31,421 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  19:20:31,421 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  19:20:31,421 - Deklarisana globalna promenljiva <niz>: na liniji 8
+INFO  19:20:31,421 - Deklarisana globalna promenljiva <nizch>: na liniji 10
+INFO  19:20:31,421 - Obrada metode <main>: na liniji 13
+INFO  19:20:31,421 - Deklarisana lokalna promenljiva <bodovi>: na liniji 14
+INFO  19:20:31,421 - Pristup simbolu <bodovi>: na liniji 16
+INFO  19:20:31,421 - Pristup simbolu <bodovi>: na liniji 17
+INFO  19:20:31,421 - Pristup simbolu <bodovi>: na liniji 18
+INFO  19:20:31,421 - Pristup simbolu <bodovi>: na liniji 18
+INFO  19:20:31,421 - Pristup simbolu <jedan>: na liniji 18
+INFO  19:20:31,421 - Pristup simbolu <bodovi>: na liniji 19
+INFO  19:20:31,422 - Pristup simbolu <bodovi>: na liniji 19
+INFO  19:20:31,422 - Pristup simbolu <pet>: na liniji 19
+INFO  19:20:31,422 - Pristup simbolu <bodovi>: na liniji 20
+INFO  19:20:31,422 - Pristup simbolu <bodovi>: na liniji 21
+INFO  19:20:31,422 - Pristup simbolu <niz>: na liniji 23
+INFO  19:20:31,422 - Pristup simbolu <niz>: na liniji 24
+INFO  19:20:31,422 - Pristup elementu niza <niz>: na liniji 24
+INFO  19:20:31,422 - Pristup simbolu <pet>: na liniji 24
+INFO  19:20:31,422 - Pristup simbolu <niz>: na liniji 25
+INFO  19:20:31,422 - Pristup elementu niza <niz>: na liniji 25
+INFO  19:20:31,422 - Pristup simbolu <bodovi>: na liniji 26
+INFO  19:20:31,422 - Pristup simbolu <niz>: na liniji 26
+INFO  19:20:31,422 - Pristup elementu niza <niz>: na liniji 26
+INFO  19:20:31,422 - Pristup simbolu <niz>: na liniji 26
+INFO  19:20:31,422 - Pristup elementu niza <niz>: na liniji 26
+INFO  19:20:31,422 - Pristup simbolu <bodovi>: na liniji 27
+INFO  19:20:31,422 - Pristup simbolu <niz>: na liniji 28
+INFO  19:20:31,422 - Pristup elementu niza <niz>: na liniji 28
+INFO  19:20:31,423 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  19:20:31,426 - Parsiranje uspesno zavrseno!

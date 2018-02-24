@@ -1,0 +1,111 @@
+INFO  17:32:57,783 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  17:32:57,810 - #6 program
+INFO  17:32:57,811 - #2 test301
+INFO  17:32:57,811 - #28 const
+INFO  17:32:57,811 - #2 int
+INFO  17:32:57,811 - #2 jedan
+INFO  17:32:57,812 - #27 =
+INFO  17:32:57,812 - #3 1
+INFO  17:32:57,812 - #20 ;
+INFO  17:32:57,812 - #28 const
+INFO  17:32:57,812 - #2 int
+INFO  17:32:57,812 - #2 pet
+INFO  17:32:57,813 - #27 =
+INFO  17:32:57,813 - #3 5
+INFO  17:32:57,813 - #20 ;
+INFO  17:32:57,813 - #2 int
+INFO  17:32:57,813 - #2 niz
+INFO  17:32:57,813 - #13 [
+INFO  17:32:57,813 - #14 ]
+INFO  17:32:57,813 - #20 ;
+INFO  17:32:57,813 - #2 char
+INFO  17:32:57,813 - #2 nizch
+INFO  17:32:57,813 - #13 [
+INFO  17:32:57,814 - #14 ]
+INFO  17:32:57,814 - #20 ;
+INFO  17:32:57,814 - #7 {
+INFO  17:32:57,814 - #44 void
+INFO  17:32:57,814 - #2 main
+INFO  17:32:57,814 - #9 (
+INFO  17:32:57,814 - #10 )
+INFO  17:32:57,814 - #2 int
+INFO  17:32:57,815 - #2 bodovi
+INFO  17:32:57,815 - #20 ;
+INFO  17:32:57,815 - #7 {
+INFO  17:32:57,815 - #2 bodovi
+INFO  17:32:57,815 - #27 =
+INFO  17:32:57,816 - #3 0
+INFO  17:32:57,816 - #20 ;
+INFO  17:32:57,816 - #26 print
+INFO  17:32:57,816 - #9 (
+INFO  17:32:57,816 - #2 bodovi
+INFO  17:32:57,816 - #10 )
+INFO  17:32:57,816 - #20 ;
+INFO  17:32:57,816 - #2 bodovi
+INFO  17:32:57,816 - #16 ++
+INFO  17:32:57,817 - #20 ;
+INFO  17:32:57,817 - #26 print
+INFO  17:32:57,817 - #9 (
+INFO  17:32:57,817 - #2 bodovi
+INFO  17:32:57,817 - #10 )
+INFO  17:32:57,817 - #20 ;
+INFO  17:32:57,817 - #2 bodovi
+INFO  17:32:57,817 - #27 =
+INFO  17:32:57,817 - #2 bodovi
+INFO  17:32:57,817 - #31 +
+INFO  17:32:57,817 - #2 jedan
+INFO  17:32:57,817 - #20 ;
+INFO  17:32:57,818 - #26 print
+INFO  17:32:57,818 - #9 (
+INFO  17:32:57,818 - #2 bodovi
+INFO  17:32:57,818 - #10 )
+INFO  17:32:57,818 - #20 ;
+INFO  17:32:57,818 - #2 bodovi
+INFO  17:32:57,818 - #27 =
+INFO  17:32:57,818 - #2 bodovi
+INFO  17:32:57,818 - #33 *
+INFO  17:32:57,819 - #2 pet
+INFO  17:32:57,819 - #20 ;
+INFO  17:32:57,819 - #26 print
+INFO  17:32:57,819 - #9 (
+INFO  17:32:57,819 - #2 pet
+INFO  17:32:57,819 - #10 )
+INFO  17:32:57,819 - #20 ;
+INFO  17:32:57,819 - #26 print
+INFO  17:32:57,819 - #9 (
+INFO  17:32:57,819 - #2 bodovi
+INFO  17:32:57,819 - #10 )
+INFO  17:32:57,819 - #20 ;
+INFO  17:32:57,820 - #2 bodovi
+INFO  17:32:57,820 - #17 --
+INFO  17:32:57,820 - #20 ;
+INFO  17:32:57,820 - #26 print
+INFO  17:32:57,820 - #9 (
+INFO  17:32:57,820 - #2 bodovi
+INFO  17:32:57,820 - #10 )
+INFO  17:32:57,820 - #20 ;
+INFO  17:32:57,820 - #8 }
+INFO  17:32:57,820 - #8 }
+INFO  17:32:57,827 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  17:32:57,827 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  17:32:57,827 - Deklarisana globalna promenljiva <niz>: na liniji 8
+INFO  17:32:57,827 - Deklarisana globalna promenljiva <nizch>: na liniji 10
+INFO  17:32:57,827 - Obrada metode <main>: na liniji 13
+INFO  17:32:57,827 - Deklarisana lokalna promenljiva <bodovi>: na liniji 14
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 16
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 17
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 18
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 19
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 20
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 20
+INFO  17:32:57,827 - Pristup simbolu <jedan>: na liniji 20
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 21
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 22
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 22
+INFO  17:32:57,827 - Pristup simbolu <pet>: na liniji 22
+INFO  17:32:57,827 - Pristup simbolu <pet>: na liniji 23
+INFO  17:32:57,827 - Pristup simbolu <bodovi>: na liniji 24
+INFO  17:32:57,828 - Pristup simbolu <bodovi>: na liniji 25
+INFO  17:32:57,828 - Pristup simbolu <bodovi>: na liniji 26
+INFO  17:32:57,828 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  17:32:57,833 - Parsiranje uspesno zavrseno!

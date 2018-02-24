@@ -1,0 +1,46 @@
+INFO  19:16:15,300 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  19:16:15,333 - #6 program
+INFO  19:16:15,333 - #2 P
+INFO  19:16:15,333 - #28 const
+INFO  19:16:15,334 - #2 int
+INFO  19:16:15,334 - #2 size
+INFO  19:16:15,334 - #27 =
+INFO  19:16:15,335 - #3 10
+INFO  19:16:15,335 - #20 ;
+INFO  19:16:15,335 - #28 const
+INFO  19:16:15,335 - #2 int
+INFO  19:16:15,336 - #2 si
+INFO  19:16:15,336 - #27 =
+INFO  19:16:15,336 - #5 t
+INFO  19:16:15,336 - #20 ;
+INFO  19:16:15,336 - #28 const
+INFO  19:16:15,336 - #2 bool
+INFO  19:16:15,336 - #2 b
+INFO  19:16:15,336 - #27 =
+INFO  19:16:15,336 - #4 false
+INFO  19:16:15,336 - #20 ;
+INFO  19:16:15,336 - #2 int
+INFO  19:16:15,337 - #2 f
+INFO  19:16:15,337 - #20 ;
+INFO  19:16:15,337 - #19 class
+INFO  19:16:15,337 - #2 Klasa
+INFO  19:16:15,337 - #12 extends
+INFO  19:16:15,337 - #2 int
+INFO  19:16:15,338 - #7 {
+INFO  19:16:15,338 - #2 int
+INFO  19:16:15,338 - #2 niz
+INFO  19:16:15,338 - #13 [
+INFO  19:16:15,338 - #14 ]
+INFO  19:16:15,338 - #20 ;
+INFO  19:16:15,339 - #7 {
+INFO  19:16:15,339 - #8 }
+INFO  19:16:15,339 - #8 }
+INFO  19:16:15,339 - #7 {
+INFO  19:16:15,340 - #8 }
+INFO  19:16:15,346 - Deklarisana simbolicka konstanta size na liniji 2
+ERROR 19:16:15,347 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju na liniji 3
+INFO  19:16:15,347 - Deklarisana simbolicka konstanta b na liniji 4
+INFO  19:16:15,347 - Deklarisana globalna promenljiva f na liniji 5
+INFO  19:16:15,347 - Deklaracija klase Klasa na liniji 6
+ERROR 19:16:15,347 - Klasa ne moze nasledjivati tip koji nije klasni: na liniji 6
+INFO  19:16:15,347 - Deklarisana lokalna promenljiva niz na liniji 7

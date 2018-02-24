@@ -1,0 +1,145 @@
+INFO  11:33:03,825 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  11:33:03,853 - #6 program
+INFO  11:33:03,853 - #2 P
+INFO  11:33:03,853 - #2 int
+INFO  11:33:03,854 - #2 h
+INFO  11:33:03,854 - #20 ;
+INFO  11:33:03,854 - #7 {
+INFO  11:33:03,854 - #44 void
+INFO  11:33:03,854 - #2 calc
+INFO  11:33:03,854 - #9 (
+INFO  11:33:03,855 - #2 int
+INFO  11:33:03,855 - #2 x
+INFO  11:33:03,855 - #10 )
+INFO  11:33:03,855 - #7 {
+INFO  11:33:03,855 - #2 x
+INFO  11:33:03,856 - #27 =
+INFO  11:33:03,856 - #2 x
+INFO  11:33:03,856 - #31 +
+INFO  11:33:03,856 - #3 3
+INFO  11:33:03,857 - #33 *
+INFO  11:33:03,857 - #3 2
+INFO  11:33:03,857 - #20 ;
+INFO  11:33:03,858 - #26 print
+INFO  11:33:03,858 - #9 (
+INFO  11:33:03,858 - #2 x
+INFO  11:33:03,858 - #10 )
+INFO  11:33:03,859 - #20 ;
+INFO  11:33:03,859 - #8 }
+INFO  11:33:03,859 - #2 int
+INFO  11:33:03,859 - #2 printC
+INFO  11:33:03,859 - #9 (
+INFO  11:33:03,859 - #2 int
+INFO  11:33:03,859 - #2 p
+INFO  11:33:03,859 - #11 ,
+INFO  11:33:03,859 - #2 char
+INFO  11:33:03,859 - #2 c
+INFO  11:33:03,859 - #10 )
+INFO  11:33:03,860 - #2 int
+INFO  11:33:03,860 - #2 temp
+INFO  11:33:03,860 - #20 ;
+INFO  11:33:03,860 - #7 {
+INFO  11:33:03,860 - #2 temp
+INFO  11:33:03,860 - #27 =
+INFO  11:33:03,860 - #2 p
+INFO  11:33:03,860 - #31 +
+INFO  11:33:03,860 - #3 7
+INFO  11:33:03,860 - #33 *
+INFO  11:33:03,860 - #2 p
+INFO  11:33:03,860 - #30 -
+INFO  11:33:03,860 - #9 (
+INFO  11:33:03,861 - #2 p
+INFO  11:33:03,861 - #34 /
+INFO  11:33:03,861 - #3 2
+INFO  11:33:03,861 - #10 )
+INFO  11:33:03,861 - #20 ;
+INFO  11:33:03,861 - #26 print
+INFO  11:33:03,862 - #9 (
+INFO  11:33:03,862 - #2 c
+INFO  11:33:03,862 - #10 )
+INFO  11:33:03,862 - #20 ;
+INFO  11:33:03,862 - #25 return
+INFO  11:33:03,862 - #2 temp
+INFO  11:33:03,862 - #20 ;
+INFO  11:33:03,862 - #8 }
+INFO  11:33:03,862 - #44 void
+INFO  11:33:03,862 - #2 main
+INFO  11:33:03,862 - #9 (
+INFO  11:33:03,862 - #10 )
+INFO  11:33:03,863 - #2 int
+INFO  11:33:03,863 - #2 s
+INFO  11:33:03,863 - #11 ,
+INFO  11:33:03,863 - #2 y
+INFO  11:33:03,863 - #20 ;
+INFO  11:33:03,863 - #2 int
+INFO  11:33:03,863 - #2 niz
+INFO  11:33:03,863 - #13 [
+INFO  11:33:03,863 - #14 ]
+INFO  11:33:03,863 - #20 ;
+INFO  11:33:03,863 - #7 {
+INFO  11:33:03,863 - #2 niz
+INFO  11:33:03,863 - #27 =
+INFO  11:33:03,863 - #32 new
+INFO  11:33:03,863 - #2 int
+INFO  11:33:03,863 - #13 [
+INFO  11:33:03,863 - #3 4
+INFO  11:33:03,863 - #14 ]
+INFO  11:33:03,864 - #20 ;
+INFO  11:33:03,864 - #2 niz
+INFO  11:33:03,864 - #13 [
+INFO  11:33:03,864 - #3 0
+INFO  11:33:03,864 - #14 ]
+INFO  11:33:03,864 - #27 =
+INFO  11:33:03,864 - #3 1
+INFO  11:33:03,864 - #20 ;
+INFO  11:33:03,864 - #2 s
+INFO  11:33:03,864 - #27 =
+INFO  11:33:03,865 - #2 metoda2
+INFO  11:33:03,865 - #9 (
+INFO  11:33:03,865 - #2 niz
+INFO  11:33:03,865 - #13 [
+INFO  11:33:03,865 - #3 0
+INFO  11:33:03,865 - #14 ]
+INFO  11:33:03,865 - #31 +
+INFO  11:33:03,865 - #3 4
+INFO  11:33:03,865 - #11 ,
+INFO  11:33:03,865 - #5 t
+INFO  11:33:03,865 - #10 )
+INFO  11:33:03,865 - #20 ;
+INFO  11:33:03,865 - #2 niz
+INFO  11:33:03,865 - #13 [
+INFO  11:33:03,866 - #3 1
+INFO  11:33:03,866 - #14 ]
+INFO  11:33:03,866 - #27 =
+INFO  11:33:03,866 - #2 s
+INFO  11:33:03,866 - #20 ;
+INFO  11:33:03,866 - #2 metoda1
+INFO  11:33:03,866 - #9 (
+INFO  11:33:03,866 - #2 s
+INFO  11:33:03,866 - #10 )
+INFO  11:33:03,866 - #20 ;
+INFO  11:33:03,866 - #8 }
+INFO  11:33:03,866 - #8 }
+INFO  11:33:03,873 - Deklarisana globalna promenljiva <h>: na liniji 2
+INFO  11:33:03,874 - Obrada metode <calc>: na liniji 4
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <x>: na liniji 6
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <x>: na liniji 6
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <x>: na liniji 7
+INFO  11:33:03,874 - Obrada metode <printC>: na liniji 10
+INFO  11:33:03,874 - Deklarisana lokalna promenljiva <temp>: na liniji 11
+INFO  11:33:03,874 - Pristup simbolu <temp>: na liniji 13
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <p>: na liniji 13
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <p>: na liniji 13
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <p>: na liniji 13
+INFO  11:33:03,874 - Koriscenje formalnog argumenta funkcije <c>: na liniji 14
+INFO  11:33:03,875 - Pristup simbolu <temp>: na liniji 15
+INFO  11:33:03,875 - Obrada metode <main>: na liniji 18
+INFO  11:33:03,875 - Deklarisana lokalna promenljiva <s>: na liniji 19
+INFO  11:33:03,875 - Deklarisana lokalna promenljiva <y>: na liniji 19
+INFO  11:33:03,875 - Deklarisana lokalna promenljiva <niz>: na liniji 20
+INFO  11:33:03,875 - Pristup simbolu <niz>: na liniji 22
+INFO  11:33:03,875 - Pristup simbolu <niz>: na liniji 23
+INFO  11:33:03,875 - Pristup elementu niza <niz>: na liniji 23
+INFO  11:33:03,875 - Pristup simbolu <s>: na liniji 24
+INFO  11:33:03,875 - Pristup simbolu <niz>: na liniji 24
+INFO  11:33:03,875 - Pristup elementu niza <niz>: na liniji 24

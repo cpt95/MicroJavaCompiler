@@ -1,0 +1,90 @@
+INFO  10:41:51,839 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  10:41:51,869 - #6 program
+INFO  10:41:51,869 - #2 test301
+INFO  10:41:51,869 - #28 const
+INFO  10:41:51,870 - #2 int
+INFO  10:41:51,870 - #2 jedan
+INFO  10:41:51,870 - #27 =
+INFO  10:41:51,870 - #3 1
+INFO  10:41:51,870 - #20 ;
+INFO  10:41:51,871 - #28 const
+INFO  10:41:51,871 - #2 int
+INFO  10:41:51,871 - #2 pet
+INFO  10:41:51,871 - #27 =
+INFO  10:41:51,871 - #3 5
+INFO  10:41:51,871 - #20 ;
+INFO  10:41:51,871 - #2 int
+INFO  10:41:51,871 - #2 niz
+INFO  10:41:51,871 - #13 [
+INFO  10:41:51,872 - #14 ]
+INFO  10:41:51,872 - #20 ;
+INFO  10:41:51,872 - #2 char
+INFO  10:41:51,872 - #2 nizch
+INFO  10:41:51,872 - #13 [
+INFO  10:41:51,873 - #14 ]
+INFO  10:41:51,873 - #20 ;
+INFO  10:41:51,873 - #7 {
+INFO  10:41:51,873 - #44 void
+INFO  10:41:51,873 - #2 main
+INFO  10:41:51,873 - #9 (
+INFO  10:41:51,873 - #10 )
+INFO  10:41:51,873 - #2 int
+INFO  10:41:51,874 - #2 bodovi
+INFO  10:41:51,874 - #20 ;
+INFO  10:41:51,874 - #7 {
+INFO  10:41:51,874 - #2 niz
+INFO  10:41:51,874 - #27 =
+INFO  10:41:51,875 - #32 new
+INFO  10:41:51,875 - #2 int
+INFO  10:41:51,875 - #13 [
+INFO  10:41:51,875 - #3 2
+INFO  10:41:51,875 - #14 ]
+INFO  10:41:51,875 - #20 ;
+INFO  10:41:51,875 - #2 niz
+INFO  10:41:51,876 - #13 [
+INFO  10:41:51,876 - #3 0
+INFO  10:41:51,876 - #14 ]
+INFO  10:41:51,876 - #27 =
+INFO  10:41:51,877 - #2 pet
+INFO  10:41:51,877 - #20 ;
+INFO  10:41:51,877 - #2 niz
+INFO  10:41:51,877 - #13 [
+INFO  10:41:51,877 - #3 1
+INFO  10:41:51,877 - #14 ]
+INFO  10:41:51,877 - #27 =
+INFO  10:41:51,877 - #3 10
+INFO  10:41:51,877 - #20 ;
+INFO  10:41:51,877 - #2 niz
+INFO  10:41:51,877 - #13 [
+INFO  10:41:51,877 - #3 1
+INFO  10:41:51,877 - #14 ]
+INFO  10:41:51,878 - #16 ++
+INFO  10:41:51,878 - #20 ;
+INFO  10:41:51,878 - #26 print
+INFO  10:41:51,878 - #9 (
+INFO  10:41:51,879 - #2 niz
+INFO  10:41:51,879 - #13 [
+INFO  10:41:51,879 - #3 1
+INFO  10:41:51,879 - #14 ]
+INFO  10:41:51,879 - #10 )
+INFO  10:41:51,879 - #20 ;
+INFO  10:41:51,879 - #8 }
+INFO  10:41:51,880 - #8 }
+INFO  10:41:51,886 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  10:41:51,887 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  10:41:51,887 - Deklarisana globalna promenljiva (niz) <niz>: na liniji 8
+INFO  10:41:51,887 - Deklarisana globalna promenljiva (niz) <nizch>: na liniji 10
+INFO  10:41:51,887 - Obrada metode <main>: na liniji 13
+INFO  10:41:51,887 - Deklarisana lokalna promenljiva <bodovi>: na liniji 14
+INFO  10:41:51,887 - Pristup simbolu <niz>: na liniji 16
+INFO  10:41:51,887 - Pristup simbolu <niz>: na liniji 17
+INFO  10:41:51,887 - Pristup elementu niza <niz>: na liniji 17
+INFO  10:41:51,887 - Pristup simbolu <pet>: na liniji 17
+INFO  10:41:51,887 - Pristup simbolu <niz>: na liniji 18
+INFO  10:41:51,887 - Pristup elementu niza <niz>: na liniji 18
+INFO  10:41:51,887 - Pristup simbolu <niz>: na liniji 19
+INFO  10:41:51,887 - Pristup elementu niza <niz>: na liniji 19
+INFO  10:41:51,887 - Pristup simbolu <niz>: na liniji 20
+INFO  10:41:51,887 - Pristup elementu niza <niz>: na liniji 20
+INFO  10:41:51,888 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  10:41:51,895 - Parsiranje uspesno zavrseno!

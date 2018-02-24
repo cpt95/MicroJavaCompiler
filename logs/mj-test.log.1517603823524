@@ -1,0 +1,278 @@
+INFO  21:29:31,171 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  21:29:31,201 - #6 program
+INFO  21:29:31,201 - #2 test301
+INFO  21:29:31,201 - #28 const
+INFO  21:29:31,203 - #2 int
+INFO  21:29:31,203 - #2 jedan
+INFO  21:29:31,203 - #27 =
+INFO  21:29:31,203 - #3 1
+INFO  21:29:31,203 - #20 ;
+INFO  21:29:31,204 - #28 const
+INFO  21:29:31,205 - #2 int
+INFO  21:29:31,205 - #2 pet
+INFO  21:29:31,205 - #27 =
+INFO  21:29:31,205 - #3 5
+INFO  21:29:31,205 - #20 ;
+INFO  21:29:31,205 - #2 int
+INFO  21:29:31,205 - #2 niz
+INFO  21:29:31,205 - #13 [
+INFO  21:29:31,205 - #14 ]
+INFO  21:29:31,205 - #20 ;
+INFO  21:29:31,206 - #2 char
+INFO  21:29:31,206 - #2 nizch
+INFO  21:29:31,206 - #13 [
+INFO  21:29:31,206 - #14 ]
+INFO  21:29:31,206 - #20 ;
+INFO  21:29:31,206 - #7 {
+INFO  21:29:31,206 - #44 void
+INFO  21:29:31,206 - #2 main
+INFO  21:29:31,206 - #9 (
+INFO  21:29:31,207 - #10 )
+INFO  21:29:31,207 - #2 int
+INFO  21:29:31,207 - #2 bodovi
+INFO  21:29:31,207 - #20 ;
+INFO  21:29:31,207 - #7 {
+INFO  21:29:31,208 - #2 bodovi
+INFO  21:29:31,208 - #27 =
+INFO  21:29:31,208 - #3 0
+INFO  21:29:31,208 - #20 ;
+INFO  21:29:31,209 - #2 bodovi
+INFO  21:29:31,209 - #16 ++
+INFO  21:29:31,209 - #20 ;
+INFO  21:29:31,209 - #2 bodovi
+INFO  21:29:31,209 - #27 =
+INFO  21:29:31,209 - #2 bodovi
+INFO  21:29:31,209 - #31 +
+INFO  21:29:31,209 - #2 jedan
+INFO  21:29:31,210 - #20 ;
+INFO  21:29:31,210 - #2 bodovi
+INFO  21:29:31,210 - #27 =
+INFO  21:29:31,210 - #2 bodovi
+INFO  21:29:31,210 - #33 *
+INFO  21:29:31,211 - #2 pet
+INFO  21:29:31,211 - #20 ;
+INFO  21:29:31,211 - #2 bodovi
+INFO  21:29:31,211 - #17 --
+INFO  21:29:31,211 - #20 ;
+INFO  21:29:31,211 - #26 print
+INFO  21:29:31,211 - #9 (
+INFO  21:29:31,211 - #2 bodovi
+INFO  21:29:31,212 - #10 )
+INFO  21:29:31,212 - #20 ;
+INFO  21:29:31,213 - #2 niz
+INFO  21:29:31,213 - #27 =
+INFO  21:29:31,213 - #32 new
+INFO  21:29:31,213 - #2 int
+INFO  21:29:31,213 - #13 [
+INFO  21:29:31,213 - #3 2
+INFO  21:29:31,213 - #14 ]
+INFO  21:29:31,213 - #20 ;
+INFO  21:29:31,213 - #2 niz
+INFO  21:29:31,213 - #13 [
+INFO  21:29:31,213 - #3 0
+INFO  21:29:31,214 - #14 ]
+INFO  21:29:31,214 - #27 =
+INFO  21:29:31,214 - #2 pet
+INFO  21:29:31,214 - #20 ;
+INFO  21:29:31,214 - #2 niz
+INFO  21:29:31,214 - #13 [
+INFO  21:29:31,214 - #3 1
+INFO  21:29:31,214 - #14 ]
+INFO  21:29:31,214 - #27 =
+INFO  21:29:31,214 - #3 10
+INFO  21:29:31,214 - #20 ;
+INFO  21:29:31,214 - #2 bodovi
+INFO  21:29:31,214 - #27 =
+INFO  21:29:31,214 - #2 niz
+INFO  21:29:31,215 - #13 [
+INFO  21:29:31,215 - #3 1
+INFO  21:29:31,215 - #14 ]
+INFO  21:29:31,215 - #34 /
+INFO  21:29:31,215 - #2 niz
+INFO  21:29:31,215 - #13 [
+INFO  21:29:31,215 - #3 0
+INFO  21:29:31,215 - #14 ]
+INFO  21:29:31,215 - #20 ;
+INFO  21:29:31,215 - #26 print
+INFO  21:29:31,215 - #9 (
+INFO  21:29:31,215 - #2 bodovi
+INFO  21:29:31,215 - #10 )
+INFO  21:29:31,215 - #20 ;
+INFO  21:29:31,215 - #26 print
+INFO  21:29:31,215 - #9 (
+INFO  21:29:31,215 - #2 niz
+INFO  21:29:31,215 - #13 [
+INFO  21:29:31,215 - #3 1
+INFO  21:29:31,215 - #14 ]
+INFO  21:29:31,215 - #10 )
+INFO  21:29:31,215 - #20 ;
+INFO  21:29:31,216 - #2 nizch
+INFO  21:29:31,216 - #27 =
+INFO  21:29:31,216 - #32 new
+INFO  21:29:31,216 - #2 char
+INFO  21:29:31,216 - #13 [
+INFO  21:29:31,216 - #3 3
+INFO  21:29:31,216 - #14 ]
+INFO  21:29:31,216 - #20 ;
+INFO  21:29:31,216 - #2 nizch
+INFO  21:29:31,216 - #13 [
+INFO  21:29:31,216 - #3 0
+INFO  21:29:31,216 - #14 ]
+INFO  21:29:31,216 - #27 =
+INFO  21:29:31,216 - #5 a
+INFO  21:29:31,216 - #20 ;
+INFO  21:29:31,216 - #2 nizch
+INFO  21:29:31,216 - #13 [
+INFO  21:29:31,216 - #2 jedan
+INFO  21:29:31,216 - #14 ]
+INFO  21:29:31,216 - #27 =
+INFO  21:29:31,216 - #5 b
+INFO  21:29:31,216 - #20 ;
+INFO  21:29:31,217 - #2 nizch
+INFO  21:29:31,217 - #13 [
+INFO  21:29:31,217 - #2 pet
+INFO  21:29:31,217 - #30 -
+INFO  21:29:31,217 - #3 3
+INFO  21:29:31,217 - #14 ]
+INFO  21:29:31,217 - #27 =
+INFO  21:29:31,217 - #5 c
+INFO  21:29:31,217 - #20 ;
+INFO  21:29:31,217 - #26 print
+INFO  21:29:31,217 - #9 (
+INFO  21:29:31,217 - #2 nizch
+INFO  21:29:31,217 - #13 [
+INFO  21:29:31,217 - #3 2
+INFO  21:29:31,217 - #30 -
+INFO  21:29:31,217 - #3 1
+INFO  21:29:31,217 - #14 ]
+INFO  21:29:31,218 - #10 )
+INFO  21:29:31,218 - #20 ;
+INFO  21:29:31,218 - #26 print
+INFO  21:29:31,218 - #9 (
+INFO  21:29:31,218 - #2 nizch
+INFO  21:29:31,218 - #13 [
+INFO  21:29:31,218 - #2 jedan
+INFO  21:29:31,218 - #33 *
+INFO  21:29:31,218 - #3 2
+INFO  21:29:31,218 - #14 ]
+INFO  21:29:31,218 - #10 )
+INFO  21:29:31,218 - #20 ;
+INFO  21:29:31,218 - #2 bodovi
+INFO  21:29:31,218 - #27 =
+INFO  21:29:31,218 - #2 bodovi
+INFO  21:29:31,218 - #31 +
+INFO  21:29:31,218 - #9 (
+INFO  21:29:31,218 - #9 (
+INFO  21:29:31,218 - #2 pet
+INFO  21:29:31,218 - #33 *
+INFO  21:29:31,218 - #2 jedan
+INFO  21:29:31,218 - #30 -
+INFO  21:29:31,218 - #3 1
+INFO  21:29:31,218 - #10 )
+INFO  21:29:31,218 - #33 *
+INFO  21:29:31,218 - #3 2
+INFO  21:29:31,219 - #30 -
+INFO  21:29:31,219 - #9 (
+INFO  21:29:31,219 - #3 3
+INFO  21:29:31,219 - #35 %
+INFO  21:29:31,219 - #3 2
+INFO  21:29:31,219 - #31 +
+INFO  21:29:31,219 - #3 3
+INFO  21:29:31,219 - #33 *
+INFO  21:29:31,219 - #3 2
+INFO  21:29:31,219 - #30 -
+INFO  21:29:31,219 - #3 3
+INFO  21:29:31,219 - #10 )
+INFO  21:29:31,219 - #30 -
+INFO  21:29:31,219 - #3 1
+INFO  21:29:31,219 - #33 *
+INFO  21:29:31,219 - #3 0
+INFO  21:29:31,219 - #10 )
+INFO  21:29:31,219 - #20 ;
+INFO  21:29:31,219 - #26 print
+INFO  21:29:31,219 - #9 (
+INFO  21:29:31,219 - #2 bodovi
+INFO  21:29:31,219 - #10 )
+INFO  21:29:31,219 - #20 ;
+INFO  21:29:31,219 - #43 read
+INFO  21:29:31,219 - #9 (
+INFO  21:29:31,219 - #2 bodovi
+INFO  21:29:31,219 - #10 )
+INFO  21:29:31,219 - #20 ;
+INFO  21:29:31,220 - #2 bodovi
+INFO  21:29:31,220 - #27 =
+INFO  21:29:31,220 - #2 bodovi
+INFO  21:29:31,220 - #31 +
+INFO  21:29:31,220 - #3 1
+INFO  21:29:31,220 - #20 ;
+INFO  21:29:31,220 - #26 print
+INFO  21:29:31,220 - #9 (
+INFO  21:29:31,220 - #2 bodovi
+INFO  21:29:31,220 - #10 )
+INFO  21:29:31,220 - #20 ;
+INFO  21:29:31,220 - #8 }
+INFO  21:29:31,220 - #8 }
+INFO  21:29:31,226 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  21:29:31,226 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  21:29:31,226 - Deklarisana globalna promenljiva <niz>: na liniji 8
+INFO  21:29:31,226 - Deklarisana globalna promenljiva <nizch>: na liniji 10
+INFO  21:29:31,226 - Obrada metode <main>: na liniji 13
+INFO  21:29:31,227 - Deklarisana lokalna promenljiva <bodovi>: na liniji 13
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 16
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 17
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 18
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 18
+INFO  21:29:31,227 - Pristup simbolu <jedan>: na liniji 18
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 19
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 19
+INFO  21:29:31,227 - Pristup simbolu <pet>: na liniji 19
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 20
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 21
+INFO  21:29:31,227 - Pristup simbolu <niz>: na liniji 24
+ERROR 21:29:31,227 - Greska, tip <int> nije klasni tip: na liniji 24
+ERROR 21:29:31,227 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 24
+INFO  21:29:31,227 - Pristup simbolu <niz>: na liniji 25
+INFO  21:29:31,227 - Pristup elementu niza <niz>: na liniji 25
+INFO  21:29:31,227 - Pristup simbolu <pet>: na liniji 25
+INFO  21:29:31,227 - Pristup simbolu <niz>: na liniji 26
+INFO  21:29:31,227 - Pristup elementu niza <niz>: na liniji 26
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 27
+INFO  21:29:31,227 - Pristup simbolu <niz>: na liniji 27
+INFO  21:29:31,227 - Pristup elementu niza <niz>: na liniji 27
+INFO  21:29:31,227 - Pristup simbolu <niz>: na liniji 27
+INFO  21:29:31,227 - Pristup elementu niza <niz>: na liniji 27
+INFO  21:29:31,227 - Pristup simbolu <bodovi>: na liniji 28
+INFO  21:29:31,227 - Pristup simbolu <niz>: na liniji 29
+INFO  21:29:31,227 - Pristup elementu niza <niz>: na liniji 29
+INFO  21:29:31,227 - Pristup simbolu <nizch>: na liniji 32
+ERROR 21:29:31,227 - Greska, tip <char> nije klasni tip: na liniji 32
+ERROR 21:29:31,227 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 32
+INFO  21:29:31,227 - Pristup simbolu <nizch>: na liniji 33
+INFO  21:29:31,227 - Pristup elementu niza <nizch>: na liniji 33
+INFO  21:29:31,227 - Pristup simbolu <nizch>: na liniji 34
+INFO  21:29:31,227 - Pristup simbolu <jedan>: na liniji 34
+INFO  21:29:31,227 - Pristup elementu niza <nizch>: na liniji 34
+ERROR 21:29:31,228 - Greska, promenljiva <nizch> nije niz: na liniji 34
+INFO  21:29:31,228 - Greska, nedozvoljeno je dodeljivati vrednost konstatama!: na liniji 34
+ERROR 21:29:31,228 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 34
+INFO  21:29:31,228 - Pristup simbolu <nizch>: na liniji 35
+INFO  21:29:31,228 - Pristup simbolu <pet>: na liniji 35
+INFO  21:29:31,228 - Pristup elementu niza <nizch>: na liniji 35
+ERROR 21:29:31,228 - Greska, promenljiva <nizch> nije niz: na liniji 35
+INFO  21:29:31,228 - Greska, nedozvoljeno je dodeljivati vrednost konstatama!: na liniji 35
+ERROR 21:29:31,228 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 35
+INFO  21:29:31,228 - Pristup simbolu <nizch>: na liniji 36
+INFO  21:29:31,228 - Pristup elementu niza <nizch>: na liniji 36
+INFO  21:29:31,228 - Pristup simbolu <nizch>: na liniji 37
+INFO  21:29:31,228 - Pristup simbolu <jedan>: na liniji 37
+INFO  21:29:31,228 - Pristup elementu niza <nizch>: na liniji 37
+ERROR 21:29:31,228 - Greska, promenljiva <nizch> nije niz: na liniji 37
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 40
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 40
+INFO  21:29:31,228 - Pristup simbolu <pet>: na liniji 40
+INFO  21:29:31,228 - Pristup simbolu <jedan>: na liniji 40
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 41
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 44
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 45
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 45
+INFO  21:29:31,228 - Pristup simbolu <bodovi>: na liniji 46

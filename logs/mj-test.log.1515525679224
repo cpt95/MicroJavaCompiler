@@ -1,0 +1,24 @@
+INFO  11:16:56,683 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  11:16:56,713 - #2 program
+INFO  11:16:56,713 - #5 P
+INFO  11:16:56,714 - #28 const
+INFO  11:16:56,714 - #5 int
+INFO  11:16:56,714 - #5 size
+INFO  11:16:56,715 - #25 =
+INFO  11:16:56,715 - #24 10
+INFO  11:16:56,715 - #17 ;
+INFO  11:16:56,716 - #16 class
+INFO  11:16:56,716 - #5 Table
+INFO  11:16:56,716 - #3 {
+INFO  11:16:56,717 - #5 int
+INFO  11:16:56,717 - #5 pos
+INFO  11:16:56,717 - #10 [
+INFO  11:16:56,717 - #11 ]
+INFO  11:16:56,717 - #8 ,
+INFO  11:16:56,718 - #5 neg
+INFO  11:16:56,718 - #10 [
+INFO  11:16:56,718 - #11 ]
+INFO  11:16:56,718 - #17 ;
+INFO  11:16:56,718 - #4 }
+INFO  11:16:56,719 - #3 {
+INFO  11:16:56,719 - #4 }

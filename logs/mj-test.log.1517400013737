@@ -1,0 +1,19 @@
+INFO  12:59:50,120 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  12:59:50,123 - #5 program
+INFO  12:59:50,123 - #2 P
+INFO  12:59:50,123 - #28 const
+INFO  12:59:50,124 - #2 int
+INFO  12:59:50,124 - #2 size
+INFO  12:59:50,124 - #26 =
+INFO  12:59:50,124 - #3 10
+INFO  12:59:50,124 - #19 ;
+INFO  12:59:50,124 - #28 const
+INFO  12:59:50,124 - #2 char
+INFO  12:59:50,124 - #2 b
+INFO  12:59:50,124 - #26 =
+INFO  12:59:50,124 - #27 '
+INFO  12:59:50,124 - #2 t
+INFO  12:59:50,124 - #27 '
+INFO  12:59:50,124 - #19 ;
+INFO  12:59:50,124 - #6 {
+INFO  12:59:50,124 - #7 }

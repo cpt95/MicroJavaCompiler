@@ -1,0 +1,22 @@
+INFO  12:07:13,315 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  12:07:13,342 - #3 program
+INFO  12:07:13,342 - #2 P
+INFO  12:07:13,342 - #28 const
+INFO  12:07:13,343 - #2 int
+INFO  12:07:13,343 - #2 size
+INFO  12:07:13,343 - #25 =
+INFO  12:07:13,343 - #24 10
+INFO  12:07:13,343 - #17 ;
+INFO  12:07:13,343 - #28 const
+INFO  12:07:13,344 - #2 bool
+INFO  12:07:13,344 - #2 b
+INFO  12:07:13,344 - #25 =
+INFO  12:07:13,344 - #2 false
+ERROR 12:07:13,344 - 
+Sintaksna greska na liniji 4
+INFO  12:07:13,345 - #17 ;
+INFO  12:07:13,345 - #4 {
+INFO  12:07:13,345 - #5 }
+DEBUG 12:07:13,345 - Greska pri definiciji globalne promenljive - OPORAVAK
+INFO  12:07:13,352 - Deklarisana simbolicka konstanta size na liniji: 2 na liniji 2
+ERROR 12:07:13,352 - Nije pronadjen tip bool u tabeli simbola

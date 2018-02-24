@@ -1,0 +1,8 @@
+INFO  18:02:00,629 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  18:02:00,653 - #2 program
+INFO  18:02:00,653 - #5 P
+INFO  18:02:00,653 - #5 int
+INFO  18:02:00,654 - #5 a
+ERROR 18:02:00,654 - 
+Sintaksna greska na liniji 2
+ERROR 18:02:00,654 - Fatalna greska na liniji 2

@@ -1,0 +1,30 @@
+INFO  18:39:32,981 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  18:39:33,010 - #6 program
+INFO  18:39:33,010 - #2 P
+INFO  18:39:33,010 - #28 const
+INFO  18:39:33,011 - #2 int
+INFO  18:39:33,012 - #2 size
+INFO  18:39:33,012 - #27 =
+INFO  18:39:33,012 - #3 10
+INFO  18:39:33,012 - #20 ;
+INFO  18:39:33,012 - #28 const
+INFO  18:39:33,013 - #2 int
+INFO  18:39:33,013 - #2 si
+INFO  18:39:33,013 - #27 =
+INFO  18:39:33,013 - #5 t
+INFO  18:39:33,013 - #20 ;
+INFO  18:39:33,014 - #28 const
+INFO  18:39:33,014 - #2 bool
+INFO  18:39:33,014 - #2 b
+INFO  18:39:33,014 - #27 =
+INFO  18:39:33,014 - #4 false
+INFO  18:39:33,014 - #20 ;
+INFO  18:39:33,014 - #2 int
+INFO  18:39:33,014 - #2 f
+INFO  18:39:33,014 - #20 ;
+INFO  18:39:33,015 - #7 {
+INFO  18:39:33,015 - #8 }
+INFO  18:39:33,020 - Deklarisana simbolicka konstanta size na liniji: 2 na liniji 2
+ERROR 18:39:33,020 - Greska prilikom dodele vrednosti promenljivoj si, tipovi se ne poklapaju 3 na liniji 3
+INFO  18:39:33,021 - Deklarisana simbolicka konstanta b na liniji: 4 na liniji 4
+INFO  18:39:33,021 - Deklarisana globalna promenljiva f 5 na liniji 5

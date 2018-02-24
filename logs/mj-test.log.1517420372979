@@ -1,0 +1,29 @@
+INFO  18:33:05,077 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  18:33:05,105 - #6 program
+INFO  18:33:05,105 - #2 P
+INFO  18:33:05,105 - #28 const
+INFO  18:33:05,106 - #2 int
+INFO  18:33:05,106 - #2 size
+INFO  18:33:05,107 - #27 =
+INFO  18:33:05,107 - #3 10
+INFO  18:33:05,107 - #20 ;
+INFO  18:33:05,107 - #28 const
+INFO  18:33:05,108 - #2 int
+INFO  18:33:05,108 - #2 si
+INFO  18:33:05,108 - #27 =
+INFO  18:33:05,108 - #5 t
+INFO  18:33:05,108 - #20 ;
+INFO  18:33:05,108 - #28 const
+INFO  18:33:05,108 - #2 bool
+INFO  18:33:05,108 - #2 b
+INFO  18:33:05,109 - #27 =
+INFO  18:33:05,109 - #4 false
+INFO  18:33:05,109 - #20 ;
+INFO  18:33:05,109 - #2 int
+INFO  18:33:05,109 - #2 f
+INFO  18:33:05,109 - #20 ;
+INFO  18:33:05,109 - #7 {
+INFO  18:33:05,110 - #8 }
+INFO  18:33:05,115 - Deklarisana simbolicka konstanta size na liniji: 2 na liniji 2
+INFO  18:33:05,116 - Deklarisana simbolicka konstanta b na liniji: 4 na liniji 4
+INFO  18:33:05,116 - Deklarisana promenljiva f na liniji 5 objektni cvor: rs.etf.pp1.symboltable.concepts.Obj@6576fe71 na liniji 5

@@ -1,0 +1,201 @@
+INFO  11:23:28,102 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  11:23:28,131 - #6 program
+INFO  11:23:28,132 - #2 P
+INFO  11:23:28,132 - #2 int
+INFO  11:23:28,133 - #2 size
+INFO  11:23:28,133 - #27 =
+ERROR 11:23:28,133 - 
+Sintaksna greska na liniji 2
+INFO  11:23:28,133 - #3 3
+INFO  11:23:28,133 - #11 ,
+INFO  11:23:28,133 - #2 h
+INFO  11:23:28,133 - #20 ;
+INFO  11:23:28,134 - #19 class
+DEBUG 11:23:28,134 - Greska pri definiciji globalne promenljive - OPORAVAK
+INFO  11:23:28,134 - #2 Klasa
+INFO  11:23:28,134 - #12 extends
+INFO  11:23:28,135 - #2 a
+INFO  11:23:28,135 - #7 {
+INFO  11:23:28,135 - #2 int
+INFO  11:23:28,135 - #2 val
+INFO  11:23:28,135 - #27 =
+ERROR 11:23:28,135 - 
+Sintaksna greska na liniji 5
+INFO  11:23:28,135 - #20 ;
+INFO  11:23:28,135 - #7 {
+INFO  11:23:28,135 - #2 int
+INFO  11:23:28,136 - #2 met
+DEBUG 11:23:28,136 - Greska pri definiciji polja klase - OPORAVAK
+INFO  11:23:28,136 - #9 (
+INFO  11:23:28,136 - #10 )
+INFO  11:23:28,137 - #2 int
+INFO  11:23:28,137 - #2 k
+INFO  11:23:28,137 - #20 ;
+INFO  11:23:28,137 - #7 {
+INFO  11:23:28,137 - #8 }
+INFO  11:23:28,137 - #8 }
+INFO  11:23:28,138 - #8 }
+INFO  11:23:28,138 - #7 {
+INFO  11:23:28,139 - #2 int
+INFO  11:23:28,139 - #2 metod1
+INFO  11:23:28,139 - #9 (
+INFO  11:23:28,139 - #2 double
+INFO  11:23:28,139 - #2 r
+INFO  11:23:28,139 - #2 int
+ERROR 11:23:28,139 - 
+Sintaksna greska na liniji 14
+INFO  11:23:28,139 - #2 prog
+INFO  11:23:28,139 - #10 )
+INFO  11:23:28,139 - #7 {
+INFO  11:23:28,139 - #23 break
+INFO  11:23:28,139 - #20 ;
+DEBUG 11:23:28,139 - Greska prilikom deklarisanja formalnog parametra funkcije - OPORAVAK
+INFO  11:23:28,139 - #42 do
+INFO  11:23:28,140 - #7 {
+INFO  11:23:28,140 - #21 if
+INFO  11:23:28,140 - #9 (
+INFO  11:23:28,140 - #2 a
+INFO  11:23:28,140 - #38 >
+INFO  11:23:28,141 - #3 3
+INFO  11:23:28,141 - #45 &&
+INFO  11:23:28,141 - #2 r
+INFO  11:23:28,141 - #41 <=
+INFO  11:23:28,141 - #3 8
+INFO  11:23:28,142 - #29 ||
+INFO  11:23:28,143 - #2 e
+INFO  11:23:28,143 - #36 ==
+INFO  11:23:28,143 - #2 a
+INFO  11:23:28,143 - #10 )
+INFO  11:23:28,143 - #43 read
+INFO  11:23:28,143 - #9 (
+INFO  11:23:28,143 - #2 f
+INFO  11:23:28,143 - #15 .
+INFO  11:23:28,143 - #2 niz
+INFO  11:23:28,143 - #13 [
+INFO  11:23:28,144 - #3 1
+INFO  11:23:28,144 - #14 ]
+INFO  11:23:28,144 - #10 )
+INFO  11:23:28,144 - #20 ;
+INFO  11:23:28,144 - #22 else
+INFO  11:23:28,144 - #7 {
+INFO  11:23:28,144 - #21 if
+INFO  11:23:28,144 - #9 (
+INFO  11:23:28,144 - #2 a
+INFO  11:23:28,144 - #38 >
+INFO  11:23:28,144 - #3 6
+INFO  11:23:28,144 - #29 ||
+INFO  11:23:28,144 - #2 y
+INFO  11:23:28,144 - #36 ==
+INFO  11:23:28,144 - #10 )
+ERROR 11:23:28,144 - 
+Sintaksna greska na liniji 23
+INFO  11:23:28,145 - #7 {
+INFO  11:23:28,145 - #2 b
+INFO  11:23:28,145 - #27 =
+DEBUG 11:23:28,145 - Greska u uslovu za IF naredbu - OPORAVAK
+INFO  11:23:28,145 - #2 a
+INFO  11:23:28,145 - #31 +
+INFO  11:23:28,145 - #2 t
+INFO  11:23:28,146 - #30 -
+INFO  11:23:28,146 - #3 1
+INFO  11:23:28,146 - #20 ;
+INFO  11:23:28,146 - #26 print
+INFO  11:23:28,146 - #9 (
+INFO  11:23:28,146 - #2 r
+INFO  11:23:28,146 - #10 )
+INFO  11:23:28,146 - #20 ;
+INFO  11:23:28,146 - #8 }
+INFO  11:23:28,147 - #22 else
+INFO  11:23:28,147 - #24 continue
+INFO  11:23:28,147 - #20 ;
+INFO  11:23:28,147 - #8 }
+INFO  11:23:28,147 - #2 b
+INFO  11:23:28,147 - #16 ++
+INFO  11:23:28,147 - #20 ;
+INFO  11:23:28,147 - #2 b
+INFO  11:23:28,147 - #27 =
+INFO  11:23:28,147 - #30 -
+INFO  11:23:28,147 - #2 a
+INFO  11:23:28,147 - #31 +
+INFO  11:23:28,147 - #3 4
+INFO  11:23:28,147 - #34 /
+INFO  11:23:28,147 - #3 3
+INFO  11:23:28,148 - #33 *
+INFO  11:23:28,148 - #9 (
+INFO  11:23:28,148 - #2 a
+INFO  11:23:28,148 - #31 +
+INFO  11:23:28,148 - #3 9
+INFO  11:23:28,148 - #10 )
+INFO  11:23:28,148 - #20 ;
+INFO  11:23:28,149 - #2 b
+INFO  11:23:28,149 - #27 =
+INFO  11:23:28,149 - #30 -
+INFO  11:23:28,149 - #2 a
+INFO  11:23:28,149 - #31 +
+INFO  11:23:28,149 - #3 4
+INFO  11:23:28,149 - #34 /
+INFO  11:23:28,149 - #3 3
+INFO  11:23:28,149 - #33 *
+INFO  11:23:28,149 - #9 (
+INFO  11:23:28,149 - #2 a
+INFO  11:23:28,149 - #31 +
+INFO  11:23:28,149 - #10 )
+ERROR 11:23:28,149 - 
+Sintaksna greska na liniji 34
+INFO  11:23:28,149 - #20 ;
+INFO  11:23:28,149 - #8 }
+INFO  11:23:28,149 - #18 while
+INFO  11:23:28,149 - #9 (
+DEBUG 11:23:28,149 - Greska pri dodeli vrednosti - OPORAVAK
+INFO  11:23:28,150 - #2 a
+INFO  11:23:28,150 - #38 >
+INFO  11:23:28,150 - #2 g
+INFO  11:23:28,150 - #45 &&
+INFO  11:23:28,150 - #2 g
+INFO  11:23:28,150 - #39 >=
+INFO  11:23:28,150 - #3 3
+INFO  11:23:28,150 - #29 ||
+INFO  11:23:28,150 - #2 u
+INFO  11:23:28,150 - #36 ==
+INFO  11:23:28,150 - #2 g
+INFO  11:23:28,150 - #10 )
+INFO  11:23:28,150 - #20 ;
+INFO  11:23:28,150 - #2 c
+INFO  11:23:28,150 - #17 --
+INFO  11:23:28,150 - #20 ;
+INFO  11:23:28,151 - #8 }
+INFO  11:23:28,151 - #8 }
+INFO  11:23:28,156 - Deklarisana globalna promenljiva <h>: na liniji 2
+INFO  11:23:28,157 - Deklarisana klasa <Klasa>: na liniji 3
+ERROR 11:23:28,157 - Nije pronadjen tip <a> u tabeli simbola: na liniji 3
+ERROR 11:23:28,157 - Klasa ne moze nasledjivati tipa <a>, jer nije klasni: na liniji 3
+INFO  11:23:28,157 - Obrada metode <met>: na liniji 7
+INFO  11:23:28,157 - Deklarisana lokalna promenljiva <k>: na liniji 8
+ERROR 11:23:28,157 - Semanticka greska funcija <met> nema return iskaz: na liniji 7
+INFO  11:23:28,157 - Obrada metode <metod1>: na liniji 14
+ERROR 11:23:28,157 - Greska, izrazi moraju biti kompatibilni po tipu!: na liniji 19
+ERROR 11:23:28,157 - Greska, izrazi moraju biti kompatibilni po tipu!: na liniji 19
+ERROR 11:23:28,157 - Greska, neispravno zadat uslov: na liniji 19
+ERROR 11:23:28,158 - Greska, neispravno zadat uslov: na liniji 19
+ERROR 11:23:28,158 - Greska, <niz> nije polje klase!: na liniji 20
+ERROR 11:23:28,158 - Greska, promenljiva nije objekat tipa klase!: na liniji 20
+ERROR 11:23:28,158 - Greska, promenljiva <niz> nije niz: na liniji 20
+ERROR 11:23:28,158 - Greska, argument poziva metode mora biti odgovarajuceg tipa!: na liniji 20
+ERROR 11:23:28,158 - Greska, operatori nisu celobrojnog tipa!: na liniji 25
+ERROR 11:23:28,158 - Greska, operatori nisu celobrojnog tipa!: na liniji 25
+ERROR 11:23:28,158 - Greska, promenljiva kojoj se dodeljuje vrednost nije deklarisana: na liniji 25
+ERROR 11:23:28,158 - Greska, argument poziva metode mora biti odgovarajuceg tipa!: na liniji 26
+ERROR 11:23:28,158 - Greska, tip promenljive koja se dekrementira mora biti int!: na liniji 32
+ERROR 11:23:28,158 - Greska, operatori nisu celobrojnog tipa!: na liniji 33
+ERROR 11:23:28,158 - Greska, operatori se moraju slagati po tipu!: na liniji 33
+ERROR 11:23:28,158 - Greska, operatori se moraju slagati po tipu!: na liniji 33
+ERROR 11:23:28,158 - Greska, operatori nisu celobrojnog tipa!: na liniji 33
+ERROR 11:23:28,158 - Greska, operator neispravnog tipa!: na liniji 33
+ERROR 11:23:28,158 - Greska, promenljiva kojoj se dodeljuje vrednost nije deklarisana: na liniji 33
+ERROR 11:23:28,158 - Greska, promenljiva kojoj se dodeljuje vrednost nije deklarisana: na liniji 34
+ERROR 11:23:28,158 - Greska, izrazi moraju biti kompatibilni po tipu!: na liniji 36
+ERROR 11:23:28,158 - Greska, neispravno zadat uslov: na liniji 36
+ERROR 11:23:28,158 - Greska, neispravno zadat uslov: na liniji 36
+ERROR 11:23:28,158 - Greska, tip promenljive koja se dekrementira mora biti int!: na liniji 37
+ERROR 11:23:28,158 - Semanticka greska funcija <metod1> nema return iskaz: na liniji 14
+ERROR 11:23:28,159 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,41 @@
+program P
+	int size=3,h; 					//Oporavak od greske pri definiciji globalnih promenljivih
+	class Klasa extends a
+	{
+		int val=;						//Oporavak od greske prilikom definicije polja klase
+		{
+			int met()
+			int k;
+			{
+			}
+		}
+	}
+	{
+		int metod1(double r int  prog)   //Oporavak od greske definicija foralnog parametra funkcije
+		{
+			break;
+			do
+			{
+				if(a>3 && r<=8 || e==a)
+					read(f.niz[1]);
+				else
+				{
+					if (a>6 || y==)  		   //GRESKA VEZANA ZA USLOV
+					{
+						b=a+t-1;
+						print(r);
+					}else
+						continue;
+				}
+
+
+				b++;
+				b=-a+4/3*(a+9);		
+				b=-a+4/3*(a+);				 //GRESKA VEZANA ZA OPERATOR DODELE
+			}
+			while(a>g && g>=3 || u==g);
+			c--;
+
+		}
+
+	}

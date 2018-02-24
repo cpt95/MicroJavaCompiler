@@ -1,0 +1,24 @@
+INFO  13:55:40,210 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  13:55:40,247 - #6 program
+INFO  13:55:40,247 - #2 P
+INFO  13:55:40,247 - #28 const
+INFO  13:55:40,248 - #2 int
+INFO  13:55:40,248 - #2 size
+INFO  13:55:40,248 - #27 =
+INFO  13:55:40,248 - #3 10
+INFO  13:55:40,248 - #20 ;
+INFO  13:55:40,249 - #28 const
+INFO  13:55:40,250 - #2 char
+INFO  13:55:40,250 - #2 x
+INFO  13:55:40,250 - #27 =
+INFO  13:55:40,250 - #5 a
+INFO  13:55:40,250 - #20 ;
+INFO  13:55:40,250 - #28 const
+INFO  13:55:40,251 - #2 bool
+INFO  13:55:40,251 - #2 b
+INFO  13:55:40,251 - #27 =
+INFO  13:55:40,251 - #2 false
+ERROR 13:55:40,251 - 
+Sintaksna greska na liniji 5
+ERROR 13:55:40,251 - Fatalna greska na liniji 5
+ERROR 13:55:40,257 - Nije pronadjen tip bool u tabeli simbola

@@ -1,0 +1,391 @@
+INFO  21:55:44,758 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  21:55:44,785 - #6 program
+INFO  21:55:44,785 - #2 test302
+INFO  21:55:44,785 - #2 int
+INFO  21:55:44,786 - #2 i
+INFO  21:55:44,786 - #20 ;
+INFO  21:55:44,787 - #2 bool
+INFO  21:55:44,787 - #2 ibool
+INFO  21:55:44,787 - #20 ;
+INFO  21:55:44,787 - #2 int
+INFO  21:55:44,787 - #2 niz
+INFO  21:55:44,787 - #13 [
+INFO  21:55:44,787 - #14 ]
+INFO  21:55:44,787 - #20 ;
+INFO  21:55:44,787 - #7 {
+INFO  21:55:44,787 - #2 int
+INFO  21:55:44,787 - #2 sum
+INFO  21:55:44,787 - #9 (
+INFO  21:55:44,788 - #2 int
+INFO  21:55:44,788 - #2 z
+INFO  21:55:44,788 - #11 ,
+INFO  21:55:44,788 - #2 int
+INFO  21:55:44,788 - #2 d
+INFO  21:55:44,788 - #10 )
+INFO  21:55:44,788 - #7 {
+INFO  21:55:44,789 - #25 return
+INFO  21:55:44,789 - #2 z
+INFO  21:55:44,789 - #31 +
+INFO  21:55:44,789 - #2 d
+INFO  21:55:44,790 - #20 ;
+INFO  21:55:44,790 - #8 }
+INFO  21:55:44,790 - #2 int
+INFO  21:55:44,791 - #2 inkrement
+INFO  21:55:44,791 - #9 (
+INFO  21:55:44,791 - #2 int
+INFO  21:55:44,791 - #2 a
+INFO  21:55:44,791 - #10 )
+INFO  21:55:44,791 - #2 int
+INFO  21:55:44,791 - #2 pom
+INFO  21:55:44,791 - #20 ;
+INFO  21:55:44,791 - #7 {
+INFO  21:55:44,791 - #2 pom
+INFO  21:55:44,791 - #27 =
+INFO  21:55:44,791 - #3 1
+INFO  21:55:44,792 - #20 ;
+INFO  21:55:44,792 - #25 return
+INFO  21:55:44,792 - #2 sum
+INFO  21:55:44,792 - #9 (
+INFO  21:55:44,792 - #2 a
+INFO  21:55:44,792 - #11 ,
+INFO  21:55:44,792 - #2 pom
+INFO  21:55:44,792 - #10 )
+INFO  21:55:44,792 - #20 ;
+INFO  21:55:44,792 - #8 }
+INFO  21:55:44,793 - #44 void
+INFO  21:55:44,793 - #2 main
+INFO  21:55:44,793 - #9 (
+INFO  21:55:44,793 - #10 )
+INFO  21:55:44,793 - #7 {
+INFO  21:55:44,793 - #21 if
+INFO  21:55:44,794 - #9 (
+INFO  21:55:44,794 - #3 1
+INFO  21:55:44,794 - #37 !=
+INFO  21:55:44,794 - #3 1
+INFO  21:55:44,794 - #10 )
+INFO  21:55:44,795 - #26 print
+INFO  21:55:44,795 - #9 (
+INFO  21:55:44,795 - #30 -
+INFO  21:55:44,795 - #3 6
+INFO  21:55:44,795 - #10 )
+INFO  21:55:44,795 - #20 ;
+INFO  21:55:44,795 - #22 else
+INFO  21:55:44,795 - #26 print
+INFO  21:55:44,795 - #9 (
+INFO  21:55:44,795 - #3 0
+INFO  21:55:44,795 - #10 )
+INFO  21:55:44,795 - #20 ;
+INFO  21:55:44,795 - #2 ibool
+INFO  21:55:44,795 - #27 =
+INFO  21:55:44,796 - #4 false
+INFO  21:55:44,796 - #20 ;
+INFO  21:55:44,796 - #2 i
+INFO  21:55:44,796 - #27 =
+INFO  21:55:44,796 - #3 0
+INFO  21:55:44,796 - #20 ;
+INFO  21:55:44,796 - #42 do
+INFO  21:55:44,796 - #7 {
+INFO  21:55:44,796 - #21 if
+INFO  21:55:44,796 - #9 (
+INFO  21:55:44,796 - #2 i
+INFO  21:55:44,796 - #36 ==
+INFO  21:55:44,796 - #3 2
+INFO  21:55:44,797 - #10 )
+INFO  21:55:44,797 - #2 ibool
+INFO  21:55:44,797 - #27 =
+INFO  21:55:44,797 - #4 true
+INFO  21:55:44,797 - #20 ;
+INFO  21:55:44,797 - #2 i
+INFO  21:55:44,797 - #16 ++
+INFO  21:55:44,797 - #20 ;
+INFO  21:55:44,797 - #8 }
+INFO  21:55:44,797 - #18 while
+INFO  21:55:44,797 - #9 (
+INFO  21:55:44,797 - #2 i
+INFO  21:55:44,797 - #40 <
+INFO  21:55:44,797 - #3 5
+INFO  21:55:44,797 - #10 )
+INFO  21:55:44,798 - #20 ;
+INFO  21:55:44,798 - #21 if
+INFO  21:55:44,798 - #9 (
+INFO  21:55:44,798 - #2 ibool
+INFO  21:55:44,798 - #10 )
+INFO  21:55:44,798 - #21 if
+INFO  21:55:44,798 - #9 (
+INFO  21:55:44,798 - #2 i
+INFO  21:55:44,798 - #36 ==
+INFO  21:55:44,798 - #3 5
+INFO  21:55:44,798 - #10 )
+INFO  21:55:44,798 - #26 print
+INFO  21:55:44,798 - #9 (
+INFO  21:55:44,798 - #3 1
+INFO  21:55:44,798 - #10 )
+INFO  21:55:44,798 - #20 ;
+INFO  21:55:44,798 - #22 else
+INFO  21:55:44,798 - #26 print
+INFO  21:55:44,798 - #9 (
+INFO  21:55:44,798 - #30 -
+INFO  21:55:44,798 - #3 1
+INFO  21:55:44,799 - #10 )
+INFO  21:55:44,799 - #20 ;
+INFO  21:55:44,799 - #2 niz
+INFO  21:55:44,799 - #27 =
+INFO  21:55:44,799 - #32 new
+INFO  21:55:44,799 - #2 int
+INFO  21:55:44,799 - #13 [
+INFO  21:55:44,799 - #3 3
+INFO  21:55:44,799 - #14 ]
+INFO  21:55:44,799 - #20 ;
+INFO  21:55:44,799 - #2 niz
+INFO  21:55:44,799 - #13 [
+INFO  21:55:44,799 - #3 0
+INFO  21:55:44,800 - #14 ]
+INFO  21:55:44,800 - #27 =
+INFO  21:55:44,800 - #3 1
+INFO  21:55:44,800 - #20 ;
+INFO  21:55:44,800 - #2 niz
+INFO  21:55:44,800 - #13 [
+INFO  21:55:44,800 - #3 1
+INFO  21:55:44,800 - #14 ]
+INFO  21:55:44,800 - #27 =
+INFO  21:55:44,800 - #3 2
+INFO  21:55:44,800 - #20 ;
+INFO  21:55:44,801 - #2 niz
+INFO  21:55:44,801 - #13 [
+INFO  21:55:44,801 - #3 2
+INFO  21:55:44,801 - #14 ]
+INFO  21:55:44,801 - #27 =
+INFO  21:55:44,801 - #2 sum
+INFO  21:55:44,801 - #9 (
+INFO  21:55:44,801 - #2 niz
+INFO  21:55:44,801 - #13 [
+INFO  21:55:44,801 - #3 1
+INFO  21:55:44,801 - #14 ]
+INFO  21:55:44,801 - #11 ,
+INFO  21:55:44,801 - #2 niz
+INFO  21:55:44,801 - #13 [
+INFO  21:55:44,801 - #3 0
+INFO  21:55:44,801 - #14 ]
+INFO  21:55:44,801 - #10 )
+INFO  21:55:44,801 - #31 +
+INFO  21:55:44,801 - #3 1
+INFO  21:55:44,801 - #20 ;
+INFO  21:55:44,801 - #21 if
+INFO  21:55:44,801 - #9 (
+INFO  21:55:44,801 - #2 niz
+INFO  21:55:44,801 - #13 [
+INFO  21:55:44,801 - #3 2
+INFO  21:55:44,801 - #14 ]
+INFO  21:55:44,801 - #36 ==
+INFO  21:55:44,801 - #3 4
+INFO  21:55:44,801 - #10 )
+INFO  21:55:44,801 - #26 print
+INFO  21:55:44,801 - #9 (
+INFO  21:55:44,802 - #2 ord
+INFO  21:55:44,802 - #9 (
+INFO  21:55:44,802 - #5 A
+INFO  21:55:44,802 - #10 )
+INFO  21:55:44,802 - #10 )
+INFO  21:55:44,802 - #20 ;
+INFO  21:55:44,802 - #22 else
+INFO  21:55:44,802 - #26 print
+INFO  21:55:44,802 - #9 (
+INFO  21:55:44,802 - #2 ord
+INFO  21:55:44,802 - #9 (
+INFO  21:55:44,802 - #5 a
+INFO  21:55:44,802 - #10 )
+INFO  21:55:44,802 - #10 )
+INFO  21:55:44,802 - #20 ;
+INFO  21:55:44,802 - #26 print
+INFO  21:55:44,802 - #9 (
+INFO  21:55:44,802 - #2 eol
+INFO  21:55:44,802 - #10 )
+INFO  21:55:44,802 - #20 ;
+INFO  21:55:44,802 - #2 i
+INFO  21:55:44,802 - #27 =
+INFO  21:55:44,802 - #3 0
+INFO  21:55:44,802 - #20 ;
+INFO  21:55:44,802 - #42 do
+INFO  21:55:44,802 - #7 {
+INFO  21:55:44,802 - #21 if
+INFO  21:55:44,802 - #9 (
+INFO  21:55:44,802 - #2 i
+INFO  21:55:44,802 - #36 ==
+INFO  21:55:44,802 - #3 3
+INFO  21:55:44,802 - #10 )
+INFO  21:55:44,802 - #7 {
+INFO  21:55:44,802 - #2 i
+INFO  21:55:44,802 - #16 ++
+INFO  21:55:44,802 - #20 ;
+INFO  21:55:44,802 - #24 continue
+INFO  21:55:44,802 - #20 ;
+INFO  21:55:44,803 - #8 }
+INFO  21:55:44,803 - #21 if
+INFO  21:55:44,803 - #9 (
+INFO  21:55:44,803 - #2 i
+INFO  21:55:44,803 - #36 ==
+INFO  21:55:44,803 - #3 4
+INFO  21:55:44,803 - #10 )
+INFO  21:55:44,803 - #23 break
+INFO  21:55:44,803 - #20 ;
+INFO  21:55:44,803 - #2 i
+INFO  21:55:44,803 - #27 =
+INFO  21:55:44,803 - #2 inkrement
+INFO  21:55:44,803 - #9 (
+INFO  21:55:44,803 - #2 i
+INFO  21:55:44,803 - #10 )
+INFO  21:55:44,803 - #20 ;
+INFO  21:55:44,803 - #8 }
+INFO  21:55:44,803 - #18 while
+INFO  21:55:44,803 - #9 (
+INFO  21:55:44,804 - #4 true
+INFO  21:55:44,804 - #10 )
+INFO  21:55:44,804 - #20 ;
+INFO  21:55:44,804 - #21 if
+INFO  21:55:44,804 - #9 (
+INFO  21:55:44,804 - #2 i
+INFO  21:55:44,804 - #36 ==
+INFO  21:55:44,804 - #3 3
+INFO  21:55:44,804 - #10 )
+INFO  21:55:44,805 - #26 print
+INFO  21:55:44,805 - #9 (
+INFO  21:55:44,805 - #3 4
+INFO  21:55:44,805 - #10 )
+INFO  21:55:44,805 - #20 ;
+INFO  21:55:44,805 - #22 else
+INFO  21:55:44,805 - #26 print
+INFO  21:55:44,805 - #9 (
+INFO  21:55:44,805 - #30 -
+INFO  21:55:44,805 - #3 4
+INFO  21:55:44,805 - #10 )
+INFO  21:55:44,805 - #20 ;
+INFO  21:55:44,805 - #43 read
+INFO  21:55:44,805 - #9 (
+INFO  21:55:44,805 - #2 niz
+INFO  21:55:44,805 - #13 [
+INFO  21:55:44,805 - #3 0
+INFO  21:55:44,805 - #14 ]
+INFO  21:55:44,805 - #10 )
+INFO  21:55:44,805 - #20 ;
+INFO  21:55:44,805 - #43 read
+INFO  21:55:44,805 - #9 (
+INFO  21:55:44,805 - #2 niz
+INFO  21:55:44,805 - #13 [
+INFO  21:55:44,805 - #3 1
+INFO  21:55:44,805 - #14 ]
+INFO  21:55:44,805 - #10 )
+INFO  21:55:44,805 - #20 ;
+INFO  21:55:44,805 - #43 read
+INFO  21:55:44,805 - #9 (
+INFO  21:55:44,805 - #2 niz
+INFO  21:55:44,805 - #13 [
+INFO  21:55:44,805 - #3 2
+INFO  21:55:44,805 - #14 ]
+INFO  21:55:44,805 - #10 )
+INFO  21:55:44,805 - #20 ;
+INFO  21:55:44,806 - #26 print
+INFO  21:55:44,806 - #9 (
+INFO  21:55:44,806 - #2 eol
+INFO  21:55:44,806 - #10 )
+INFO  21:55:44,806 - #20 ;
+INFO  21:55:44,806 - #26 print
+INFO  21:55:44,806 - #9 (
+INFO  21:55:44,806 - #2 sum
+INFO  21:55:44,806 - #9 (
+INFO  21:55:44,806 - #2 sum
+INFO  21:55:44,806 - #9 (
+INFO  21:55:44,806 - #2 niz
+INFO  21:55:44,806 - #13 [
+INFO  21:55:44,806 - #3 0
+INFO  21:55:44,806 - #14 ]
+INFO  21:55:44,806 - #11 ,
+INFO  21:55:44,806 - #2 niz
+INFO  21:55:44,806 - #13 [
+INFO  21:55:44,806 - #3 1
+INFO  21:55:44,806 - #14 ]
+INFO  21:55:44,806 - #10 )
+INFO  21:55:44,806 - #11 ,
+INFO  21:55:44,806 - #2 niz
+INFO  21:55:44,806 - #13 [
+INFO  21:55:44,806 - #3 2
+INFO  21:55:44,806 - #14 ]
+INFO  21:55:44,806 - #10 )
+INFO  21:55:44,806 - #10 )
+INFO  21:55:44,806 - #20 ;
+INFO  21:55:44,806 - #8 }
+INFO  21:55:44,806 - #8 }
+INFO  21:55:44,812 - Deklarisana globalna promenljiva <i>: na liniji 6
+INFO  21:55:44,812 - Deklarisana globalna promenljiva <ibool>: na liniji 7
+INFO  21:55:44,812 - Deklarisana globalna promenljiva <niz>: na liniji 9
+INFO  21:55:44,812 - Obrada metode <sum>: na liniji 12
+INFO  21:55:44,812 - Koriscenje formalnog argumenta funkcije <z>: na liniji 14
+INFO  21:55:44,812 - Koriscenje formalnog argumenta funkcije <d>: na liniji 14
+INFO  21:55:44,812 - Obrada metode <inkrement>: na liniji 17
+INFO  21:55:44,812 - Deklarisana lokalna promenljiva <pom>: na liniji 17
+INFO  21:55:44,812 - Pristup simbolu <pom>: na liniji 19
+INFO  21:55:44,813 - Pristup simbolu <sum>: na liniji 20
+INFO  21:55:44,813 - Koriscenje formalnog argumenta funkcije <a>: na liniji 20
+INFO  21:55:44,813 - Pristup simbolu <pom>: na liniji 20
+INFO  21:55:44,813 - Poziv globalne metode: na liniji 20
+ERROR 21:55:44,813 - Greska, tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije <inkrement>: na liniji 20
+INFO  21:55:44,813 - Obrada metode <main>: na liniji 23
+INFO  21:55:44,813 - Pristup simbolu <ibool>: na liniji 31
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 32
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 35
+INFO  21:55:44,813 - Pristup simbolu <ibool>: na liniji 35
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 36
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 37
+INFO  21:55:44,813 - Pristup simbolu <ibool>: na liniji 39
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 40
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 44
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 45
+INFO  21:55:44,813 - Pristup elementu niza <niz>: na liniji 45
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 46
+INFO  21:55:44,813 - Pristup elementu niza <niz>: na liniji 46
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 47
+INFO  21:55:44,813 - Pristup elementu niza <niz>: na liniji 47
+INFO  21:55:44,813 - Pristup simbolu <sum>: na liniji 47
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 47
+INFO  21:55:44,813 - Pristup elementu niza <niz>: na liniji 47
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 47
+INFO  21:55:44,813 - Pristup elementu niza <niz>: na liniji 47
+INFO  21:55:44,813 - Poziv globalne metode: na liniji 47
+ERROR 21:55:44,813 - Greska, operatori nisu celobrojnog tipa!: na liniji 47
+ERROR 21:55:44,813 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 47
+INFO  21:55:44,813 - Pristup simbolu <niz>: na liniji 48
+INFO  21:55:44,813 - Pristup elementu niza <niz>: na liniji 48
+INFO  21:55:44,813 - Pristup simbolu <ord>: na liniji 48
+INFO  21:55:44,813 - Poziv globalne metode: na liniji 48
+ERROR 21:55:44,813 - Greska, argument poziva metode mora biti odgovarajuceg tipa!: na liniji 48
+INFO  21:55:44,813 - Pristup simbolu <ord>: na liniji 49
+INFO  21:55:44,813 - Poziv globalne metode: na liniji 49
+ERROR 21:55:44,813 - Greska, argument poziva metode mora biti odgovarajuceg tipa!: na liniji 49
+INFO  21:55:44,813 - Pristup simbolu <eol>: na liniji 51
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 52
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 55
+INFO  21:55:44,813 - Pristup simbolu <i>: na liniji 57
+INFO  21:55:44,814 - Pristup simbolu <i>: na liniji 60
+INFO  21:55:44,814 - Pristup simbolu <i>: na liniji 61
+INFO  21:55:44,814 - Pristup simbolu <inkrement>: na liniji 61
+INFO  21:55:44,814 - Pristup simbolu <i>: na liniji 61
+INFO  21:55:44,814 - Poziv globalne metode: na liniji 61
+ERROR 21:55:44,814 - Greska, nekompatibilni tipovi u izrazu dodele!: na liniji 61
+INFO  21:55:44,814 - Pristup simbolu <i>: na liniji 64
+INFO  21:55:44,814 - Pristup simbolu <niz>: na liniji 67
+INFO  21:55:44,814 - Pristup elementu niza <niz>: na liniji 67
+INFO  21:55:44,814 - Pristup simbolu <niz>: na liniji 68
+INFO  21:55:44,814 - Pristup elementu niza <niz>: na liniji 68
+INFO  21:55:44,814 - Pristup simbolu <niz>: na liniji 69
+INFO  21:55:44,814 - Pristup elementu niza <niz>: na liniji 69
+INFO  21:55:44,814 - Pristup simbolu <eol>: na liniji 70
+INFO  21:55:44,814 - Pristup simbolu <sum>: na liniji 72
+INFO  21:55:44,814 - Pristup simbolu <sum>: na liniji 72
+INFO  21:55:44,814 - Pristup simbolu <niz>: na liniji 72
+INFO  21:55:44,814 - Pristup elementu niza <niz>: na liniji 72
+INFO  21:55:44,814 - Pristup simbolu <niz>: na liniji 72
+INFO  21:55:44,814 - Pristup elementu niza <niz>: na liniji 72
+INFO  21:55:44,814 - Poziv globalne metode: na liniji 72
+INFO  21:55:44,814 - Pristup simbolu <niz>: na liniji 72
+INFO  21:55:44,814 - Pristup elementu niza <niz>: na liniji 72
+INFO  21:55:44,814 - Poziv globalne metode: na liniji 72
+ERROR 21:55:44,814 - Greska, argument poziva metode mora biti odgovarajuceg tipa!: na liniji 72

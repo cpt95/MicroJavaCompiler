@@ -1,0 +1,62 @@
+INFO  23:51:13,307 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  23:51:13,368 - #6 program
+INFO  23:51:13,368 - #2 P
+INFO  23:51:13,369 - #2 int
+INFO  23:51:13,369 - #2 x
+INFO  23:51:13,370 - #20 ;
+INFO  23:51:13,370 - #2 int
+INFO  23:51:13,370 - #2 y
+INFO  23:51:13,370 - #20 ;
+INFO  23:51:13,370 - #7 {
+INFO  23:51:13,371 - #2 int
+INFO  23:51:13,371 - #2 k
+INFO  23:51:13,371 - #9 (
+INFO  23:51:13,371 - #10 )
+INFO  23:51:13,371 - #2 int
+INFO  23:51:13,372 - #2 c
+INFO  23:51:13,372 - #20 ;
+INFO  23:51:13,372 - #7 {
+INFO  23:51:13,372 - #2 c
+INFO  23:51:13,373 - #27 =
+INFO  23:51:13,374 - #3 0
+INFO  23:51:13,374 - #20 ;
+INFO  23:51:13,374 - #25 return
+INFO  23:51:13,375 - #2 c
+INFO  23:51:13,375 - #31 +
+INFO  23:51:13,375 - #3 3
+INFO  23:51:13,376 - #20 ;
+INFO  23:51:13,376 - #8 }
+INFO  23:51:13,376 - #2 int
+INFO  23:51:13,377 - #2 main
+INFO  23:51:13,377 - #9 (
+INFO  23:51:13,377 - #10 )
+INFO  23:51:13,377 - #7 {
+INFO  23:51:13,377 - #2 x
+INFO  23:51:13,377 - #27 =
+INFO  23:51:13,377 - #3 3
+INFO  23:51:13,377 - #20 ;
+INFO  23:51:13,377 - #26 print
+INFO  23:51:13,377 - #9 (
+INFO  23:51:13,377 - #5 c
+INFO  23:51:13,377 - #10 )
+INFO  23:51:13,378 - #20 ;
+INFO  23:51:13,378 - #26 print
+INFO  23:51:13,378 - #9 (
+INFO  23:51:13,378 - #3 2
+INFO  23:51:13,378 - #10 )
+INFO  23:51:13,378 - #20 ;
+INFO  23:51:13,378 - #25 return
+INFO  23:51:13,378 - #3 0
+INFO  23:51:13,378 - #20 ;
+INFO  23:51:13,379 - #8 }
+INFO  23:51:13,379 - #8 }
+INFO  23:51:13,386 - Deklarisana globalna promenljiva <x>: na liniji 2
+INFO  23:51:13,386 - Deklarisana globalna promenljiva <y>: na liniji 2
+INFO  23:51:13,386 - Obrada metode <k>: na liniji 4
+INFO  23:51:13,386 - Deklarisana lokalna promenljiva <c>: na liniji 5
+INFO  23:51:13,387 - Pristup simbolu <c>: na liniji 7
+INFO  23:51:13,387 - Pristup simbolu <c>: na liniji 8
+INFO  23:51:13,387 - Obrada metode <main>: na liniji 11
+INFO  23:51:13,388 - Pristup simbolu <x>: na liniji 12
+INFO  23:51:13,388 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  23:51:13,391 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,44 @@
+INFO  17:12:11,701 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  17:12:11,729 - #6 program
+INFO  17:12:11,729 - #2 test301
+INFO  17:12:11,729 - #28 const
+INFO  17:12:11,730 - #2 int
+INFO  17:12:11,730 - #2 jedan
+INFO  17:12:11,730 - #27 =
+INFO  17:12:11,730 - #3 1
+INFO  17:12:11,730 - #20 ;
+INFO  17:12:11,730 - #28 const
+INFO  17:12:11,730 - #2 int
+INFO  17:12:11,731 - #2 pet
+INFO  17:12:11,731 - #27 =
+INFO  17:12:11,731 - #3 5
+INFO  17:12:11,731 - #20 ;
+INFO  17:12:11,731 - #2 int
+INFO  17:12:11,731 - #2 niz
+INFO  17:12:11,731 - #13 [
+INFO  17:12:11,731 - #14 ]
+INFO  17:12:11,731 - #20 ;
+INFO  17:12:11,731 - #2 char
+INFO  17:12:11,731 - #2 nizch
+INFO  17:12:11,731 - #13 [
+INFO  17:12:11,732 - #14 ]
+INFO  17:12:11,732 - #20 ;
+INFO  17:12:11,732 - #7 {
+INFO  17:12:11,732 - #44 void
+INFO  17:12:11,732 - #2 main
+INFO  17:12:11,732 - #9 (
+INFO  17:12:11,732 - #10 )
+INFO  17:12:11,732 - #2 int
+INFO  17:12:11,732 - #2 bodovi
+INFO  17:12:11,732 - #20 ;
+INFO  17:12:11,733 - #7 {
+INFO  17:12:11,733 - #8 }
+INFO  17:12:11,733 - #8 }
+INFO  17:12:11,739 - Deklarisana simbolicka konstanta <jedan>: na liniji 5
+INFO  17:12:11,740 - Deklarisana simbolicka konstanta <pet>: na liniji 6
+INFO  17:12:11,740 - Deklarisana globalna promenljiva <niz>: na liniji 8
+INFO  17:12:11,740 - Deklarisana globalna promenljiva <nizch>: na liniji 10
+INFO  17:12:11,740 - Obrada metode <main>: na liniji 13
+INFO  17:12:11,740 - Deklarisana lokalna promenljiva <bodovi>: na liniji 14
+INFO  17:12:11,740 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  17:12:11,745 - Parsiranje uspesno zavrseno!

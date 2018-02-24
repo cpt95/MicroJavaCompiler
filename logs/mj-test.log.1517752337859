@@ -1,0 +1,72 @@
+INFO  00:12:04,305 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  00:12:04,334 - #6 program
+INFO  00:12:04,334 - #2 P
+INFO  00:12:04,334 - #2 int
+INFO  00:12:04,335 - #2 x
+INFO  00:12:04,335 - #20 ;
+INFO  00:12:04,335 - #2 int
+INFO  00:12:04,336 - #2 y
+INFO  00:12:04,336 - #20 ;
+INFO  00:12:04,336 - #7 {
+INFO  00:12:04,336 - #2 int
+INFO  00:12:04,336 - #2 k
+INFO  00:12:04,336 - #9 (
+INFO  00:12:04,336 - #10 )
+INFO  00:12:04,336 - #2 int
+INFO  00:12:04,337 - #2 c
+INFO  00:12:04,337 - #20 ;
+INFO  00:12:04,337 - #7 {
+INFO  00:12:04,337 - #2 c
+INFO  00:12:04,337 - #27 =
+INFO  00:12:04,338 - #3 0
+INFO  00:12:04,338 - #20 ;
+INFO  00:12:04,338 - #26 print
+INFO  00:12:04,339 - #9 (
+INFO  00:12:04,339 - #3 0
+INFO  00:12:04,339 - #10 )
+INFO  00:12:04,339 - #20 ;
+INFO  00:12:04,339 - #25 return
+INFO  00:12:04,339 - #2 c
+INFO  00:12:04,339 - #31 +
+INFO  00:12:04,340 - #3 3
+INFO  00:12:04,340 - #20 ;
+INFO  00:12:04,341 - #8 }
+INFO  00:12:04,341 - #2 int
+INFO  00:12:04,341 - #2 main
+INFO  00:12:04,341 - #9 (
+INFO  00:12:04,341 - #10 )
+INFO  00:12:04,341 - #7 {
+INFO  00:12:04,341 - #2 x
+INFO  00:12:04,341 - #27 =
+INFO  00:12:04,341 - #3 3
+INFO  00:12:04,341 - #20 ;
+INFO  00:12:04,341 - #26 print
+INFO  00:12:04,341 - #9 (
+INFO  00:12:04,342 - #3 3
+INFO  00:12:04,342 - #10 )
+INFO  00:12:04,342 - #20 ;
+INFO  00:12:04,342 - #26 print
+INFO  00:12:04,342 - #9 (
+INFO  00:12:04,342 - #3 2
+INFO  00:12:04,342 - #10 )
+INFO  00:12:04,342 - #20 ;
+INFO  00:12:04,342 - #2 k
+INFO  00:12:04,342 - #9 (
+INFO  00:12:04,342 - #10 )
+INFO  00:12:04,343 - #20 ;
+INFO  00:12:04,343 - #25 return
+INFO  00:12:04,343 - #3 0
+INFO  00:12:04,343 - #20 ;
+INFO  00:12:04,343 - #8 }
+INFO  00:12:04,344 - #8 }
+INFO  00:12:04,351 - Deklarisana globalna promenljiva <x>: na liniji 2
+INFO  00:12:04,351 - Deklarisana globalna promenljiva <y>: na liniji 2
+INFO  00:12:04,351 - Obrada metode <k>: na liniji 4
+INFO  00:12:04,351 - Deklarisana lokalna promenljiva <c>: na liniji 5
+INFO  00:12:04,351 - Pristup simbolu <c>: na liniji 7
+INFO  00:12:04,352 - Pristup simbolu <c>: na liniji 9
+INFO  00:12:04,352 - Obrada metode <main>: na liniji 12
+INFO  00:12:04,352 - Pristup simbolu <x>: na liniji 13
+INFO  00:12:04,352 - Pristup simbolu <k>: na liniji 16
+INFO  00:12:04,352 - Generating bytecode file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.obj
+INFO  00:12:04,358 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,123 @@
+INFO  23:25:00,803 - Compiling source file: D:\Fakultet\PP1\workspace\MJCompiler\test\program.mj
+INFO  23:25:00,836 - #6 program
+INFO  23:25:00,836 - #2 P
+INFO  23:25:00,836 - #28 const
+INFO  23:25:00,837 - #2 int
+INFO  23:25:00,837 - #2 size
+INFO  23:25:00,837 - #27 =
+INFO  23:25:00,837 - #3 10
+INFO  23:25:00,837 - #20 ;
+INFO  23:25:00,837 - #28 const
+INFO  23:25:00,838 - #2 int
+INFO  23:25:00,838 - #2 si
+INFO  23:25:00,838 - #27 =
+INFO  23:25:00,838 - #5 t
+INFO  23:25:00,838 - #20 ;
+INFO  23:25:00,838 - #28 const
+INFO  23:25:00,838 - #2 bool
+INFO  23:25:00,838 - #2 b
+INFO  23:25:00,838 - #27 =
+INFO  23:25:00,838 - #4 false
+INFO  23:25:00,838 - #20 ;
+INFO  23:25:00,839 - #2 int
+INFO  23:25:00,839 - #2 f
+INFO  23:25:00,839 - #20 ;
+INFO  23:25:00,839 - #19 class
+INFO  23:25:00,839 - #2 Klasa
+INFO  23:25:00,839 - #12 extends
+INFO  23:25:00,840 - #2 int
+INFO  23:25:00,840 - #7 {
+INFO  23:25:00,840 - #2 int
+INFO  23:25:00,840 - #2 niz
+INFO  23:25:00,840 - #13 [
+INFO  23:25:00,840 - #14 ]
+INFO  23:25:00,840 - #20 ;
+INFO  23:25:00,840 - #7 {
+INFO  23:25:00,841 - #44 void
+INFO  23:25:00,841 - #2 metoda1
+INFO  23:25:00,841 - #9 (
+INFO  23:25:00,841 - #2 int
+INFO  23:25:00,841 - #2 x
+INFO  23:25:00,841 - #11 ,
+INFO  23:25:00,841 - #2 char
+INFO  23:25:00,841 - #2 p
+INFO  23:25:00,841 - #10 )
+INFO  23:25:00,841 - #7 {
+INFO  23:25:00,842 - #2 niz
+INFO  23:25:00,842 - #13 [
+INFO  23:25:00,842 - #3 2
+INFO  23:25:00,843 - #14 ]
+INFO  23:25:00,843 - #27 =
+INFO  23:25:00,843 - #3 2
+INFO  23:25:00,843 - #33 *
+INFO  23:25:00,843 - #2 x
+INFO  23:25:00,844 - #30 -
+INFO  23:25:00,844 - #9 (
+INFO  23:25:00,845 - #2 x
+INFO  23:25:00,845 - #34 /
+INFO  23:25:00,845 - #3 3
+INFO  23:25:00,845 - #10 )
+INFO  23:25:00,845 - #33 *
+INFO  23:25:00,846 - #3 3
+INFO  23:25:00,846 - #30 -
+INFO  23:25:00,846 - #3 1
+INFO  23:25:00,846 - #20 ;
+INFO  23:25:00,847 - #2 niz
+INFO  23:25:00,847 - #13 [
+INFO  23:25:00,847 - #2 x
+INFO  23:25:00,847 - #14 ]
+INFO  23:25:00,847 - #27 =
+INFO  23:25:00,847 - #2 p
+INFO  23:25:00,847 - #20 ;
+INFO  23:25:00,847 - #2 niz
+INFO  23:25:00,847 - #13 [
+INFO  23:25:00,847 - #2 x
+INFO  23:25:00,847 - #31 +
+INFO  23:25:00,847 - #3 2
+INFO  23:25:00,848 - #30 -
+INFO  23:25:00,848 - #9 (
+INFO  23:25:00,848 - #3 9
+INFO  23:25:00,848 - #34 /
+INFO  23:25:00,848 - #3 3
+INFO  23:25:00,848 - #10 )
+INFO  23:25:00,848 - #33 *
+INFO  23:25:00,848 - #2 x
+INFO  23:25:00,848 - #14 ]
+INFO  23:25:00,848 - #27 =
+INFO  23:25:00,848 - #2 x
+INFO  23:25:00,848 - #33 *
+INFO  23:25:00,848 - #2 p
+INFO  23:25:00,848 - #30 -
+INFO  23:25:00,848 - #3 4
+INFO  23:25:00,848 - #20 ;
+INFO  23:25:00,848 - #8 }
+INFO  23:25:00,848 - #8 }
+INFO  23:25:00,849 - #8 }
+INFO  23:25:00,849 - #7 {
+INFO  23:25:00,850 - #8 }
+INFO  23:25:00,856 - Deklarisana simbolicka konstanta <size>: na liniji 2
+ERROR 23:25:00,856 - Greska prilikom dodele vrednosti promenljivoj <si>, tipovi se ne poklapaju: na liniji 3
+INFO  23:25:00,856 - Deklarisana simbolicka konstanta <b>: na liniji 4
+INFO  23:25:00,856 - Deklarisana globalna promenljiva <f>: na liniji 5
+INFO  23:25:00,856 - Deklarisana klasa <Klasa>: na liniji 6
+ERROR 23:25:00,856 - Klasa ne moze nasledjivati tipa <int>, jer nije klasni: na liniji 6
+INFO  23:25:00,856 - Deklarisano polje klase, niz <niz>: na liniji 7
+INFO  23:25:00,856 - Obrada metode <metoda1>: na liniji 9
+INFO  23:25:00,857 - Pristup simbolu <niz>: na liniji 11
+INFO  23:25:00,857 - Pristup elementu niza <niz>: na liniji 11
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 11
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 11
+INFO  23:25:00,857 - Pristup simbolu <niz>: na liniji 12
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 12
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 12
+INFO  23:25:00,857 - Pristup elementu niza <x>: na liniji 12
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <p>: na liniji 12
+INFO  23:25:00,857 - Pristup simbolu <niz>: na liniji 13
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  23:25:00,857 - Pristup elementu niza <x>: na liniji 13
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <x>: na liniji 13
+INFO  23:25:00,857 - Koriscenje formalnog argumenta funkcije <p>: na liniji 13
+ERROR 23:25:00,857 - Greska, operatori se moraju slagati po tipu!: na liniji 13
+ERROR 23:25:00,858 - Nekompatibilni operatori!: na liniji 13
